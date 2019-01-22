@@ -1,149 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TUNISIE_NAT1_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll TUNISIE_NAT1_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TUNISIE_NAT2_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll TUNISIE_NAT2_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Elhiwar_Ettounsi" tvg-logo="", ll www.iptv-m3u-playlist.com ll Elhiwar_Ettounsi
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ATTESSIA_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ATTESSIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/56.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ZITOUNA" tvg-logo="", ll www.iptv-m3u-playlist.com ll ZITOUNA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Dzair_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Dzair_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/93.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Aouala" tvg-logo="", ll www.iptv-m3u-playlist.com ll Aouala
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll 2M_MAROC" tvg-logo="", ll www.iptv-m3u-playlist.com ll 2M_MAROC
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll medi1afrique" tvg-logo="", ll www.iptv-m3u-playlist.com ll medi1afrique
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Libya_Hadash" tvg-logo="", ll www.iptv-m3u-playlist.com ll Libya_Hadash
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Libya_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Libya_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Libya_One" tvg-logo="", ll www.iptv-m3u-playlist.com ll Libya_One
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/78.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Libya218" tvg-logo="", ll www.iptv-m3u-playlist.com ll Libya218
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Libya_24" tvg-logo="", ll www.iptv-m3u-playlist.com ll Libya_24
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/80.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll MBC_1" tvg-logo="", ll www.iptv-m3u-playlist.com ll MBC_1
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll MBC_2" tvg-logo="", ll www.iptv-m3u-playlist.com ll MBC_2
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll MBC_4" tvg-logo="", ll www.iptv-m3u-playlist.com ll MBC_4
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll MTV_lebenon" tvg-logo="", ll www.iptv-m3u-playlist.com ll MTV_lebenon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ROTANA_KHALIJIA_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ROTANA_KHALIJIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BAHRAIN_SPORTS" tvg-logo="", ll www.iptv-m3u-playlist.com ll BAHRAIN_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BAHRAIN_QURAN" tvg-logo="", ll www.iptv-m3u-playlist.com ll BAHRAIN_QURAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/139.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BAHRAIN_INTERNATIONAL" tvg-logo="", ll www.iptv-m3u-playlist.com ll BAHRAIN_INTERNATIONAL
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TOYOR_ALJANAH" tvg-logo="", ll www.iptv-m3u-playlist.com ll TOYOR_ALJANAH
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BAHRAIN_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll BAHRAIN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Al_Jazeera_Documentaire" tvg-logo="", ll www.iptv-m3u-playlist.com ll Al_Jazeera_Documentaire
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Al_Arabiya" tvg-logo="", ll www.iptv-m3u-playlist.com ll Al_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Al_Hadath" tvg-logo="", ll www.iptv-m3u-playlist.com ll Al_Hadath
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll FRANCE_24_AR" tvg-logo="", ll www.iptv-m3u-playlist.com ll FRANCE_24_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Sky_News_Arabic" tvg-logo="", ll www.iptv-m3u-playlist.com ll Sky_News_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BBC_Arabic" tvg-logo="", ll www.iptv-m3u-playlist.com ll BBC_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ALAAN_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ALAAN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll RUSSIA ALYAOUM_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll RUSSIA ALYAOUM_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll hiwar_news" tvg-logo="", ll www.iptv-m3u-playlist.com ll hiwar_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Alalam_news" tvg-logo="", ll www.iptv-m3u-playlist.com ll Alalam_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_ALIKHBARIYA_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_ALIKHBARIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Space_Toon" tvg-logo="", ll www.iptv-m3u-playlist.com ll Space_Toon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Majed_Kids" tvg-logo="", ll www.iptv-m3u-playlist.com ll Majed_Kids
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Iqraa" tvg-logo="", ll www.iptv-m3u-playlist.com ll Iqraa
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/68.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Makkah_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Makkah_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_SONNA_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_SONNA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/5.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_QURAN_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_QURAN_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/4.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_THAKAFIYA_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_THAKAFIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/6.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_ONE_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_ONE_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ABUDHABI_Emirat" tvg-logo="", ll www.iptv-m3u-playlist.com ll ABUDHABI_Emirat
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll AD_Drama" tvg-logo="", ll www.iptv-m3u-playlist.com ll AD_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll CBC_Drama" tvg-logo="", ll www.iptv-m3u-playlist.com ll CBC_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Nahar_Drama_Egypt" tvg-logo="", ll www.iptv-m3u-playlist.com ll Nahar_Drama_Egypt
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Palestine" tvg-logo="", ll www.iptv-m3u-playlist.com ll Palestine
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/101.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ALMAYADEEN_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ALMAYADEEN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TRT_Arabiya" tvg-logo="", ll www.iptv-m3u-playlist.com ll TRT_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/73.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Nahar_TV_Egypt" tvg-logo="", ll www.iptv-m3u-playlist.com ll Nahar_TV_Egypt
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Jordon_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Jordon_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/74.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ALCHARQIYA" tvg-logo="", ll www.iptv-m3u-playlist.com ll ALCHARQIYA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/98.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Al_Manar_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Al_Manar_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ALRAI_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ALRAI_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Syrian_Drama" tvg-logo="", ll www.iptv-m3u-playlist.com ll Syrian_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAMA_SYRIA" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAMA_SYRIA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SHARQIYA_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll SHARQIYA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ON_E" tvg-logo="", ll www.iptv-m3u-playlist.com ll ON_E
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Qatar_TV_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Qatar_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ABU_DHABI_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll ABU_DHABI_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_2_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_1_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/2.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAMA_DUBAI_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAMA_DUBAI_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll NOUR_DUBAI" tvg-logo="", ll www.iptv-m3u-playlist.com ll NOUR_DUBAI
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll FUTURE_TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll FUTURE_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DW_AR" tvg-logo="", ll www.iptv-m3u-playlist.com ll DW_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_ZAMAN" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_ZAMAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_TV_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SHARJAH_SPORTS" tvg-logo="", ll www.iptv-m3u-playlist.com ll SHARJAH_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll SAUDI_RIYADHIYA_1_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll SAUDI_RIYADHIYA_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/9.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_RACING_1_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_RACING_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_RACING_2_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_RACING_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll DUBAI_SPORTS_3_HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll DUBAI_SPORTS_3_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
+#EXTINF:-1,Bein 1 AR 1080p
+http://212.8.243.9:80/adnan/123456/9271
+#EXTINF:-1,Bein 2 AR 1080p
+http://212.8.243.9:80/adnan/123456/9270
+#EXTINF:-1,Bein 3 AR 1080p
+http://212.8.243.9:80/adnan/123456/9269
+#EXTINF:-1,Bein 4 AR 1080p
+http://212.8.243.9:80/adnan/123456/9268
+#EXTINF:-1,Bein 5 AR 1080p
+http://212.8.243.9:80/adnan/123456/9267
+#EXTINF:-1,Bein 6 AR 1080p
+http://212.8.243.9:80/adnan/123456/9266
+#EXTINF:-1,Bein 7 AR 1080p
+http://212.8.243.9:80/adnan/123456/9265
+#EXTINF:-1,Bein 8 AR 1080p
+http://212.8.243.9:80/adnan/123456/9264
+#EXTINF:-1,Bein 9 AR 1080p
+http://212.8.243.9:80/adnan/123456/1707
+#EXTINF:-1,Bein 10 AR 1080p
+http://212.8.243.9:80/adnan/123456/1799
+#EXTINF:-1,Bein 11 AR 1080p
+http://212.8.243.9:80/adnan/123456/2160
+#EXTINF:-1,Bein 12 AR 1080p
+http://212.8.243.9:80/adnan/123456/2161
+#EXTINF:-1,Bein 13 AR 1080p
+http://212.8.243.9:80/adnan/123456/2673
+#EXTINF:-1,Bein 14 AR 1080p
+http://212.8.243.9:80/adnan/123456/22439
+#EXTINF:-1,Bein 15 AR 1080p
+http://212.8.243.9:80/adnan/123456/22440
+#EXTINF:-1,Bein 16 AR 1080p
+http://212.8.243.9:80/adnan/123456/22441
+#EXTINF:-1,Bein 17 AR 1080p
+http://212.8.243.9:80/adnan/123456/22442
+#EXTINF:-1,Bein NBA 1080p
+http://212.8.243.9:80/adnan/123456/22443
+#EXTINF:-1,BEIN 1 AR 540p
+http://212.8.243.9:80/adnan/123456/9263
+#EXTINF:-1,BEIN 2 AR 540P
+http://212.8.243.9:80/adnan/123456/9262
+#EXTINF:-1,BEIN 3 AR 540P
+http://212.8.243.9:80/adnan/123456/9261
+#EXTINF:-1,BEIN 4 AR 540P
+http://212.8.243.9:80/adnan/123456/9260
+#EXTINF:-1,BEIN 5 AR 540p
+http://212.8.243.9:80/adnan/123456/9259
+#EXTINF:-1,BEIN 6 AR 540p
+http://212.8.243.9:80/adnan/123456/9258
+#EXTINF:-1,BEIN 7 AR 540p
+http://212.8.243.9:80/adnan/123456/9257
+#EXTINF:-1,BEIN 8 AR 540p
+http://212.8.243.9:80/adnan/123456/9256
+#EXTINF:-1,BEIN 1 AR 720p
+http://212.8.243.9:80/adnan/123456/9323
+#EXTINF:-1,BEIN 2 AR 720p
+http://212.8.243.9:80/adnan/123456/9322
+#EXTINF:-1,BEIN 3 AR 720p
+http://212.8.243.9:80/adnan/123456/9321
+#EXTINF:-1,BEIN 4 AR 720p
+http://212.8.243.9:80/adnan/123456/9320
+#EXTINF:-1,BEIN 5 AR 720p
+http://212.8.243.9:80/adnan/123456/9319
+#EXTINF:-1,BEIN 6 AR 720p
+http://212.8.243.9:80/adnan/123456/9318
+#EXTINF:-1,BEIN 7 AR 720p
+http://212.8.243.9:80/adnan/123456/9317
+#EXTINF:-1,BEIN 8 AR 720p
+http://212.8.243.9:80/adnan/123456/9316
