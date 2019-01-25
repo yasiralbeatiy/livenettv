@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tESt
+https://tempb05.faselhd.cc/stream/hls/05/1548374400/b4bba0bb24e162ec3e1939c6f52773f0/v.mp4/seg-16-v1-a1.ts
 #EXTINF:-1,beIN Sports Max 1 HD (AR)
 http://www.freeiptvdaily.net:8000/live/314GleLsUw/freeiptvdaily.tv/21.ts
 #EXTINF:-1,beIN Sports Max 2 HD (AR)
