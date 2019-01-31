@@ -1,167 +1,3773 @@
 #EXTM3U
-#EXTINF:-1,UK - BBC ONE
-http://voxtv.dynns.com:8000/UKC/UKC2018/412
-#EXTINF:-1,UK - BBC TWO
-http://voxtv.dynns.com:8000/UKC/UKC2018/413
-#EXTINF:-1,UK - BBC THREE/CBBC
-http://voxtv.dynns.com:8000/UKC/UKC2018/388
-#EXTINF:-1,UK - ITV 1
-http://voxtv.dynns.com:8000/UKC/UKC2018/414
-#EXTINF:-1,UK - ITV 2
-http://voxtv.dynns.com:8000/UKC/UKC2018/379
-#EXTINF:-1,UK - ITV 3
-http://voxtv.dynns.com:8000/UKC/UKC2018/380
-#EXTINF:-1,UK - ITV 4
-http://voxtv.dynns.com:8000/UKC/UKC2018/381
-#EXTINF:-1,UKHD  - Al Jazeera News HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5628
-#EXTINF:-1,UK - 5 STAR
-http://voxtv.dynns.com:8000/UKC/UKC2018/452
-#EXTINF:-1,UK - 5USA
-http://voxtv.dynns.com:8000/UKC/UKC2018/1623
-#EXTINF:-1,UK - DAVE JA VU
-http://voxtv.dynns.com:8000/UKC/UKC2018/1694
-#EXTINF:-1,UKN - BBC NEWS
-http://voxtv.dynns.com:8000/UKC/UKC2018/391
-#EXTINF:-1,UK - REALLY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1784
-#EXTINF:-1,UKN - SKY NEWS
-http://voxtv.dynns.com:8000/UKC/UKC2018/400
-#EXTINF:-1,UK - CBS DRAMA HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/402
-#EXTINF:-1,UK - DRAMA
-http://voxtv.dynns.com:8000/UKC/UKC2018/1704
-#EXTINF:-1,UK - W +1
-http://voxtv.dynns.com:8000/UKC/UKC2018/1838
-#EXTINF:-1,UK - QUEST
-http://voxtv.dynns.com:8000/UKC/UKC2018/458
-#EXTINF:-1,UK - YESTERDAY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1841
-#EXTINF:-1,UK - HOME
-http://voxtv.dynns.com:8000/UKC/UKC2018/1727
-#EXTINF:-1,UK - MORE4
-http://voxtv.dynns.com:8000/UKC/UKC2018/378
-#EXTINF:-1,UKM - Film 4
-http://voxtv.dynns.com:8000/UKC/UKC2018/1906
-#EXTINF:-1,UK - ALIBI
-http://voxtv.dynns.com:8000/UKC/UKC2018/403
-#EXTINF:-1,UKSHD  - BT SPORT 1 HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1651
-#EXTINF:-1,UKS - BT SPORT EXTRA 2
-http://voxtv.dynns.com:8000/UKC/UKC2018/1658
-#EXTINF:-1,UKS - SKY SPORTS MAIN EVENTS HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1843
-#EXTINF:-1,UKS - SKY SPORT CRICKET HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/198
-#EXTINF:-1,UKS - SKY SPORTS ACTION HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/199
-#EXTINF:-1,UKS - SKY SPORTS GOLF HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/200
-#EXTINF:-1,UKS - SKY SPORTS FOOTBALL HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/201
-#EXTINF:-1,UKD - DISCOVERY CHANNEL
-http://voxtv.dynns.com:8000/UKC/UKC2018/440
-#EXTINF:-1,UKD - NATIONAL GEOGRAPHIC
-http://voxtv.dynns.com:8000/UKC/UKC2018/1759
-#EXTINF:-1,UK - NAT GEO WILD
-http://voxtv.dynns.com:8000/UKC/UKC2018/439
-#EXTINF:-1,UK - HISTORY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1725
-#EXTINF:-1,UKD - H2
-http://voxtv.dynns.com:8000/UKC/UKC2018/1722
-#EXTINF:-1,UK - GOLD
-http://voxtv.dynns.com:8000/UKC/UKC2018/421
-#EXTINF:-1,UKS - AT THE RACE
-http://voxtv.dynns.com:8000/UKC/UKC2018/211
-#EXTINF:-1,UK - SKY MOVIES PREMIERE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1793
-#EXTINF:-1,UKHD  - SKY CINEMA ACTION & ADVENTURE HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1796
-#EXTINF:-1,UKHD  - SKY MOVIES CRIME & THRILLER
-http://voxtv.dynns.com:8000/UKC/UKC2018/1809
-#EXTINF:-1,UKHD  - SKY CINEMA DISNEY HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1800
-#EXTINF:-1,UKHD  - SKY CINEMA FAMILY HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1803
-#EXTINF:-1,UKHD - SKY CINEMA COMEDY HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1797
-#EXTINF:-1,UKHD - Sky Cinema Sci-Fi & Horror HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5660
-#EXTINF:-1,UKM - SKY CINEMA DRAMA & ROMANCE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1802
-#EXTINF:-1,UKM - SKY CINEMA SELECT
-http://voxtv.dynns.com:8000/UKC/UKC2018/1808
-#EXTINF:-1,UK - CHANNEL 4
-http://voxtv.dynns.com:8000/UKC/UKC2018/415
-#EXTINF:-1,UK - CHANNEL 5
-http://voxtv.dynns.com:8000/UKC/UKC2018/416
-#EXTINF:-1,UKHD - Sky Arts 1 HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5644
-#EXTINF:-1,UKHD - SKY LIVING
-http://voxtv.dynns.com:8000/UKC/UKC2018/420
-#EXTINF:-1,UK - TLC
-http://voxtv.dynns.com:8000/UKC/UKC2018/424
-#EXTINF:-1,UK - COMEDY CENTRAL HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/2276
-#EXTINF:-1,UKD - FOOD NETWORK
-http://voxtv.dynns.com:8000/UKC/UKC2018/1715
-#EXTINF:-1,UKHD  - Crime & Investigation HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5633
-#EXTINF:-1,UKD - ANIMAL PLANET
-http://voxtv.dynns.com:8000/UKC/UKC2018/1627
-#EXTINF:-1,UK - SKY 1
-http://voxtv.dynns.com:8000/UKC/UKC2018/1810
-#EXTINF:-1,UK - SKY TWO
-http://voxtv.dynns.com:8000/UKC/UKC2018/1789
-#EXTINF:-1,SP - EURO SPORTS 1
-http://voxtv.dynns.com:8000/UKC/UKC2018/209
-#EXTINF:-1,SP - EURO SPORTS 2
-http://voxtv.dynns.com:8000/UKC/UKC2018/210
-#EXTINF:-1,UKS - SKY SPORTS NEWS
-http://voxtv.dynns.com:8000/UKC/UKC2018/203
-#EXTINF:-1,UKS - SKY SPORTS  F1 HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1853
-#EXTINF:-1,UK - RTE 1
-http://voxtv.dynns.com:8000/UKC/UKC2018/453
-#EXTINF:-1,UK - RTE 2
-http://voxtv.dynns.com:8000/UKC/UKC2018/454
-#EXTINF:-1,UKHD - RTE One HD IE
-http://voxtv.dynns.com:8000/UKC/UKC2018/5642
-#EXTINF:-1,UKHD - RTE Two HD IE
-http://voxtv.dynns.com:8000/UKC/UKC2018/5643
-#EXTINF:-1,UK - CBS REALITY
-http://voxtv.dynns.com:8000/UKC/UKC2018/392
-#EXTINF:-1,SP - PREMIER SPORTS
-http://voxtv.dynns.com:8000/UKC/UKC2018/212
-#EXTINF:-1,UKD - DISCOVERY HISTORY
-http://voxtv.dynns.com:8000/UKC/UKC2018/441
-#EXTINF:-1,UKD - DISCOVERY SCIENCE
-http://voxtv.dynns.com:8000/UKC/UKC2018/442
-#EXTINF:-1,UKD - DISCOVERY TURBO
-http://voxtv.dynns.com:8000/UKC/UKC2018/1700
-#EXTINF:-1,UKN - CNBC
-http://voxtv.dynns.com:8000/UKC/UKC2018/398
-#EXTINF:-1,UKHD - CBEEBIES HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1672
-#EXTINF:-1,UKK - CARTOON NETWORK
-http://voxtv.dynns.com:8000/UKC/UKC2018/450
-#EXTINF:-1,SP - BT 3
-http://voxtv.dynns.com:8000/UKC/UKC2018/824
-#EXTINF:-1,UK - ESPN
-http://voxtv.dynns.com:8000/UKC/UKC2018/2430
-#EXTINF:-1,SP - TV 3 SPORTS
-http://voxtv.dynns.com:8000/UKC/UKC2018/459
-#EXTINF:-1,UK - TG4
-http://voxtv.dynns.com:8000/UKC/UKC2018/1816
-#EXTINF:-1,UKHD  - Disney Junior HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5634
-#EXTINF:-1,SP - MUTV
-http://voxtv.dynns.com:8000/UKC/UKC2018/470
-#EXTINF:-1,UK - CBS ACTION
-http://voxtv.dynns.com:8000/UKC/UKC2018/401
-#EXTINF:-1,UKHD - SKY ATLANTIC
-http://voxtv.dynns.com:8000/UKC/UKC2018/419
 
+#EXTINF:-1,24/7 Casados con Hijos
+http://tv.asplay.club:25461/marcol/marcol/9151
+#EXTINF:-1,24/7 No Toca Boton (CH)
+http://tv.asplay.club:25461/marcol/marcol/8799
+#EXTINF:-1,24/7 Los Simpson (Premium)
+http://tv.asplay.club:25461/marcol/marcol/8857
+#EXTINF:-1,24/7 Ranma 1/2
+http://tv.asplay.club:25461/marcol/marcol/8794
+#EXTINF:-1,24/7 Peppa Pig en Español  (CH)
+http://tv.asplay.club:25461/marcol/marcol/8850
+#EXTINF:-1,24/7 Chapulin Colorado (CH)
+http://tv.asplay.club:25461/marcol/marcol/8082
+#EXTINF:-1,24/7 El Chavo del 8
+http://tv.asplay.club:25461/marcol/marcol/8775
+#EXTINF:-1,24/7 GRIZZY AND THE LEMMINGS
+http://tv.asplay.club:25461/marcol/marcol/8339
+#EXTINF:-1,24/7 Dragon Ball Super b
+http://tv.asplay.club:25461/marcol/marcol/8793
+#EXTINF:-1,24/7 FUTURAMA
+http://tv.asplay.club:25461/marcol/marcol/9163
+#EXTINF:-1,24/7 WWE P
+http://tv.asplay.club:25461/marcol/marcol/9165
+#EXTINF:-1,24/7 BROMAS PESADAS BRASIL
+http://tv.asplay.club:25461/marcol/marcol/9166
+#EXTINF:-1,24/7 PLAY COMEDIA
+http://tv.asplay.club:25461/marcol/marcol/9172
+#EXTINF:-1,24/7 PLAY ACCION
+http://tv.asplay.club:25461/marcol/marcol/9173
+#EXTINF:-1,24/7 POCOYO
+http://tv.asplay.club:25461/marcol/marcol/9192
+#EXTINF:-1,24/7 PLAY ANIMACION
+http://tv.asplay.club:25461/marcol/marcol/9191
+#EXTINF:-1,24/7 LOONEY TUNES
+http://tv.asplay.club:25461/marcol/marcol/9272
+#EXTINF:-1,24/7 tom and jerry
+http://tv.asplay.club:25461/marcol/marcol/9273
+#EXTINF:-1,24/7 LOS PICAPIEDRAS
+http://tv.asplay.club:25461/marcol/marcol/9274
+#EXTINF:-1,24/7 ENCHUFE TV
+http://tv.asplay.club:25461/marcol/marcol/9167
+#EXTINF:-1,24/7 VIVOS
+http://tv.asplay.club:25461/marcol/marcol/9287
+#EXTINF:-1,24/7 Películas de Acción CH2 (P)
+http://tv.asplay.club:25461/marcol/marcol/7587
+#EXTINF:-1,24/7 CASO CERRADO
+http://tv.asplay.club:25461/marcol/marcol/9288
+#EXTINF:-1,24/7 CUENTOS DE LA CRIPTA
+http://tv.asplay.club:25461/marcol/marcol/9290
+#EXTINF:-1,24/7 LOS SIMPSONS HD
+http://tv.asplay.club:25461/marcol/marcol/9291
+#EXTINF:-1,24/7 LOS TRES CHIFLADOS
+http://tv.asplay.club:25461/marcol/marcol/9311
+#EXTINF:-1,24/7 DRAGON BALL
+http://tv.asplay.club:25461/marcol/marcol/9486
+#EXTINF:-1,24/7 DRAGON BALL GT
+http://tv.asplay.club:25461/marcol/marcol/9488
+#EXTINF:-1,24/7 DRAGON BALL Z
+http://tv.asplay.club:25461/marcol/marcol/9487
+#EXTINF:-1,24/7 ALF SD
+http://tv.asplay.club:25461/marcol/marcol/9675
+#EXTINF:-1,24/7 BOB ESPONJA
+http://tv.asplay.club:25461/marcol/marcol/9674
+#EXTINF:-1,24/7 CORAJE EL PERRO COBARDE
+http://tv.asplay.club:25461/marcol/marcol/9676
+#EXTINF:-1,24/7 DERBEZ
+http://tv.asplay.club:25461/marcol/marcol/9677
+#EXTINF:-1,ADN 40
+http://tv.asplay.club:25461/marcol/marcol/7781
+#EXTINF:-1,A&E SD
+http://tv.asplay.club:25461/marcol/marcol/6455
+#EXTINF:-1,AR: Canal 7 Mendoza
+http://tv.asplay.club:25461/marcol/marcol/10035
+#EXTINF:-1,AFIZZINADOS HD
+http://tv.asplay.club:25461/marcol/marcol/7912
+#EXTINF:-1,AFIZZINADOS 1080
+http://tv.asplay.club:25461/marcol/marcol/8062
+#EXTINF:-1,ES: BARCA TV
+http://tv.asplay.club:25461/marcol/marcol/9673
+#EXTINF:-1,BR: Warner Channel HD
+http://tv.asplay.club:25461/marcol/marcol/9708
+#EXTINF:-1,BR: Universal Channel
+http://tv.asplay.club:25461/marcol/marcol/9709
+#EXTINF:-1,BR: A&E HD
+http://tv.asplay.club:25461/marcol/marcol/9768
+#EXTINF:-1,BR: AMC HD
+http://tv.asplay.club:25461/marcol/marcol/9767
+#EXTINF:-1,BR: Animal Planet HD
+http://tv.asplay.club:25461/marcol/marcol/9766
+#EXTINF:-1,BR: AXN HD
+http://tv.asplay.club:25461/marcol/marcol/9765
+#EXTINF:-1,BR: Band
+http://tv.asplay.club:25461/marcol/marcol/9764
+#EXTINF:-1,BR: Band News HD
+http://tv.asplay.club:25461/marcol/marcol/9763
+#EXTINF:-1,BR: Band Sports
+http://tv.asplay.club:25461/marcol/marcol/9762
+#EXTINF:-1,BR: BOOMERANG
+http://tv.asplay.club:25461/marcol/marcol/9761
+#EXTINF:-1,BR: Canal Off HD
+http://tv.asplay.club:25461/marcol/marcol/9760
+#EXTINF:-1,BR: Canal Rural
+http://tv.asplay.club:25461/marcol/marcol/9707
+#EXTINF:-1,BR: Cinemax
+http://tv.asplay.club:25461/marcol/marcol/9759
+#EXTINF:-1,BR: Combate HD
+http://tv.asplay.club:25461/marcol/marcol/9758
+#EXTINF:-1,BR: Discovery Channel  HD
+http://tv.asplay.club:25461/marcol/marcol/9757
+#EXTINF:-1,BR: Discovery Kids HD
+http://tv.asplay.club:25461/marcol/marcol/9756
+#EXTINF:-1,BR: Discovery Turbo HD
+http://tv.asplay.club:25461/marcol/marcol/9755
+#EXTINF:-1,BR: Disney junior
+http://tv.asplay.club:25461/marcol/marcol/9754
+#EXTINF:-1,BR: Disney XD
+http://tv.asplay.club:25461/marcol/marcol/9753
+#EXTINF:-1,BR: E! Entertainment
+http://tv.asplay.club:25461/marcol/marcol/9752
+#EXTINF:-1,BR: ESPN 2
+http://tv.asplay.club:25461/marcol/marcol/9751
+#EXTINF:-1,BR: ESPN Brasil HD
+http://tv.asplay.club:25461/marcol/marcol/9750
+#EXTINF:-1,BR: Fonte TV
+http://tv.asplay.club:25461/marcol/marcol/9706
+#EXTINF:-1,BR: Food Network HD
+http://tv.asplay.club:25461/marcol/marcol/9749
+#EXTINF:-1,BR: FOX HD
+http://tv.asplay.club:25461/marcol/marcol/9748
+#EXTINF:-1,BR: FOX Life HD
+http://tv.asplay.club:25461/marcol/marcol/9747
+#EXTINF:-1,BR: FOX Premium 1 HD
+http://tv.asplay.club:25461/marcol/marcol/9746
+#EXTINF:-1,BR: FOX Premium 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9745
+#EXTINF:-1,BR: FOX Sports 1  HD
+http://tv.asplay.club:25461/marcol/marcol/9744
+#EXTINF:-1,BR: FOX Sports 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9743
+#EXTINF:-1,BR: Globo News HD
+http://tv.asplay.club:25461/marcol/marcol/9742
+#EXTINF:-1,BR: Globo Premium
+http://tv.asplay.club:25461/marcol/marcol/9741
+#EXTINF:-1,BR: Globo PT
+http://tv.asplay.club:25461/marcol/marcol/9740
+#EXTINF:-1,BR: Globo Rio de Janeiro HD
+http://tv.asplay.club:25461/marcol/marcol/9739
+#EXTINF:-1,BR: Globo SP
+http://tv.asplay.club:25461/marcol/marcol/9738
+#EXTINF:-1,BR: Gloob HD
+http://tv.asplay.club:25461/marcol/marcol/9737
+#EXTINF:-1,BR: HBO 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9736
+#EXTINF:-1,BR: HBO Family HD
+http://tv.asplay.club:25461/marcol/marcol/9735
+#EXTINF:-1,BR: HBO FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9734
+#EXTINF:-1,BR: HBO Plus HD
+http://tv.asplay.club:25461/marcol/marcol/9733
+#EXTINF:-1,BR: HBO Signature HD
+http://tv.asplay.club:25461/marcol/marcol/9732
+#EXTINF:-1,BR: History Channel  HD
+http://tv.asplay.club:25461/marcol/marcol/9731
+#EXTINF:-1,BR: IMPD
+http://tv.asplay.club:25461/marcol/marcol/9705
+#EXTINF:-1,BR: Investigation Discovery HD
+http://tv.asplay.club:25461/marcol/marcol/9730
+#EXTINF:-1,BR: Megapix HD
+http://tv.asplay.club:25461/marcol/marcol/9729
+#EXTINF:-1,BR: Multishow HD
+http://tv.asplay.club:25461/marcol/marcol/9728
+#EXTINF:-1,BR: Nat. Geographic HD
+http://tv.asplay.club:25461/marcol/marcol/9727
+#EXTINF:-1,BR: Nick Jr.
+http://tv.asplay.club:25461/marcol/marcol/9726
+#EXTINF:-1,BR: PFC  HD
+http://tv.asplay.club:25461/marcol/marcol/9725
+#EXTINF:-1,BR: Record HD
+http://tv.asplay.club:25461/marcol/marcol/9724
+#EXTINF:-1,BR: Record News HD
+http://tv.asplay.club:25461/marcol/marcol/9723
+#EXTINF:-1,BR: Rede Familia
+http://tv.asplay.club:25461/marcol/marcol/9704
+#EXTINF:-1,BR: Rede TV HD
+http://tv.asplay.club:25461/marcol/marcol/9722
+#EXTINF:-1,BR: SBT HD
+http://tv.asplay.club:25461/marcol/marcol/9721
+#EXTINF:-1,BR: SporTV 1
+http://tv.asplay.club:25461/marcol/marcol/9720
+#EXTINF:-1,BR: SporTV 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9719
+#EXTINF:-1,BR: SporTV 3 HD
+http://tv.asplay.club:25461/marcol/marcol/9718
+#EXTINF:-1,BR: TBS
+http://tv.asplay.club:25461/marcol/marcol/9717
+#EXTINF:-1,BR: Telecine Action HD
+http://tv.asplay.club:25461/marcol/marcol/9716
+#EXTINF:-1,BR: Telecine Cult HD
+http://tv.asplay.club:25461/marcol/marcol/9715
+#EXTINF:-1,BR: Telecine Fun HD
+http://tv.asplay.club:25461/marcol/marcol/9714
+#EXTINF:-1,BR: Telecine Pipoca
+http://tv.asplay.club:25461/marcol/marcol/9713
+#EXTINF:-1,BR: Telecine Premium HD
+http://tv.asplay.club:25461/marcol/marcol/9712
+#EXTINF:-1,BR: Terra Viva
+http://tv.asplay.club:25461/marcol/marcol/9703
+#EXTINF:-1,BR: TLC HD
+http://tv.asplay.club:25461/marcol/marcol/9711
+#EXTINF:-1,BR: TNT Series HD
+http://tv.asplay.club:25461/marcol/marcol/9710
+#EXTINF:-1,BR: TV Antares
+http://tv.asplay.club:25461/marcol/marcol/9702
+#EXTINF:-1,BR: TV Aparecida
+http://tv.asplay.club:25461/marcol/marcol/9701
+#EXTINF:-1,BR: TV Canal X Canal 24 Hora
+http://tv.asplay.club:25461/marcol/marcol/9700
+#EXTINF:-1,BR: TV Cidade Verde
+http://tv.asplay.club:25461/marcol/marcol/9699
+#EXTINF:-1,BR: TV Dierio
+http://tv.asplay.club:25461/marcol/marcol/9698
+#EXTINF:-1,BR: TV Difusora
+http://tv.asplay.club:25461/marcol/marcol/9697
+#EXTINF:-1,BR: TV Difusora Sul
+http://tv.asplay.club:25461/marcol/marcol/9696
+#EXTINF:-1,BR: TV Jornal Interior
+http://tv.asplay.club:25461/marcol/marcol/9695
+#EXTINF:-1,BR: TV Novo Tempo Brasil DEA
+http://tv.asplay.club:25461/marcol/marcol/9694
+#EXTINF:-1,BR: TV Unieo Natal
+http://tv.asplay.club:25461/marcol/marcol/9693
+#EXTINF:-1,BR: TVE Bahia
+http://tv.asplay.club:25461/marcol/marcol/9692
+#EXTINF:-1,1922 (2017)
+http://tv.asplay.club:25461/movie/marcol/marcol/146.mp4
+#EXTINF:-1,2:22 Premonición
+http://tv.asplay.club:25461/movie/marcol/marcol/133.mp4
+#EXTINF:-1,6 Dí­as
+http://tv.asplay.club:25461/movie/marcol/marcol/138.mp4
+#EXTINF:-1,7 Deseos
+http://tv.asplay.club:25461/movie/marcol/marcol/104.mp4
+#EXTINF:-1,Â¡Madre!
+http://tv.asplay.club:25461/movie/marcol/marcol/24.mp4
+#EXTINF:-1,¿Quién @#*%$ Es Papá?
+http://tv.asplay.club:25461/movie/marcol/marcol/6347.mp4
+#EXTINF:-1,Actos De Venganza
+http://tv.asplay.club:25461/movie/marcol/marcol/59.mp4
+#EXTINF:-1,Aguas Revueltas
+http://tv.asplay.club:25461/movie/marcol/marcol/51.mp4
+#EXTINF:-1,¡Huye!
+http://tv.asplay.club:25461/movie/marcol/marcol/7237.mp4
+#EXTINF:-1,Your Name
+http://tv.asplay.club:25461/movie/marcol/marcol/7213.mp4
+#EXTINF:-1,31
+http://tv.asplay.club:25461/movie/marcol/marcol/7228.mp4
+#EXTINF:-1,Ya Te Extraño
+http://tv.asplay.club:25461/movie/marcol/marcol/7212.mp4
+#EXTINF:-1,¡Hombre Al Agua!
+http://tv.asplay.club:25461/movie/marcol/marcol/7778.mp4
+#EXTINF:-1,12 Horas Para Sobrevivir: El Año De La Elección
+http://tv.asplay.club:25461/movie/marcol/marcol/7786.mp4
+#EXTINF:-1,Abducción
+http://tv.asplay.club:25461/movie/marcol/marcol/7800.mp4
+#EXTINF:-1,¿Dónde Está El Dinero?
+http://tv.asplay.club:25461/movie/marcol/marcol/7859.mp4
+#EXTINF:-1,¡Te Atrapé!
+http://tv.asplay.club:25461/movie/marcol/marcol/8048.mp4
+#EXTINF:-1,Action Point
+http://tv.asplay.club:25461/movie/marcol/marcol/8046.mp4
+#EXTINF:-1,A Todos Los Chicos De Los Que Me Enamoré
+http://tv.asplay.club:25461/movie/marcol/marcol/8051.mp4
+#EXTINF:-1,Acrimony
+http://tv.asplay.club:25461/movie/marcol/marcol/7560.mp4
+#EXTINF:-1,15:17 Tren A París
+http://tv.asplay.club:25461/movie/marcol/marcol/7224.mp4
+#EXTINF:-1,Yo Soy Simón
+http://tv.asplay.club:25461/movie/marcol/marcol/7500.mp4
+#EXTINF:-1,Actos De Violencia
+http://tv.asplay.club:25461/movie/marcol/marcol/7512.mp4
+#EXTINF:-1,A Todo Gas
+http://tv.asplay.club:25461/movie/marcol/marcol/8271.mp4
+#EXTINF:-1,¡Scooby Doo! Y El Fantasma Gourmet
+http://tv.asplay.club:25461/movie/marcol/marcol/8318.mp4
+#EXTINF:-1,Ya Veremos
+http://tv.asplay.club:25461/movie/marcol/marcol/8312.mp4
+#EXTINF:-1,12 Horas Para Sobrevivir: El Inicio
+http://tv.asplay.club:25461/movie/marcol/marcol/8732.mp4
+#EXTINF:-1,24/7 PLAY MARVEL
+http://tv.asplay.club:25461/marcol/marcol/8855
+#EXTINF:-1,24/7 PLAY TERROR
+http://tv.asplay.club:25461/marcol/marcol/8895
+#EXTINF:-1,A La Deriva
+http://tv.asplay.club:25461/movie/marcol/marcol/8959.mp4
+#EXTINF:-1,¡Jóvenes Titanes En Acción!: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/9081.mp4
+#EXTINF:-1,A&e Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9118
+#EXTINF:-1,22 De Julio
+http://tv.asplay.club:25461/movie/marcol/marcol/9153.mp4
+#EXTINF:-1,¿Quien Mató A Los Puppets?
+http://tv.asplay.club:25461/movie/marcol/marcol/9185.mp4
+#EXTINF:-1,A X L
+http://tv.asplay.club:25461/movie/marcol/marcol/9299.mp4
+#EXTINF:-1,Ya Veremos
+http://tv.asplay.club:25461/movie/marcol/marcol/9298.mp4
+#EXTINF:-1,¡A ganar! (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9678.mp4
+#EXTINF:-1,Corazón borrado (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9682.mp4
+#EXTINF:-1,El cascanueces y los cuatro reinos (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9688.mp4
+#EXTINF:-1,El Grinch (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9691.mp4
+#EXTINF:-1,El odio que das (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9681.mp4
+#EXTINF:-1,El primer hombre en la Luna (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9679.mp4
+#EXTINF:-1,Fanático del tiempo (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9680.mp4
+#EXTINF:-1,La princesa encantada (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9689.mp4
+#EXTINF:-1,Latidos en la oscuridad (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9690.mp4
+#EXTINF:-1,Misión submarino (2018)
+http://tv.asplay.club:25461/movie/marcol/marcol/9683.mp4
+#EXTINF:-1,IO (2019)
+http://tv.asplay.club:25461/movie/marcol/marcol/9685.mp4
+#EXTINF:-1,La última carcajada (2019)
+http://tv.asplay.club:25461/movie/marcol/marcol/9684.mp4
+#EXTINF:-1,Polar (2019)
+http://tv.asplay.club:25461/movie/marcol/marcol/9687.mp4
+#EXTINF:-1,Reino de los Supermanes (2019)
+http://tv.asplay.club:25461/movie/marcol/marcol/9686.mp4
+#EXTINF:-1,XXX: Hentai Shakama (CH)
+http://tv.asplay.club:25461/marcol/marcol/8106
+#EXTINF:-1,XXX: Reality porno español (CH)
+http://tv.asplay.club:25461/marcol/marcol/8100
+#EXTINF:-1,XXX: SEXTREME
+http://tv.asplay.club:25461/marcol/marcol/7729
+#EXTINF:-1,XXX: PlayBoy
+http://tv.asplay.club:25461/marcol/marcol/7481
+#EXTINF:-1,XXX: Venus
+http://tv.asplay.club:25461/marcol/marcol/7479
+#EXTINF:-1,XXX VISIT TV (RO)
+http://tv.asplay.club:25461/marcol/marcol/7170
+#EXTINF:-1,XXX: HOT (CP)
+http://tv.asplay.club:25461/marcol/marcol/7480
+#EXTINF:-1,XXX: BRAZZERS  
+http://tv.asplay.club:25461/marcol/marcol/7169
+#EXTINF:-1,XXX: SIRINA
+http://tv.asplay.club:25461/marcol/marcol/9038
+#EXTINF:-1,XXX: HUSTLER HD
+http://tv.asplay.club:25461/marcol/marcol/9040
+#EXTINF:-1,XXX: PENTHOUSE HD
+http://tv.asplay.club:25461/marcol/marcol/9039
+#EXTINF:-1,ALBA XXX
+http://tv.asplay.club:25461/marcol/marcol/9664
+#EXTINF:-1,Alerta En Lo Profundo 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7201.mp4
+#EXTINF:-1,Alex Strangelove
+http://tv.asplay.club:25461/movie/marcol/marcol/7535.mp4
+#EXTINF:-1,Alfa
+http://tv.asplay.club:25461/movie/marcol/marcol/9179.mp4
+#EXTINF:-1,Alien Vs
+http://tv.asplay.club:25461/movie/marcol/marcol/8552.mp4
+#EXTINF:-1,Alien: Covenant
+http://tv.asplay.club:25461/movie/marcol/marcol/7232.mp4
+#EXTINF:-1,Aliens Vs
+http://tv.asplay.club:25461/movie/marcol/marcol/8553.mp4
+#EXTINF:-1,Along With The Gods 2: Los últimos 49 Días
+http://tv.asplay.club:25461/movie/marcol/marcol/9278.mp4
+#EXTINF:-1,Along With The Gods: Los Dos Mundos
+http://tv.asplay.club:25461/movie/marcol/marcol/9277.mp4
+#EXTINF:-1,Alto El Fuego
+http://tv.asplay.club:25461/movie/marcol/marcol/8673.mp4
+#EXTINF:-1,AMC
+http://tv.asplay.club:25461/marcol/marcol/7083
+#EXTINF:-1,AMC HD
+http://tv.asplay.club:25461/marcol/marcol/8033
+#EXTINF:-1,AMERICA PERU
+http://tv.asplay.club:25461/marcol/marcol/8321
+#EXTINF:-1,American Curious
+http://tv.asplay.club:25461/movie/marcol/marcol/8380.mp4
+#EXTINF:-1,Amigas A La Fuerza
+http://tv.asplay.club:25461/movie/marcol/marcol/8664.mp4
+#EXTINF:-1,Amityville: El Despertar
+http://tv.asplay.club:25461/movie/marcol/marcol/101.mp4
+#EXTINF:-1,Amor A Medianoche
+http://tv.asplay.club:25461/movie/marcol/marcol/8445.mp4
+#EXTINF:-1,Amor De Medianoche
+http://tv.asplay.club:25461/movie/marcol/marcol/8121.mp4
+#EXTINF:-1,Amor De Vinilo
+http://tv.asplay.club:25461/movie/marcol/marcol/9169.mp4
+#EXTINF:-1,Amores Caníbales
+http://tv.asplay.club:25461/movie/marcol/marcol/7240.mp4
+#EXTINF:-1,ANIMAL PLANET
+http://tv.asplay.club:25461/marcol/marcol/7014
+#EXTINF:-1,ANIMAL PLANET FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8028
+#EXTINF:-1,Animales Fantásticos Y Dónde Encontrarlos
+http://tv.asplay.club:25461/movie/marcol/marcol/6008.mp4
+#EXTINF:-1,Aniquilación
+http://tv.asplay.club:25461/movie/marcol/marcol/5430.mp4
+#EXTINF:-1,Annabelle 2: La Creación
+http://tv.asplay.club:25461/movie/marcol/marcol/16.mp4
+#EXTINF:-1,Anon
+http://tv.asplay.club:25461/movie/marcol/marcol/7188.mp4
+#EXTINF:-1,Ant-Man And The Wasp
+http://tv.asplay.club:25461/movie/marcol/marcol/8796.mp4
+#EXTINF:-1,Ant-Man: El Hombre Hormiga
+http://tv.asplay.club:25461/movie/marcol/marcol/18.mp4
+#EXTINF:-1,Apóstol
+http://tv.asplay.club:25461/movie/marcol/marcol/8951.mp4
+#EXTINF:-1,Apuesta Maestra
+http://tv.asplay.club:25461/movie/marcol/marcol/6395.mp4
+#EXTINF:-1,Aquarius
+http://tv.asplay.club:25461/movie/marcol/marcol/72.mp4
+#EXTINF:-1,AR:  TV PUBLICA HD
+http://tv.asplay.club:25461/marcol/marcol/7159
+#EXTINF:-1,AR: 13 Max Corrientes
+http://tv.asplay.club:25461/marcol/marcol/7752
+#EXTINF:-1,AR: A24 (PM)
+http://tv.asplay.club:25461/marcol/marcol/6424
+#EXTINF:-1,AR: Aire de Santa Fe (FR)
+http://tv.asplay.club:25461/marcol/marcol/7161
+#EXTINF:-1,AR: AMERICA TV FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7505
+#EXTINF:-1,AR: AMERICA TV HD
+http://tv.asplay.club:25461/marcol/marcol/7158
+#EXTINF:-1,AR: C5N (CP)
+http://tv.asplay.club:25461/marcol/marcol/7148
+#EXTINF:-1,AR: Canal 10 Cordoba
+http://tv.asplay.club:25461/marcol/marcol/8126
+#EXTINF:-1,AR: Canal 10 Mar del Plata
+http://tv.asplay.club:25461/marcol/marcol/9270
+#EXTINF:-1,AR: CANAL 26 HD
+http://tv.asplay.club:25461/marcol/marcol/7094
+#EXTINF:-1,AR: CANAL 4 JUJUY (FR)
+http://tv.asplay.club:25461/marcol/marcol/7162
+#EXTINF:-1,AR: Canal 79 Mar del Plata
+http://tv.asplay.club:25461/marcol/marcol/9292
+#EXTINF:-1,AR: Canal de Noticias 24/7 (FR)
+http://tv.asplay.club:25461/marcol/marcol/7554
+#EXTINF:-1,AR: Canal KZO (CP)
+http://tv.asplay.club:25461/marcol/marcol/7713
+#EXTINF:-1,AR: CAnala 2 Mar del Plata
+http://tv.asplay.club:25461/marcol/marcol/9490
+#EXTINF:-1,AR: Cine AR
+http://tv.asplay.club:25461/marcol/marcol/6426
+#EXTINF:-1,AR: CN23
+http://tv.asplay.club:25461/marcol/marcol/7727
+#EXTINF:-1,AR: Cronica HD
+http://tv.asplay.club:25461/marcol/marcol/6423
+#EXTINF:-1,AR: DeporTV HD
+http://tv.asplay.club:25461/marcol/marcol/7186
+#EXTINF:-1,AR: EL NUEVE FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7157
+#EXTINF:-1,AR: EL NUEVE HD
+http://tv.asplay.club:25461/marcol/marcol/7507
+#EXTINF:-1,AR: EL TRECE FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7508
+#EXTINF:-1,AR: EL TRECE HD
+http://tv.asplay.club:25461/marcol/marcol/7490
+#EXTINF:-1,AR: ENCUENTRO
+http://tv.asplay.club:25461/marcol/marcol/6630
+#EXTINF:-1,AR: FOX SPORTS 1 FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7509
+#EXTINF:-1,AR: FOX SPORTS 1 HD
+http://tv.asplay.club:25461/marcol/marcol/7151
+#EXTINF:-1,AR: FOX SPORTS 2  1080 (CP)
+http://tv.asplay.club:25461/marcol/marcol/7150
+#EXTINF:-1,AR: FOX SPORTS 2 720 (CP)
+http://tv.asplay.club:25461/marcol/marcol/7471
+#EXTINF:-1,AR: FOX SPORTS 3 720
+http://tv.asplay.club:25461/marcol/marcol/7149
+#EXTINF:-1,AR: FOX SPORTS 3 FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8016
+#EXTINF:-1,AR: FOX SPORTS PREMIUM 720 (OP Recomendada)
+http://tv.asplay.club:25461/marcol/marcol/8053
+#EXTINF:-1,AR: FOX SPORTS PREMIUM HD (OP Recomendada)
+http://tv.asplay.club:25461/marcol/marcol/8143
+#EXTINF:-1,AR: Garage TV [FR]
+http://tv.asplay.club:25461/marcol/marcol/7164
+#EXTINF:-1,AR: LN+
+http://tv.asplay.club:25461/marcol/marcol/6425
+#EXTINF:-1,AR: PakaPaka
+http://tv.asplay.club:25461/marcol/marcol/7187
+#EXTINF:-1,AR: TELEFE FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7504
+#EXTINF:-1,AR: TELEFE HD
+http://tv.asplay.club:25461/marcol/marcol/7160
+#EXTINF:-1,AR: TELPIN
+http://tv.asplay.club:25461/marcol/marcol/7052
+#EXTINF:-1,AR: TN FHD (CP)
+http://tv.asplay.club:25461/marcol/marcol/7510
+#EXTINF:-1,AR: TN HD
+http://tv.asplay.club:25461/marcol/marcol/7770
+#EXTINF:-1,AR: TNT SPORTS 720 (OP Recomendada)
+http://tv.asplay.club:25461/marcol/marcol/8083
+#EXTINF:-1,AR: TNT SPORTS ULL HD  (OP Recomendada)
+http://tv.asplay.club:25461/marcol/marcol/8142
+#EXTINF:-1,AR: TV PUBLICA FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7506
+#EXTINF:-1,AR: TyC_Sports
+http://tv.asplay.club:25461/marcol/marcol/7474
+#EXTINF:-1,Asesinato En El Expreso De Oriente
+http://tv.asplay.club:25461/movie/marcol/marcol/47.mp4
+#EXTINF:-1,Asesino: Misión Venganza
+http://tv.asplay.club:25461/movie/marcol/marcol/73.mp4
+#EXTINF:-1,Atómica
+http://tv.asplay.club:25461/movie/marcol/marcol/99.mp4
+#EXTINF:-1,Atraco En Familia
+http://tv.asplay.club:25461/movie/marcol/marcol/8662.mp4
+#EXTINF:-1,ATV PERU
+http://tv.asplay.club:25461/marcol/marcol/8325
+#EXTINF:-1,Avengers: Infinity War
+http://tv.asplay.club:25461/movie/marcol/marcol/7861.mp4
+#EXTINF:-1,Avenida Cloverfield 10
+http://tv.asplay.club:25461/movie/marcol/marcol/7528.mp4
+#EXTINF:-1,AXN
+http://tv.asplay.club:25461/marcol/marcol/6453
+#EXTINF:-1,AXN FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8027
+#EXTINF:-1,AXN Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9117
+#EXTINF:-1,AZ CORAZON (MX)
+http://tv.asplay.club:25461/marcol/marcol/7674
+#EXTINF:-1,AZ MUNDO
+http://tv.asplay.club:25461/marcol/marcol/6806
+#EXTINF:-1,MX: AZ UNO FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8766
+#EXTINF:-1,MX: AZTECA 13
+http://tv.asplay.club:25461/marcol/marcol/7720
+#EXTINF:-1,AZTECA 7
+http://tv.asplay.club:25461/marcol/marcol/6843
+#EXTINF:-1,AZTECA 7 FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8056
+#EXTINF:-1,AZTECA CINEMA FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8059
+#EXTINF:-1,Azteca Cinema HD (PM)
+http://tv.asplay.club:25461/marcol/marcol/6905
+#EXTINF:-1,AZTECA CLIC FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8061
+#EXTINF:-1,AZTECA CORAZON FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8060
+#EXTINF:-1,AZTECA MUNDO FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8058
+#EXTINF:-1,AZTECA PLUS
+http://tv.asplay.club:25461/marcol/marcol/6876
+#EXTINF:-1,MX: AZTECA UNO
+http://tv.asplay.club:25461/marcol/marcol/7719
+#EXTINF:-1,BABY TV
+http://tv.asplay.club:25461/marcol/marcol/7226
+#EXTINF:-1,BABY TV HD
+http://tv.asplay.club:25461/marcol/marcol/9139
+#EXTINF:-1,Baby: El Aprendiz Del Crimen
+http://tv.asplay.club:25461/movie/marcol/marcol/7335.mp4
+#EXTINF:-1,MX: BANDAMAX
+http://tv.asplay.club:25461/marcol/marcol/7731
+#EXTINF:-1,Barry Seal: Sólo En América
+http://tv.asplay.club:25461/movie/marcol/marcol/17.mp4
+#EXTINF:-1,Batman Vs
+http://tv.asplay.club:25461/movie/marcol/marcol/7334.mp4
+#EXTINF:-1,Batman Y Harley Quinn
+http://tv.asplay.club:25461/movie/marcol/marcol/7348.mp4
+#EXTINF:-1,Batman: Ciudad Gótica - Luz De Gas
+http://tv.asplay.club:25461/movie/marcol/marcol/7286.mp4
+#EXTINF:-1,Battle
+http://tv.asplay.club:25461/movie/marcol/marcol/9264.mp4
+#EXTINF:-1,Baywatch: Guardianes De La Bahía
+http://tv.asplay.club:25461/movie/marcol/marcol/7350.mp4
+#EXTINF:-1,BEIN SPORTS 10HD
+http://tv.asplay.club:25461/marcol/marcol/8935
+#EXTINF:-1,BEIN SPORTS 1HD
+http://tv.asplay.club:25461/marcol/marcol/8926
+#EXTINF:-1,BEIN SPORTS 2HD
+http://tv.asplay.club:25461/marcol/marcol/8927
+#EXTINF:-1,BEIN SPORTS 3HD
+http://tv.asplay.club:25461/marcol/marcol/8928
+#EXTINF:-1,BEIN SPORTS 4HD
+http://tv.asplay.club:25461/marcol/marcol/8929
+#EXTINF:-1,BEIN SPORTS 5HD
+http://tv.asplay.club:25461/marcol/marcol/8930
+#EXTINF:-1,BEIN SPORTS 6HD
+http://tv.asplay.club:25461/marcol/marcol/8931
+#EXTINF:-1,BEIN SPORTS 7HD
+http://tv.asplay.club:25461/marcol/marcol/8932
+#EXTINF:-1,BEIN SPORTS 8HD
+http://tv.asplay.club:25461/marcol/marcol/8933
+#EXTINF:-1,BEIN SPORTS 9HD
+http://tv.asplay.club:25461/marcol/marcol/8934
+#EXTINF:-1,BEIN SPORTS LA LIGA (CP)
+http://tv.asplay.club:25461/marcol/marcol/6892
+#EXTINF:-1,Bein Sports Ñ 1080
+http://tv.asplay.club:25461/marcol/marcol/8065
+#EXTINF:-1,Beirut
+http://tv.asplay.club:25461/movie/marcol/marcol/7677.mp4
+#EXTINF:-1,Benji
+http://tv.asplay.club:25461/movie/marcol/marcol/5934.mp4
+#EXTINF:-1,Bienvenidos A Monster High
+http://tv.asplay.club:25461/movie/marcol/marcol/6397.mp4
+#EXTINF:-1,Big Fish & Begonia
+http://tv.asplay.club:25461/movie/marcol/marcol/8104.mp4
+#EXTINF:-1,Bird Box: A Ciegas
+http://tv.asplay.club:25461/movie/marcol/marcol/9283.mp4
+#EXTINF:-1,Blame!
+http://tv.asplay.club:25461/movie/marcol/marcol/7541.mp4
+#EXTINF:-1,Bleach
+http://tv.asplay.club:25461/movie/marcol/marcol/8441.mp4
+#EXTINF:-1,Blinky Bill, El Koala
+http://tv.asplay.club:25461/movie/marcol/marcol/8709.mp4
+#EXTINF:-1,BOING HD (CP)
+http://tv.asplay.club:25461/marcol/marcol/7865
+#EXTINF:-1,Bolivia: ATB
+http://tv.asplay.club:25461/marcol/marcol/8414
+#EXTINF:-1,Bolivia: BOLIVISION LA PAZ
+http://tv.asplay.club:25461/marcol/marcol/8413
+#EXTINF:-1,Bolivia: CADENA A
+http://tv.asplay.club:25461/marcol/marcol/8409
+#EXTINF:-1,Bolivia: PALENQUE TV
+http://tv.asplay.club:25461/marcol/marcol/8416
+#EXTINF:-1,Bolivia: PAT TV LA PAZ
+http://tv.asplay.club:25461/marcol/marcol/8415
+#EXTINF:-1,Bolivia: TIGO SPORTS 1 HD
+http://tv.asplay.club:25461/marcol/marcol/9581
+#EXTINF:-1,Bolivia: TIGO SPORTS 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9582
+#EXTINF:-1,BOOMERANG
+http://tv.asplay.club:25461/marcol/marcol/6504
+#EXTINF:-1,BOOMERANG FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9142
+#EXTINF:-1,Borg Vs
+http://tv.asplay.club:25461/movie/marcol/marcol/8733.mp4
+#EXTINF:-1,Box Nation
+http://tv.asplay.club:25461/marcol/marcol/7592
+#EXTINF:-1,Boyka: Undisputed IV
+http://tv.asplay.club:25461/movie/marcol/marcol/7354.mp4
+#EXTINF:-1,Buscando  
+http://tv.asplay.club:25461/movie/marcol/marcol/9304.mp4
+#EXTINF:-1,Buscando A Dory
+http://tv.asplay.club:25461/movie/marcol/marcol/6396.mp4
+#EXTINF:-1,Buscando A Nemo
+http://tv.asplay.club:25461/movie/marcol/marcol/7203.mp4
+#EXTINF:-1,Cada Día
+http://tv.asplay.club:25461/movie/marcol/marcol/7524.mp4
+#EXTINF:-1,Calibre
+http://tv.asplay.club:25461/movie/marcol/marcol/9186.mp4
+#EXTINF:-1,Campamento De Locos
+http://tv.asplay.club:25461/movie/marcol/marcol/8246.mp4
+#EXTINF:-1,Campeones
+http://tv.asplay.club:25461/movie/marcol/marcol/8446.mp4
+#EXTINF:-1,Canada: Cbc Toronto Hd
+http://tv.asplay.club:25461/marcol/marcol/8777
+#EXTINF:-1,Canada: CPAC
+http://tv.asplay.club:25461/marcol/marcol/8846
+#EXTINF:-1,Canada: Ctv Kitchener
+http://tv.asplay.club:25461/marcol/marcol/8778
+#EXTINF:-1,CANADA: ICI TELEVISION
+http://tv.asplay.club:25461/marcol/marcol/8400
+#EXTINF:-1,Canada: TELE QUEBEC
+http://tv.asplay.club:25461/marcol/marcol/8847
+#EXTINF:-1,Canada: TSC
+http://tv.asplay.club:25461/marcol/marcol/8848
+#EXTINF:-1,Canada: TSN 1
+http://tv.asplay.club:25461/marcol/marcol/8781
+#EXTINF:-1,Canada: TSN 2
+http://tv.asplay.club:25461/marcol/marcol/8782
+#EXTINF:-1,Canada: TSN 3
+http://tv.asplay.club:25461/marcol/marcol/8783
+#EXTINF:-1,Canada: TSN 4
+http://tv.asplay.club:25461/marcol/marcol/8784
+#EXTINF:-1,Canada: TSN 5
+http://tv.asplay.club:25461/marcol/marcol/8785
+#EXTINF:-1,Canada: Yes Tv
+http://tv.asplay.club:25461/marcol/marcol/8780
+#EXTINF:-1,CANAL 5  FULL HD
+http://tv.asplay.club:25461/marcol/marcol/6891
+#EXTINF:-1,Canal Fitness Tv
+http://tv.asplay.club:25461/marcol/marcol/8740
+#EXTINF:-1,CANAL FOX
+http://tv.asplay.club:25461/marcol/marcol/7896
+#EXTINF:-1,CANAL FOX FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9137
+#EXTINF:-1,CANAL FOX SD
+http://tv.asplay.club:25461/marcol/marcol/8029
+#EXTINF:-1,MX: CANAL ONCE
+http://tv.asplay.club:25461/marcol/marcol/8116
+#EXTINF:-1,Candy Jar
+http://tv.asplay.club:25461/movie/marcol/marcol/7809.mp4
+#EXTINF:-1,CARACOL 1080
+http://tv.asplay.club:25461/marcol/marcol/8014
+#EXTINF:-1,Cargo
+http://tv.asplay.club:25461/movie/marcol/marcol/7284.mp4
+#EXTINF:-1,Cars
+http://tv.asplay.club:25461/movie/marcol/marcol/7192.mp4
+#EXTINF:-1,Cars 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7268.mp4
+#EXTINF:-1,Cars 3
+http://tv.asplay.club:25461/movie/marcol/marcol/74.mp4
+#EXTINF:-1,CARTOON NETWORK HD
+http://tv.asplay.club:25461/marcol/marcol/6500
+#EXTINF:-1,CARTOON NETWORK SD
+http://tv.asplay.club:25461/marcol/marcol/9138
+#EXTINF:-1,Cazador De Hombres
+http://tv.asplay.club:25461/movie/marcol/marcol/7631.mp4
+#EXTINF:-1,CDF ESTADIO
+http://tv.asplay.club:25461/marcol/marcol/7832
+#EXTINF:-1,CDF PREEMIUM FHD (DW)
+http://tv.asplay.club:25461/marcol/marcol/7706
+#EXTINF:-1,CDF PREMIUM SD
+http://tv.asplay.club:25461/marcol/marcol/8961
+#EXTINF:-1,Celebra La Navidad Con Mickey, Donald Y Sus Amigos
+http://tv.asplay.club:25461/movie/marcol/marcol/8653.mp4
+#EXTINF:-1,Christopher Robin: Un Reencuentro Inolvidable
+http://tv.asplay.club:25461/movie/marcol/marcol/9155.mp4
+#EXTINF:-1,Cincuenta Sombras De Grey
+http://tv.asplay.club:25461/movie/marcol/marcol/8286.mp4
+#EXTINF:-1,Cincuenta Sombras Liberadas
+http://tv.asplay.club:25461/movie/marcol/marcol/8288.mp4
+#EXTINF:-1,Cincuenta Sombras Más Oscuras
+http://tv.asplay.club:25461/movie/marcol/marcol/8287.mp4
+#EXTINF:-1,CINE LATINO
+http://tv.asplay.club:25461/marcol/marcol/6844
+#EXTINF:-1,Cinecanal Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9116
+#EXTINF:-1,CINECANAL HD
+http://tv.asplay.club:25461/marcol/marcol/9141
+#EXTINF:-1,CINECANAL SD
+http://tv.asplay.club:25461/marcol/marcol/6449
+#EXTINF:-1,CINEMA DINAMITA (MX)
+http://tv.asplay.club:25461/marcol/marcol/6442
+#EXTINF:-1,CINEMA PPV 01
+http://tv.asplay.club:25461/marcol/marcol/9417
+#EXTINF:-1,CINEMA PPV 02
+http://tv.asplay.club:25461/marcol/marcol/9416
+#EXTINF:-1,CINEMA PPV 03
+http://tv.asplay.club:25461/marcol/marcol/9415
+#EXTINF:-1,CINEMA PPV 04
+http://tv.asplay.club:25461/marcol/marcol/9414
+#EXTINF:-1,CINEMA PPV 05
+http://tv.asplay.club:25461/marcol/marcol/9413
+#EXTINF:-1,CINEMA PPV 06
+http://tv.asplay.club:25461/marcol/marcol/9412
+#EXTINF:-1,CINEMA PPV 07
+http://tv.asplay.club:25461/marcol/marcol/9411
+#EXTINF:-1,CINEMA PPV 08
+http://tv.asplay.club:25461/marcol/marcol/9410
+#EXTINF:-1,CINEMA PPV 09
+http://tv.asplay.club:25461/marcol/marcol/9409
+#EXTINF:-1,CINEMA PPV 10
+http://tv.asplay.club:25461/marcol/marcol/9408
+#EXTINF:-1,CINEMA PPV 11
+http://tv.asplay.club:25461/marcol/marcol/9407
+#EXTINF:-1,CINEMA PPV 12
+http://tv.asplay.club:25461/marcol/marcol/9406
+#EXTINF:-1,CINEMA PPV 13
+http://tv.asplay.club:25461/marcol/marcol/9405
+#EXTINF:-1,CINEMA PPV 14
+http://tv.asplay.club:25461/marcol/marcol/9404
+#EXTINF:-1,CINEMA PPV 15
+http://tv.asplay.club:25461/marcol/marcol/9403
+#EXTINF:-1,CINEMA PPV 16
+http://tv.asplay.club:25461/marcol/marcol/9402
+#EXTINF:-1,CINEMA PPV 17
+http://tv.asplay.club:25461/marcol/marcol/9401
+#EXTINF:-1,CINEMA PPV 18
+http://tv.asplay.club:25461/marcol/marcol/9400
+#EXTINF:-1,CINEMA PPV 19
+http://tv.asplay.club:25461/marcol/marcol/9399
+#EXTINF:-1,CINEMA PPV 20
+http://tv.asplay.club:25461/marcol/marcol/9398
+#EXTINF:-1,CINEMA PPV 21
+http://tv.asplay.club:25461/marcol/marcol/9397
+#EXTINF:-1,CINEMA PPV 22
+http://tv.asplay.club:25461/marcol/marcol/9396
+#EXTINF:-1,CINEMA PPV 23
+http://tv.asplay.club:25461/marcol/marcol/9395
+#EXTINF:-1,CINEMA PPV 24
+http://tv.asplay.club:25461/marcol/marcol/9394
+#EXTINF:-1,CINEMA PPV 25
+http://tv.asplay.club:25461/marcol/marcol/9393
+#EXTINF:-1,CINEMA PPV 26
+http://tv.asplay.club:25461/marcol/marcol/9392
+#EXTINF:-1,CINEMA PPV 27
+http://tv.asplay.club:25461/marcol/marcol/9391
+#EXTINF:-1,CINEMA PPV 28
+http://tv.asplay.club:25461/marcol/marcol/9390
+#EXTINF:-1,CINEMA PPV 29
+http://tv.asplay.club:25461/marcol/marcol/9389
+#EXTINF:-1,CINEMA PPV 30
+http://tv.asplay.club:25461/marcol/marcol/9388
+#EXTINF:-1,CINEMA PPV 31
+http://tv.asplay.club:25461/marcol/marcol/9387
+#EXTINF:-1,CINEMA PPV 32
+http://tv.asplay.club:25461/marcol/marcol/9386
+#EXTINF:-1,CINEMA PPV 33
+http://tv.asplay.club:25461/marcol/marcol/9385
+#EXTINF:-1,CINEMA PPV 34
+http://tv.asplay.club:25461/marcol/marcol/9384
+#EXTINF:-1,CINEMA PPV 35
+http://tv.asplay.club:25461/marcol/marcol/9383
+#EXTINF:-1,CINEMA PPV 36
+http://tv.asplay.club:25461/marcol/marcol/9382
+#EXTINF:-1,CINEMAX FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9140
+#EXTINF:-1,CINEMAX SD
+http://tv.asplay.club:25461/marcol/marcol/6451
+#EXTINF:-1,Círculo De Mentiras
+http://tv.asplay.club:25461/movie/marcol/marcol/8141.mp4
+#EXTINF:-1,CL: CANAL 13 HD
+http://tv.asplay.club:25461/marcol/marcol/6486
+#EXTINF:-1,CL: CANAL 13 MOVIL (CP)
+http://tv.asplay.club:25461/marcol/marcol/7871
+#EXTINF:-1,CL: CANAL 13 SD
+http://tv.asplay.club:25461/marcol/marcol/9484
+#EXTINF:-1,CL: CDF BAsico
+http://tv.asplay.club:25461/marcol/marcol/8774
+#EXTINF:-1,CL: CDF PREMIUM
+http://tv.asplay.club:25461/marcol/marcol/6487
+#EXTINF:-1,CL: CDO PREMIUM (Chile)
+http://tv.asplay.club:25461/marcol/marcol/8801
+#EXTINF:-1,CL: CHILEVISION HD
+http://tv.asplay.club:25461/marcol/marcol/7868
+#EXTINF:-1,CL: CHILEVISION SD
+http://tv.asplay.club:25461/marcol/marcol/9485
+#EXTINF:-1,CL: FM HOT
+http://tv.asplay.club:25461/marcol/marcol/9087
+#EXTINF:-1,CL: LA RED HD
+http://tv.asplay.club:25461/marcol/marcol/6483
+#EXTINF:-1,CL: LA RED SD
+http://tv.asplay.club:25461/marcol/marcol/9482
+#EXTINF:-1,CL: MEGA  HD
+http://tv.asplay.club:25461/marcol/marcol/6485
+#EXTINF:-1,CL: MEGA SD
+http://tv.asplay.club:25461/marcol/marcol/9481
+#EXTINF:-1,CL: TELETRAk TV
+http://tv.asplay.club:25461/marcol/marcol/8803
+#EXTINF:-1,CL: TVN
+http://tv.asplay.club:25461/marcol/marcol/6484
+#EXTINF:-1,CL: TVN SD
+http://tv.asplay.club:25461/marcol/marcol/9483
+#EXTINF:-1,Cloverfield
+http://tv.asplay.club:25461/movie/marcol/marcol/7527.mp4
+#EXTINF:-1,CNN (Chile) (FR)
+http://tv.asplay.club:25461/marcol/marcol/6803
+#EXTINF:-1,CO: Caracol HD
+http://tv.asplay.club:25461/marcol/marcol/7581
+#EXTINF:-1,CO: RCN Novelas
+http://tv.asplay.club:25461/marcol/marcol/6894
+#EXTINF:-1,CO: RCN NUESTRATELE (RO)
+http://tv.asplay.club:25461/marcol/marcol/6521
+#EXTINF:-1,CO: TELECAFE
+http://tv.asplay.club:25461/marcol/marcol/6537
+#EXTINF:-1,CO: TELEMEDELLIN
+http://tv.asplay.club:25461/marcol/marcol/6536
+#EXTINF:-1,Coco
+http://tv.asplay.club:25461/movie/marcol/marcol/27.mp4
+#EXTINF:-1,COL: CANAL UNO HD
+http://tv.asplay.club:25461/marcol/marcol/7772
+#EXTINF:-1,Colmillo Blanco
+http://tv.asplay.club:25461/movie/marcol/marcol/8771.mp4
+#EXTINF:-1,CO: Caracol Internacional (RO)
+http://tv.asplay.club:25461/marcol/marcol/7582
+#EXTINF:-1,Colombia: Mi Musica HD
+http://tv.asplay.club:25461/marcol/marcol/7568
+#EXTINF:-1,CO: RCN FULL HD (RO)
+http://tv.asplay.club:25461/marcol/marcol/7578
+#EXTINF:-1,CO: RCN HD
+http://tv.asplay.club:25461/marcol/marcol/7579
+#EXTINF:-1,Colombia: Teleantioquia
+http://tv.asplay.club:25461/marcol/marcol/7567
+#EXTINF:-1,Colombia: Telecaribe (RO)
+http://tv.asplay.club:25461/marcol/marcol/7573
+#EXTINF:-1,Colombia: Telepacifico (RO)
+http://tv.asplay.club:25461/marcol/marcol/7565
+#EXTINF:-1,Colossal
+http://tv.asplay.club:25461/movie/marcol/marcol/7347.mp4
+#EXTINF:-1,Comando Kill
+http://tv.asplay.club:25461/movie/marcol/marcol/7764.mp4
+#EXTINF:-1,MX: COMEDIA CENTRAL
+http://tv.asplay.club:25461/marcol/marcol/8118
+#EXTINF:-1,Cómo Entrenar A Tu Dragón
+http://tv.asplay.club:25461/movie/marcol/marcol/7207.mp4
+#EXTINF:-1,Cómo Entrenar A Tu Dragón 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7210.mp4
+#EXTINF:-1,Condorito: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/7716.mp4
+#EXTINF:-1,Conexión Mortal
+http://tv.asplay.club:25461/movie/marcol/marcol/7225.mp4
+#EXTINF:-1,Conspiración Terrorista
+http://tv.asplay.club:25461/movie/marcol/marcol/7291.mp4
+#EXTINF:-1,Constantine Ciudad De Demonios: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/9085.mp4
+#EXTINF:-1,Control De Estado
+http://tv.asplay.club:25461/movie/marcol/marcol/7514.mp4
+#EXTINF:-1,Coraline Y La Puerta Secreta
+http://tv.asplay.club:25461/movie/marcol/marcol/7200.mp4
+#EXTINF:-1,CR: TELERED
+http://tv.asplay.club:25461/marcol/marcol/7823
+#EXTINF:-1,Crash Pad
+http://tv.asplay.club:25461/movie/marcol/marcol/5929.mp4
+#EXTINF:-1,Creed  La Leyenda De Rocky
+http://tv.asplay.club:25461/movie/marcol/marcol/8285.mp4
+#EXTINF:-1,Creep 2
+http://tv.asplay.club:25461/movie/marcol/marcol/100.mp4
+#EXTINF:-1,Cuando Ellas Quieren
+http://tv.asplay.club:25461/movie/marcol/marcol/8103.mp4
+#EXTINF:-1,Cuando Las Luces Se Apagan
+http://tv.asplay.club:25461/movie/marcol/marcol/7787.mp4
+#EXTINF:-1,Cuando Nos Conocimos
+http://tv.asplay.club:25461/movie/marcol/marcol/67.mp4
+#EXTINF:-1,Cuando Se Rompe La Rama
+http://tv.asplay.club:25461/movie/marcol/marcol/7241.mp4
+#EXTINF:-1,Culto A Chucky
+http://tv.asplay.club:25461/movie/marcol/marcol/7231.mp4
+#EXTINF:-1,Daphne & Velma
+http://tv.asplay.club:25461/movie/marcol/marcol/7329.mp4
+#EXTINF:-1,Darc
+http://tv.asplay.club:25461/movie/marcol/marcol/7190.mp4
+#EXTINF:-1,De Libros, Amores Y Otros Males
+http://tv.asplay.club:25461/movie/marcol/marcol/9302.mp4
+#EXTINF:-1,DE PELICULA
+http://tv.asplay.club:25461/marcol/marcol/7774
+#EXTINF:-1,De Tal Padre
+http://tv.asplay.club:25461/movie/marcol/marcol/7890.mp4
+#EXTINF:-1,Deadpool 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7944.mp4
+#EXTINF:-1,Death Note
+http://tv.asplay.club:25461/movie/marcol/marcol/7238.mp4
+#EXTINF:-1,Deep: El Pulpo
+http://tv.asplay.club:25461/movie/marcol/marcol/5599.mp4
+#EXTINF:-1,Del Otro Lado De La Puerta
+http://tv.asplay.club:25461/movie/marcol/marcol/7796.mp4
+#EXTINF:-1,DEPORTES 1 HD
+http://tv.asplay.club:25461/marcol/marcol/7834
+#EXTINF:-1,DEPORTES 2 HD (RO)
+http://tv.asplay.club:25461/marcol/marcol/7835
+#EXTINF:-1,Depredador
+http://tv.asplay.club:25461/movie/marcol/marcol/8538.mp4
+#EXTINF:-1,Depredador 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8551.mp4
+#EXTINF:-1,Depredadores
+http://tv.asplay.club:25461/movie/marcol/marcol/8550.mp4
+#EXTINF:-1,Desaparecido
+http://tv.asplay.club:25461/movie/marcol/marcol/103.mp4
+#EXTINF:-1,Deseo De Matar
+http://tv.asplay.club:25461/movie/marcol/marcol/7391.mp4
+#EXTINF:-1,Desnudo
+http://tv.asplay.club:25461/movie/marcol/marcol/8256.mp4
+#EXTINF:-1,DHE
+http://tv.asplay.club:25461/marcol/marcol/6686
+#EXTINF:-1,Diario De Greg: Un Viaje De Locos
+http://tv.asplay.club:25461/movie/marcol/marcol/105.mp4
+#EXTINF:-1,DIGITAL TV  PERU
+http://tv.asplay.club:25461/marcol/marcol/8324
+#EXTINF:-1,DIGITAL TV (CP)
+http://tv.asplay.club:25461/marcol/marcol/7874
+#EXTINF:-1,Dios De La Guerra
+http://tv.asplay.club:25461/movie/marcol/marcol/7299.mp4
+#EXTINF:-1,Dios No Está Muerto 3: Una Luz En La Oscuridad
+http://tv.asplay.club:25461/movie/marcol/marcol/8052.mp4
+#EXTINF:-1,DIRECTV SPORT 2
+http://tv.asplay.club:25461/marcol/marcol/6986
+#EXTINF:-1,DIRECTV SPORTS 1
+http://tv.asplay.club:25461/marcol/marcol/6926
+#EXTINF:-1,DIRECTV SPORTS PLUS
+http://tv.asplay.club:25461/marcol/marcol/6987
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8025
+#EXTINF:-1,Discovery Channel Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9115
+#EXTINF:-1,DISCOVERY CHANNEL HD (MX)
+http://tv.asplay.club:25461/marcol/marcol/6496
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://tv.asplay.club:25461/marcol/marcol/6490
+#EXTINF:-1,DISCOVERY HOME & HEALTH  SD
+http://tv.asplay.club:25461/marcol/marcol/6493
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8896
+#EXTINF:-1,Discovery Home & Health Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9114
+#EXTINF:-1,DISCOVERY ID FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7998
+#EXTINF:-1,DISCOVERY ID HD
+http://tv.asplay.club:25461/marcol/marcol/6495
+#EXTINF:-1,Discovery Investigation Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9113
+#EXTINF:-1,Discovery Kids
+http://tv.asplay.club:25461/marcol/marcol/6499
+#EXTINF:-1,DISCOVERY KIDS FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8026
+#EXTINF:-1,Discovery Kids Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9112
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tv.asplay.club:25461/marcol/marcol/7018
+#EXTINF:-1,DISCOVERY THEATER
+http://tv.asplay.club:25461/marcol/marcol/7019
+#EXTINF:-1,Discovery Theater  Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9111
+#EXTINF:-1,DISCOVERY THEATER FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8001
+#EXTINF:-1,Discovery TLC Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9110
+#EXTINF:-1,DISCOVERY TLC SD
+http://tv.asplay.club:25461/marcol/marcol/6494
+#EXTINF:-1,DISCOVERY TURBO
+http://tv.asplay.club:25461/marcol/marcol/6492
+#EXTINF:-1,DISCOVERY WORLD FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7993
+#EXTINF:-1,Discovery World Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9109
+#EXTINF:-1,DISCOVERY WORLD HD  (RO)
+http://tv.asplay.club:25461/marcol/marcol/6491
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.asplay.club:25461/marcol/marcol/6501
+#EXTINF:-1,DISNEY JUNIOR
+http://tv.asplay.club:25461/marcol/marcol/6503
+#EXTINF:-1,DISNEY XD
+http://tv.asplay.club:25461/marcol/marcol/7020
+#EXTINF:-1,DISTRITO COMEDIA
+http://tv.asplay.club:25461/marcol/marcol/6805
+#EXTINF:-1,Down A Dark Hall
+http://tv.asplay.club:25461/movie/marcol/marcol/9056.mp4
+#EXTINF:-1,Dude: Así Es La Vida
+http://tv.asplay.club:25461/movie/marcol/marcol/7811.mp4
+#EXTINF:-1,Dunkerque
+http://tv.asplay.club:25461/movie/marcol/marcol/140.mp4
+#EXTINF:-1,Duro De Cuidar
+http://tv.asplay.club:25461/movie/marcol/marcol/7333.mp4
+#EXTINF:-1,E! ENTERTAIMENT
+http://tv.asplay.club:25461/marcol/marcol/6821
+#EXTINF:-1,ECU: CANAL UNO HD
+http://tv.asplay.club:25461/marcol/marcol/6662
+#EXTINF:-1,ECU: CANAL UNO SD
+http://tv.asplay.club:25461/marcol/marcol/6513
+#EXTINF:-1,ECU: CANELA TV
+http://tv.asplay.club:25461/marcol/marcol/8079
+#EXTINF:-1,ECU: CNT SPORT FHD D.
+http://tv.asplay.club:25461/marcol/marcol/7146
+#EXTINF:-1,ECU: CNT SPORT FHD OPC2 R.
+http://tv.asplay.club:25461/marcol/marcol/6512
+#EXTINF:-1,ECU: ECUAVISA FHD
+http://tv.asplay.club:25461/marcol/marcol/6825
+#EXTINF:-1,ECU: ECUAVISA HD
+http://tv.asplay.club:25461/marcol/marcol/6647
+#EXTINF:-1,ECU: ECUAVISA SD
+http://tv.asplay.club:25461/marcol/marcol/9041
+#EXTINF:-1,ECU: GAMAVISION FHD
+http://tv.asplay.club:25461/marcol/marcol/6826
+#EXTINF:-1,ECU: GAMAVISION HD
+http://tv.asplay.club:25461/marcol/marcol/6515
+#EXTINF:-1,ECU: GAMAVISION SD
+http://tv.asplay.club:25461/marcol/marcol/9043
+#EXTINF:-1,ECU: GOL TV ECUADOR FHD
+http://tv.asplay.club:25461/marcol/marcol/7914
+#EXTINF:-1,ECU: GOL TV HD
+http://tv.asplay.club:25461/marcol/marcol/7724
+#EXTINF:-1,ECU: GOL TV SD
+http://tv.asplay.club:25461/marcol/marcol/7650
+#EXTINF:-1,ECU: OROMAR TV HD
+http://tv.asplay.club:25461/marcol/marcol/7196
+#EXTINF:-1,ECU: RTS  HD
+http://tv.asplay.club:25461/marcol/marcol/6966
+#EXTINF:-1,ECU: RTS SD
+http://tv.asplay.club:25461/marcol/marcol/7711
+#EXTINF:-1,ECU: TC TELEVISION FHD
+http://tv.asplay.club:25461/marcol/marcol/6514
+#EXTINF:-1,ECU: TC TELEVISION HD
+http://tv.asplay.club:25461/marcol/marcol/6967
+#EXTINF:-1,ECU: TC TELEVISION SD
+http://tv.asplay.club:25461/marcol/marcol/9044
+#EXTINF:-1,ECU: TELEAMAZONAS FHD
+http://tv.asplay.club:25461/marcol/marcol/6516
+#EXTINF:-1,ECU: TELEAMAZONAS HD
+http://tv.asplay.club:25461/marcol/marcol/9042
+#EXTINF:-1,ECU: TELEAMAZONAS SD
+http://tv.asplay.club:25461/marcol/marcol/6968
+#EXTINF:-1,ECU: TVC
+http://tv.asplay.club:25461/marcol/marcol/7910
+#EXTINF:-1,El Alma De La Fiesta
+http://tv.asplay.club:25461/movie/marcol/marcol/7780.mp4
+#EXTINF:-1,El Amor Es Extraño
+http://tv.asplay.club:25461/movie/marcol/marcol/7218.mp4
+#EXTINF:-1,El árbol De Navidad
+http://tv.asplay.club:25461/movie/marcol/marcol/8658.mp4
+#EXTINF:-1,El Aro 3
+http://tv.asplay.club:25461/movie/marcol/marcol/108.mp4
+#EXTINF:-1,El Banquero De La Resistencia
+http://tv.asplay.club:25461/movie/marcol/marcol/8527.mp4
+#EXTINF:-1,El Bosque Siniestro
+http://tv.asplay.club:25461/movie/marcol/marcol/7805.mp4
+#EXTINF:-1,El Cavernícola
+http://tv.asplay.club:25461/movie/marcol/marcol/7272.mp4
+#EXTINF:-1,El Ci­rculo
+http://tv.asplay.club:25461/movie/marcol/marcol/132.mp4
+#EXTINF:-1,El Conjuro 2: El Caso Enfield
+http://tv.asplay.club:25461/movie/marcol/marcol/7793.mp4
+#EXTINF:-1,El Demonio Neon
+http://tv.asplay.club:25461/movie/marcol/marcol/7791.mp4
+#EXTINF:-1,El Depredador
+http://tv.asplay.club:25461/movie/marcol/marcol/9266.mp4
+#EXTINF:-1,El Despertar De Los Muertos Vivientes
+http://tv.asplay.club:25461/movie/marcol/marcol/7220.mp4
+#EXTINF:-1,El Doctor De La Felicidad
+http://tv.asplay.club:25461/movie/marcol/marcol/8670.mp4
+#EXTINF:-1,El Efecto Sombra
+http://tv.asplay.club:25461/movie/marcol/marcol/7630.mp4
+#EXTINF:-1,El Final De Todo
+http://tv.asplay.club:25461/movie/marcol/marcol/7755.mp4
+#EXTINF:-1,El GOURMET
+http://tv.asplay.club:25461/marcol/marcol/7085
+#EXTINF:-1,EL GOURMET FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8034
+#EXTINF:-1,El Gran Showman
+http://tv.asplay.club:25461/movie/marcol/marcol/127.mp4
+#EXTINF:-1,El Héroe
+http://tv.asplay.club:25461/movie/marcol/marcol/166.mp4
+#EXTINF:-1,El Hilo Fantasma
+http://tv.asplay.club:25461/movie/marcol/marcol/6394.mp4
+#EXTINF:-1,El Implacable
+http://tv.asplay.club:25461/movie/marcol/marcol/5431.mp4
+#EXTINF:-1,El Inquebrantable: Camino Hacia La Redención
+http://tv.asplay.club:25461/movie/marcol/marcol/9307.mp4
+#EXTINF:-1,El Jinete
+http://tv.asplay.club:25461/movie/marcol/marcol/7888.mp4
+#EXTINF:-1,El Juego De Gerald
+http://tv.asplay.club:25461/movie/marcol/marcol/107.mp4
+#EXTINF:-1,El Justiciero 2
+http://tv.asplay.club:25461/movie/marcol/marcol/9171.mp4
+#EXTINF:-1,El Legado
+http://tv.asplay.club:25461/movie/marcol/marcol/9301.mp4
+#EXTINF:-1,El Legado Bourne
+http://tv.asplay.club:25461/movie/marcol/marcol/7863.mp4
+#EXTINF:-1,El Legado Del Diablo
+http://tv.asplay.club:25461/movie/marcol/marcol/8314.mp4
+#EXTINF:-1,El Misterio De La Casa Del Cuervo
+http://tv.asplay.club:25461/movie/marcol/marcol/8651.mp4
+#EXTINF:-1,El Monstruo
+http://tv.asplay.club:25461/movie/marcol/marcol/8659.mp4
+#EXTINF:-1,El Monstruo De Las Nieves: Las Aventuras De Nelly Y Simon
+http://tv.asplay.club:25461/movie/marcol/marcol/8127.mp4
+#EXTINF:-1,El Muñeco De Nieve
+http://tv.asplay.club:25461/movie/marcol/marcol/88.mp4
+#EXTINF:-1,El Niño
+http://tv.asplay.club:25461/movie/marcol/marcol/7799.mp4
+#EXTINF:-1,El Pájaro Loco: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/46.mp4
+#EXTINF:-1,El Pasajero
+http://tv.asplay.club:25461/movie/marcol/marcol/7292.mp4
+#EXTINF:-1,El Planeta De Los Simios: La Guerra
+http://tv.asplay.club:25461/movie/marcol/marcol/106.mp4
+#EXTINF:-1,El Profesor Marston Y La Mujer Maravilla
+http://tv.asplay.club:25461/movie/marcol/marcol/25.mp4
+#EXTINF:-1,El Reverendo
+http://tv.asplay.club:25461/movie/marcol/marcol/8788.mp4
+#EXTINF:-1,El Rey De La Polca
+http://tv.asplay.club:25461/movie/marcol/marcol/83.mp4
+#EXTINF:-1,El Ritual
+http://tv.asplay.club:25461/movie/marcol/marcol/48.mp4
+#EXTINF:-1,El Rizado Camino A La Felicidad
+http://tv.asplay.club:25461/movie/marcol/marcol/8791.mp4
+#EXTINF:-1,El Robo Perfecto
+http://tv.asplay.club:25461/movie/marcol/marcol/7487.mp4
+#EXTINF:-1,EL SALVADOR CANAL 21
+http://tv.asplay.club:25461/marcol/marcol/8405
+#EXTINF:-1,El Salvador: MEGANOTICIAS CANAL 19
+http://tv.asplay.club:25461/marcol/marcol/8404
+#EXTINF:-1,El Salvador: TVES CANAL 1O
+http://tv.asplay.club:25461/marcol/marcol/8407
+#EXTINF:-1,El Salvador: TVX
+http://tv.asplay.club:25461/marcol/marcol/8401
+#EXTINF:-1,El Salvador: WOW TV
+http://tv.asplay.club:25461/marcol/marcol/8408
+#EXTINF:-1,El Santo
+http://tv.asplay.club:25461/movie/marcol/marcol/139.mp4
+#EXTINF:-1,El Séptimo Amanecer
+http://tv.asplay.club:25461/movie/marcol/marcol/8652.mp4
+#EXTINF:-1,El Stand De Los Besos
+http://tv.asplay.club:25461/movie/marcol/marcol/7243.mp4
+#EXTINF:-1,El Supremo
+http://tv.asplay.club:25461/movie/marcol/marcol/9182.mp4
+#EXTINF:-1,El Titán
+http://tv.asplay.club:25461/movie/marcol/marcol/6404.mp4
+#EXTINF:-1,El último Desafío
+http://tv.asplay.club:25461/movie/marcol/marcol/8536.mp4
+#EXTINF:-1,El último Testigo
+http://tv.asplay.club:25461/movie/marcol/marcol/7889.mp4
+#EXTINF:-1,El Velo
+http://tv.asplay.club:25461/movie/marcol/marcol/7802.mp4
+#EXTINF:-1,El Viejo Y La Pistola
+http://tv.asplay.club:25461/movie/marcol/marcol/9565.mp4
+#EXTINF:-1,Elena Y El Secreto De Avalor
+http://tv.asplay.club:25461/movie/marcol/marcol/8661.mp4
+#EXTINF:-1,Emoji: La Pelí­cula
+http://tv.asplay.club:25461/movie/marcol/marcol/6402.mp4
+#EXTINF:-1,En Defensa Propia
+http://tv.asplay.club:25461/movie/marcol/marcol/111.mp4
+#EXTINF:-1,En La Mira Del Francotirador
+http://tv.asplay.club:25461/movie/marcol/marcol/56.mp4
+#EXTINF:-1,En La Penumbra
+http://tv.asplay.club:25461/movie/marcol/marcol/7942.mp4
+#EXTINF:-1,Errementari: El Herrero Y El Diablo
+http://tv.asplay.club:25461/movie/marcol/marcol/9145.mp4
+#EXTINF:-1,ES: A3SERIES FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7639
+#EXTINF:-1,ES: Antena 3 HD
+http://tv.asplay.club:25461/marcol/marcol/7638
+#EXTINF:-1,ES: beIN Sports N HD (RO)
+http://tv.asplay.club:25461/marcol/marcol/7651
+#EXTINF:-1,ES: CANAL PANDA
+http://tv.asplay.club:25461/marcol/marcol/8802
+#EXTINF:-1,ES: Caza y Pesca HD
+http://tv.asplay.club:25461/marcol/marcol/7647
+#EXTINF:-1,ES: Cuatro HD
+http://tv.asplay.club:25461/marcol/marcol/7640
+#EXTINF:-1,ES: La Sexta HD
+http://tv.asplay.club:25461/marcol/marcol/7641
+#EXTINF:-1,ES: MEGA HD
+http://tv.asplay.club:25461/marcol/marcol/7643
+#EXTINF:-1,ES: Movistar Accion HD
+http://tv.asplay.club:25461/marcol/marcol/7642
+#EXTINF:-1,ES: Movistar Series
+http://tv.asplay.club:25461/marcol/marcol/7644
+#EXTINF:-1,ES: Movistar+ Golf HD
+http://tv.asplay.club:25461/marcol/marcol/7175
+#EXTINF:-1,ES: REAL MADRID TV
+http://tv.asplay.club:25461/marcol/marcol/7173
+#EXTINF:-1,ES: RTVE
+http://tv.asplay.club:25461/marcol/marcol/7247
+#EXTINF:-1,ES: Telecinco HD
+http://tv.asplay.club:25461/marcol/marcol/7645
+#EXTINF:-1,ES: TVE
+http://tv.asplay.club:25461/marcol/marcol/7646
+#EXTINF:-1,Esa Enfermedad Llamada Amor
+http://tv.asplay.club:25461/movie/marcol/marcol/8254.mp4
+#EXTINF:-1,Escalofríos 2: Una Noche Embrujada
+http://tv.asplay.club:25461/movie/marcol/marcol/9568.mp4
+#EXTINF:-1,Escape Imposible
+http://tv.asplay.club:25461/movie/marcol/marcol/8535.mp4
+#EXTINF:-1,Escape Imposible 2: Hades
+http://tv.asplay.club:25461/movie/marcol/marcol/8953.mp4
+#EXTINF:-1,Escuela Nocturna
+http://tv.asplay.club:25461/movie/marcol/marcol/9296.mp4
+#EXTINF:-1,Espectador Profesional
+http://tv.asplay.club:25461/movie/marcol/marcol/7812.mp4
+#EXTINF:-1,CRIS: Esperanza TV
+http://tv.asplay.club:25461/marcol/marcol/8744
+#EXTINF:-1,ESPN 1 1080 (CP)
+http://tv.asplay.club:25461/marcol/marcol/8019
+#EXTINF:-1,ESPN 1 720
+http://tv.asplay.club:25461/marcol/marcol/8533
+#EXTINF:-1,ESPN 1 MX (RO)
+http://tv.asplay.club:25461/marcol/marcol/7654
+#EXTINF:-1,ESPN 2 720
+http://tv.asplay.club:25461/marcol/marcol/8534
+#EXTINF:-1,AR: ESPN 2 ARG (RO)
+http://tv.asplay.club:25461/marcol/marcol/6480
+#EXTINF:-1,ESPN 2 MX
+http://tv.asplay.club:25461/marcol/marcol/7655
+#EXTINF:-1,ESPN 3 MX HD
+http://tv.asplay.club:25461/marcol/marcol/7656
+#EXTINF:-1,ESPN 3 SUR HD
+http://tv.asplay.club:25461/marcol/marcol/8021
+#EXTINF:-1,ESPN DEPORTES HD
+http://tv.asplay.club:25461/marcol/marcol/9195
+#EXTINF:-1,ESPN PLUS FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8032
+#EXTINF:-1,Esta Detrás De Ti
+http://tv.asplay.club:25461/movie/marcol/marcol/7801.mp4
+#EXTINF:-1,Estación Zombie
+http://tv.asplay.club:25461/movie/marcol/marcol/7765.mp4
+#EXTINF:-1,Esto Recién Comienza
+http://tv.asplay.club:25461/movie/marcol/marcol/7290.mp4
+#EXTINF:-1,ETC
+http://tv.asplay.club:25461/marcol/marcol/7892
+#EXTINF:-1,EVENTOS 1: Explosion Azul
+http://tv.asplay.club:25461/marcol/marcol/8432
+#EXTINF:-1,EVENTOS 2: Explosion azul HD
+http://tv.asplay.club:25461/marcol/marcol/8431
+#EXTINF:-1,EVENTOS 3 Alianza Lima vs Barcelona SD
+http://tv.asplay.club:25461/marcol/marcol/8433
+#EXTINF:-1,EVENTOS 4 Alianza Lima vs Barcelona FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8434
+#EXTINF:-1,Extinción
+http://tv.asplay.club:25461/movie/marcol/marcol/7848.mp4
+#EXTINF:-1,Extraña Presencia
+http://tv.asplay.club:25461/movie/marcol/marcol/9282.mp4
+#EXTINF:-1,Extraordinario
+http://tv.asplay.club:25461/movie/marcol/marcol/71.mp4
+#EXTINF:-1,Fahrenheit 451
+http://tv.asplay.club:25461/movie/marcol/marcol/7365.mp4
+#EXTINF:-1,Fantasmas Del Pasado
+http://tv.asplay.club:25461/movie/marcol/marcol/7219.mp4
+#EXTINF:-1,Feliz Aniversario
+http://tv.asplay.club:25461/movie/marcol/marcol/7813.mp4
+#EXTINF:-1,Feliz Dí­a De Tu Muerte
+http://tv.asplay.club:25461/movie/marcol/marcol/49.mp4
+#EXTINF:-1,Finding Your Feet
+http://tv.asplay.club:25461/movie/marcol/marcol/8772.mp4
+#EXTINF:-1,Forever My Girl
+http://tv.asplay.club:25461/movie/marcol/marcol/9054.mp4
+#EXTINF:-1,FOX LIFE
+http://tv.asplay.club:25461/marcol/marcol/6465
+#EXTINF:-1,Fox Life Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9108
+#EXTINF:-1,FOX PREMIUM ACTION FHD
+http://tv.asplay.club:25461/marcol/marcol/6820
+#EXTINF:-1,Fox Premium Action Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9107
+#EXTINF:-1,FOX PREMIUM ACTION HD
+http://tv.asplay.club:25461/marcol/marcol/7529
+#EXTINF:-1,FOX PREMIUM ACTION SD
+http://tv.asplay.club:25461/marcol/marcol/9049
+#EXTINF:-1,Fox Premium Cinema Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9106
+#EXTINF:-1,FOX PREMIUM CINEMA HD
+http://tv.asplay.club:25461/marcol/marcol/8022
+#EXTINF:-1,FOX PREMIUM CINEMA SD
+http://tv.asplay.club:25461/marcol/marcol/7021
+#EXTINF:-1,FOX PREMIUM CLASSIC SD
+http://tv.asplay.club:25461/marcol/marcol/9122
+#EXTINF:-1,Fox Premium Classics Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9105
+#EXTINF:-1,Fox Premium Comedy Full HD [Dual Audio]
+http://tv.asplay.club:25461/marcol/marcol/9104
+#EXTINF:-1,FOX PREMIUM COMEDY HD
+http://tv.asplay.club:25461/marcol/marcol/9053
+#EXTINF:-1,FOX PREMIUM COMEDY SD
+http://tv.asplay.club:25461/marcol/marcol/7022
+#EXTINF:-1,Fox Premium Family Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9103
+#EXTINF:-1,FOX PREMIUM FAMILY HD
+http://tv.asplay.club:25461/marcol/marcol/9052
+#EXTINF:-1,FOX PREMIUM FAMILY SD
+http://tv.asplay.club:25461/marcol/marcol/7657
+#EXTINF:-1,Fox Premium Movies Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9102
+#EXTINF:-1,FOX PREMIUM MOVIES HD
+http://tv.asplay.club:25461/marcol/marcol/9126
+#EXTINF:-1,FOX PREMIUM MOVIES SD
+http://tv.asplay.club:25461/marcol/marcol/9123
+#EXTINF:-1,Fox Premium Series Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9101
+#EXTINF:-1,FOX PREMIUM SERIES HD
+http://tv.asplay.club:25461/marcol/marcol/9125
+#EXTINF:-1,FOX PREMIUM SERIES SD
+http://tv.asplay.club:25461/marcol/marcol/9124
+#EXTINF:-1,FOX SERIES SD
+http://tv.asplay.club:25461/marcol/marcol/7077
+#EXTINF:-1,FOX SPORTS 1 MX
+http://tv.asplay.club:25461/marcol/marcol/7539
+#EXTINF:-1,FOX SPORTS 1 MX FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8018
+#EXTINF:-1,FOX SPORTS 2 MX 1080
+http://tv.asplay.club:25461/marcol/marcol/8023
+#EXTINF:-1,FOX SPORTS 3 MX (MX)
+http://tv.asplay.club:25461/marcol/marcol/7683
+#EXTINF:-1,FOX SPORTS 3 MX FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8024
+#EXTINF:-1,FOX SPORTS CHILE
+http://tv.asplay.club:25461/marcol/marcol/8115
+#EXTINF:-1,Fragmentado
+http://tv.asplay.club:25461/movie/marcol/marcol/7265.mp4
+#EXTINF:-1,MUSICA: Frecuencia Musical
+http://tv.asplay.club:25461/marcol/marcol/9295
+#EXTINF:-1,Fullmetal Alchemist
+http://tv.asplay.club:25461/movie/marcol/marcol/8139.mp4
+#EXTINF:-1,Future World
+http://tv.asplay.club:25461/movie/marcol/marcol/8795.mp4
+#EXTINF:-1,FX FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8030
+#EXTINF:-1,FX Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9100
+#EXTINF:-1,FX MOVIES FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8031
+#EXTINF:-1,FX SD
+http://tv.asplay.club:25461/marcol/marcol/7035
+#EXTINF:-1,MX: GALA TV FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8117
+#EXTINF:-1,GALAVISION
+http://tv.asplay.club:25461/marcol/marcol/7073
+#EXTINF:-1,Game Over, Man!
+http://tv.asplay.club:25461/movie/marcol/marcol/6360.mp4
+#EXTINF:-1,Geo-Tormenta
+http://tv.asplay.club:25461/movie/marcol/marcol/54.mp4
+#EXTINF:-1,GLITZ
+http://tv.asplay.club:25461/marcol/marcol/7024
+#EXTINF:-1,Godzilla: Ciudad Al Filo De La Batalla
+http://tv.asplay.club:25461/movie/marcol/marcol/7846.mp4
+#EXTINF:-1,Godzilla: El Devorador De Planetas
+http://tv.asplay.club:25461/movie/marcol/marcol/9566.mp4
+#EXTINF:-1,GOL PERU FHD
+http://tv.asplay.club:25461/marcol/marcol/7596
+#EXTINF:-1,ECU: GOL TV 720
+http://tv.asplay.club:25461/marcol/marcol/9269
+#EXTINF:-1,GOLDEN EDGE SD
+http://tv.asplay.club:25461/marcol/marcol/6995
+#EXTINF:-1,GOLDEN PLUS
+http://tv.asplay.club:25461/marcol/marcol/6980
+#EXTINF:-1,GOLDEN PREMIER
+http://tv.asplay.club:25461/marcol/marcol/6996
+#EXTINF:-1,Gracias Por Tu Servicio
+http://tv.asplay.club:25461/movie/marcol/marcol/90.mp4
+#EXTINF:-1,Gringo: Se Busca Vivo O Muerto
+http://tv.asplay.club:25461/movie/marcol/marcol/7849.mp4
+#EXTINF:-1,Gru - Mi Villano Favorito
+http://tv.asplay.club:25461/movie/marcol/marcol/7261.mp4
+#EXTINF:-1,Guardianes
+http://tv.asplay.club:25461/movie/marcol/marcol/97.mp4
+#EXTINF:-1,Guardianes De La Galaxia Vol
+http://tv.asplay.club:25461/movie/marcol/marcol/7355.mp4
+#EXTINF:-1,Guerra De Papás 2
+http://tv.asplay.club:25461/movie/marcol/marcol/20.mp4
+#EXTINF:-1,Guerreros Del Futuro
+http://tv.asplay.club:25461/movie/marcol/marcol/9300.mp4
+#EXTINF:-1,H2
+http://tv.asplay.club:25461/marcol/marcol/7025
+#EXTINF:-1,Habitación Verde
+http://tv.asplay.club:25461/movie/marcol/marcol/7760.mp4
+#EXTINF:-1,Hacerse Mayor Y Otros Problemas
+http://tv.asplay.club:25461/movie/marcol/marcol/8449.mp4
+#EXTINF:-1,Halloween
+http://tv.asplay.club:25461/movie/marcol/marcol/9309.mp4
+#EXTINF:-1,Hampstead: Una Cita En El Parque
+http://tv.asplay.club:25461/movie/marcol/marcol/29.mp4
+#EXTINF:-1,Han Solo: Una Historia De Star Wars
+http://tv.asplay.club:25461/movie/marcol/marcol/8379.mp4
+#EXTINF:-1,Harry Potter Y El Cáliz De Fuego
+http://tv.asplay.club:25461/movie/marcol/marcol/8260.mp4
+#EXTINF:-1,Harry Potter Y El Misterio Del Príncipe
+http://tv.asplay.club:25461/movie/marcol/marcol/8262.mp4
+#EXTINF:-1,Harry Potter Y El Prisionero De Azkaban
+http://tv.asplay.club:25461/movie/marcol/marcol/8259.mp4
+#EXTINF:-1,Harry Potter Y La Cámara Secreta
+http://tv.asplay.club:25461/movie/marcol/marcol/8258.mp4
+#EXTINF:-1,Harry Potter Y La Orden Del Fénix
+http://tv.asplay.club:25461/movie/marcol/marcol/8261.mp4
+#EXTINF:-1,Harry Potter Y La Piedra Filosofal
+http://tv.asplay.club:25461/movie/marcol/marcol/8257.mp4
+#EXTINF:-1,Harry Potter Y Las Reliquias De La Muerte - Parte 1
+http://tv.asplay.club:25461/movie/marcol/marcol/8263.mp4
+#EXTINF:-1,Harry Potter Y Las Reliquias De La Muerte - Parte 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8264.mp4
+#EXTINF:-1,Hasta Pronto, Christopher Robin
+http://tv.asplay.club:25461/movie/marcol/marcol/82.mp4
+#EXTINF:-1,Hasta Que La Boda Nos Separe
+http://tv.asplay.club:25461/movie/marcol/marcol/8727.mp4
+#EXTINF:-1,HBO 1 Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9093
+#EXTINF:-1,HBO 1 HD
+http://tv.asplay.club:25461/marcol/marcol/8035
+#EXTINF:-1,HBO 1 SD
+http://tv.asplay.club:25461/marcol/marcol/7521
+#EXTINF:-1,HBO 2 FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9045
+#EXTINF:-1,HBO 2 Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9090
+#EXTINF:-1,HBO 2 HD
+http://tv.asplay.club:25461/marcol/marcol/8002
+#EXTINF:-1,HBO 2 SD
+http://tv.asplay.club:25461/marcol/marcol/6508
+#EXTINF:-1,HBO FAMILY FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9048
+#EXTINF:-1,HBO Family Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9089
+#EXTINF:-1,HBO FAMILY HD
+http://tv.asplay.club:25461/marcol/marcol/8000
+#EXTINF:-1,HBO FAMILY SD
+http://tv.asplay.club:25461/marcol/marcol/6507
+#EXTINF:-1,HBO PLUS FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8036
+#EXTINF:-1,HBO Plus Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9092
+#EXTINF:-1,HBO PLUS HD
+http://tv.asplay.club:25461/marcol/marcol/6506
+#EXTINF:-1,HBO PLUS SD
+http://tv.asplay.club:25461/marcol/marcol/9046
+#EXTINF:-1,HBO SIGNATURE FHD
+http://tv.asplay.club:25461/marcol/marcol/8037
+#EXTINF:-1,HBO Signature Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9091
+#EXTINF:-1,HBO SIGNATURE HD
+http://tv.asplay.club:25461/marcol/marcol/6505
+#EXTINF:-1,HBO SIGNATURE SD
+http://tv.asplay.club:25461/marcol/marcol/9047
+#EXTINF:-1,Hell Fest: Juegos Diabólicos
+http://tv.asplay.club:25461/movie/marcol/marcol/9564.mp4
+#EXTINF:-1,HISTORY
+http://tv.asplay.club:25461/marcol/marcol/6450
+#EXTINF:-1,HISTORY CHANNEL FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7999
+#EXTINF:-1,History Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9099
+#EXTINF:-1,HIT TV
+http://tv.asplay.club:25461/marcol/marcol/7822
+#EXTINF:-1,HOLA TV FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7013
+#EXTINF:-1,Holidays
+http://tv.asplay.club:25461/movie/marcol/marcol/7790.mp4
+#EXTINF:-1,Hostiles: Violencia Americana
+http://tv.asplay.club:25461/movie/marcol/marcol/9175.mp4
+#EXTINF:-1,Hotel De Criminales
+http://tv.asplay.club:25461/movie/marcol/marcol/8790.mp4
+#EXTINF:-1,Hotel Transylvania 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8140.mp4
+#EXTINF:-1,Hotel Transylvania 3: Monstruos De Vacaciones
+http://tv.asplay.club:25461/movie/marcol/marcol/8769.mp4
+#EXTINF:-1,Huracán Categoría 5
+http://tv.asplay.club:25461/movie/marcol/marcol/7561.mp4
+#EXTINF:-1,I-SAT
+http://tv.asplay.club:25461/marcol/marcol/7027
+#EXTINF:-1,Illand: La Brigada Del Lobo
+http://tv.asplay.club:25461/movie/marcol/marcol/9082.mp4
+#EXTINF:-1,Incoming
+http://tv.asplay.club:25461/movie/marcol/marcol/8442.mp4
+#EXTINF:-1,Infiltrado Del KKKlan
+http://tv.asplay.club:25461/movie/marcol/marcol/9157.mp4
+#EXTINF:-1,Inframundo: Guerras De Sangre
+http://tv.asplay.club:25461/movie/marcol/marcol/7757.mp4
+#EXTINF:-1,Ingrid Cambia De Rumbo
+http://tv.asplay.club:25461/movie/marcol/marcol/7255.mp4
+#EXTINF:-1,Instinto Incontenible
+http://tv.asplay.club:25461/movie/marcol/marcol/7850.mp4
+#EXTINF:-1,Intercambio De Princesas
+http://tv.asplay.club:25461/movie/marcol/marcol/9170.mp4
+#EXTINF:-1,Invasores De Tumbas
+http://tv.asplay.club:25461/movie/marcol/marcol/8657.mp4
+#EXTINF:-1,Isla De Perros
+http://tv.asplay.club:25461/movie/marcol/marcol/7717.mp4
+#EXTINF:-1,It (Eso)
+http://tv.asplay.club:25461/movie/marcol/marcol/21.mp4
+#EXTINF:-1,Italia | Supercalcio HD
+http://tv.asplay.club:25461/marcol/marcol/9136
+#EXTINF:-1,Jason Bourne
+http://tv.asplay.club:25461/movie/marcol/marcol/7864.mp4
+#EXTINF:-1,Jeepers Creepers 3: El Regreso
+http://tv.asplay.club:25461/movie/marcol/marcol/22.mp4
+#EXTINF:-1,Jigsaw
+http://tv.asplay.club:25461/movie/marcol/marcol/55.mp4
+#EXTINF:-1,Johnny English 3
+http://tv.asplay.club:25461/movie/marcol/marcol/9567.mp4
+#EXTINF:-1,Juego De Manos
+http://tv.asplay.club:25461/movie/marcol/marcol/7330.mp4
+#EXTINF:-1,Jumanji: En La Selva
+http://tv.asplay.club:25461/movie/marcol/marcol/5363.mp4
+#EXTINF:-1,Jurassic Park El Reino Caído
+http://tv.asplay.club:25461/movie/marcol/marcol/8739.mp4
+#EXTINF:-1,Jurassic Park: El Mundo Perdido
+http://tv.asplay.club:25461/movie/marcol/marcol/8738.mp4
+#EXTINF:-1,Jurassic Park: Mundo Jurásico
+http://tv.asplay.club:25461/movie/marcol/marcol/8737.mp4
+#EXTINF:-1,Jurassic Park: Parque Jurásico
+http://tv.asplay.club:25461/movie/marcol/marcol/8735.mp4
+#EXTINF:-1,Jurassic Park: Parque Jurásico III
+http://tv.asplay.club:25461/movie/marcol/marcol/8736.mp4
+#EXTINF:-1,Jurassic World: El Reino Caído
+http://tv.asplay.club:25461/movie/marcol/marcol/8746.mp4
+#EXTINF:-1,Kingsman: El Círculo Dorado
+http://tv.asplay.club:25461/movie/marcol/marcol/7300.mp4
+#EXTINF:-1,Krampus: El Terror De La Navidad
+http://tv.asplay.club:25461/movie/marcol/marcol/7806.mp4
+#EXTINF:-1,Kung Fu Yoga
+http://tv.asplay.club:25461/movie/marcol/marcol/8955.mp4
+#EXTINF:-1,La Balada De Buster Scruggs
+http://tv.asplay.club:25461/movie/marcol/marcol/9168.mp4
+#EXTINF:-1,La Batalla De Los Sexos
+http://tv.asplay.club:25461/movie/marcol/marcol/19.mp4
+#EXTINF:-1,La Bella Y La Bestia
+http://tv.asplay.club:25461/movie/marcol/marcol/6007.mp4
+#EXTINF:-1,La Bruja
+http://tv.asplay.club:25461/movie/marcol/marcol/7795.mp4
+#EXTINF:-1,La Bruja De Blair
+http://tv.asplay.club:25461/movie/marcol/marcol/7756.mp4
+#EXTINF:-1,La Bruma
+http://tv.asplay.club:25461/movie/marcol/marcol/8730.mp4
+#EXTINF:-1,La Casa Con Un Reloj En Sus Paredes
+http://tv.asplay.club:25461/movie/marcol/marcol/9280.mp4
+#EXTINF:-1,La Cordillera
+http://tv.asplay.club:25461/movie/marcol/marcol/23.mp4
+#EXTINF:-1,La Cosa
+http://tv.asplay.club:25461/movie/marcol/marcol/8656.mp4
+#EXTINF:-1,La Cura Siniestra
+http://tv.asplay.club:25461/movie/marcol/marcol/7239.mp4
+#EXTINF:-1,La Era De Hielo
+http://tv.asplay.club:25461/movie/marcol/marcol/7259.mp4
+#EXTINF:-1,La Era De Hielo 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7267.mp4
+#EXTINF:-1,La Era De Hielo 3: El Origen De Los Dinosaurios
+http://tv.asplay.club:25461/movie/marcol/marcol/7260.mp4
+#EXTINF:-1,La Era De Hielo 4
+http://tv.asplay.club:25461/movie/marcol/marcol/7263.mp4
+#EXTINF:-1,La Era De Hielo: Choque De Mundos
+http://tv.asplay.club:25461/movie/marcol/marcol/6399.mp4
+#EXTINF:-1,La Era Del Hielo: La Gran Huevo Aventura
+http://tv.asplay.club:25461/movie/marcol/marcol/7271.mp4
+#EXTINF:-1,La Espada Del Inmortal
+http://tv.asplay.club:25461/movie/marcol/marcol/7288.mp4
+#EXTINF:-1,La Estafa De Los Logan
+http://tv.asplay.club:25461/movie/marcol/marcol/7857.mp4
+#EXTINF:-1,La Estrella De Belén
+http://tv.asplay.club:25461/movie/marcol/marcol/5290.mp4
+#EXTINF:-1,La Familia No Se Elige
+http://tv.asplay.club:25461/movie/marcol/marcol/8248.mp4
+#EXTINF:-1,La Forma Del Agua
+http://tv.asplay.club:25461/movie/marcol/marcol/5368.mp4
+#EXTINF:-1,La Invitación
+http://tv.asplay.club:25461/movie/marcol/marcol/7794.mp4
+#EXTINF:-1,La Leyenda Del Charro Negro
+http://tv.asplay.club:25461/movie/marcol/marcol/8382.mp4
+#EXTINF:-1,La Leyenda Del Gigante De La Montaña
+http://tv.asplay.club:25461/movie/marcol/marcol/9268.mp4
+#EXTINF:-1,La Masacre De Texas
+http://tv.asplay.club:25461/movie/marcol/marcol/7222.mp4
+#EXTINF:-1,La Momia
+http://tv.asplay.club:25461/movie/marcol/marcol/7351.mp4
+#EXTINF:-1,La Monja
+http://tv.asplay.club:25461/movie/marcol/marcol/9183.mp4
+#EXTINF:-1,La Montaña Entre Nosotros
+http://tv.asplay.club:25461/movie/marcol/marcol/8655.mp4
+#EXTINF:-1,La Morgue
+http://tv.asplay.club:25461/movie/marcol/marcol/7229.mp4
+#EXTINF:-1,La Muerte De Superman
+http://tv.asplay.club:25461/movie/marcol/marcol/7851.mp4
+#EXTINF:-1,La Mujer Más Asesinada Del Mundo
+http://tv.asplay.club:25461/movie/marcol/marcol/8665.mp4
+#EXTINF:-1,La Mujer Más Asesinada Del Mundo
+http://tv.asplay.club:25461/movie/marcol/marcol/8450.mp4
+#EXTINF:-1,La Muñeca Vudú
+http://tv.asplay.club:25461/movie/marcol/marcol/7236.mp4
+#EXTINF:-1,La Navidad De Las Madres Rebeldes
+http://tv.asplay.club:25461/movie/marcol/marcol/5366.mp4
+#EXTINF:-1,La Niñera
+http://tv.asplay.club:25461/movie/marcol/marcol/145.mp4
+#EXTINF:-1,La Noche Del Demonio: La Última Llave
+http://tv.asplay.club:25461/movie/marcol/marcol/5935.mp4
+#EXTINF:-1,La Noche Devoró Al Mundo
+http://tv.asplay.club:25461/movie/marcol/marcol/8439.mp4
+#EXTINF:-1,La Noche Nos Persigue
+http://tv.asplay.club:25461/movie/marcol/marcol/9154.mp4
+#EXTINF:-1,La Novicia
+http://tv.asplay.club:25461/movie/marcol/marcol/5365.mp4
+#EXTINF:-1,La Peor Semana
+http://tv.asplay.club:25461/movie/marcol/marcol/7810.mp4
+#EXTINF:-1,La Primera Navidad De Mariah Y Jack
+http://tv.asplay.club:25461/movie/marcol/marcol/141.mp4
+#EXTINF:-1,La Primera Purga: La Noche De Las Bestias
+http://tv.asplay.club:25461/movie/marcol/marcol/8960.mp4
+#EXTINF:-1,La Princesa Cisne: Aventura Encubierta
+http://tv.asplay.club:25461/movie/marcol/marcol/8650.mp4
+#EXTINF:-1,La Tierra De Hábitos Constantes
+http://tv.asplay.club:25461/movie/marcol/marcol/9281.mp4
+#EXTINF:-1,La Tierra De Las Buenas Costumbres
+http://tv.asplay.club:25461/movie/marcol/marcol/8671.mp4
+#EXTINF:-1,La Torre Oscura
+http://tv.asplay.club:25461/movie/marcol/marcol/7332.mp4
+#EXTINF:-1,La última Palabra
+http://tv.asplay.club:25461/movie/marcol/marcol/7854.mp4
+#EXTINF:-1,La Venganza Perfecta
+http://tv.asplay.club:25461/movie/marcol/marcol/7557.mp4
+#EXTINF:-1,La Villana
+http://tv.asplay.club:25461/movie/marcol/marcol/26.mp4
+#EXTINF:-1,La Wedding Planner
+http://tv.asplay.club:25461/movie/marcol/marcol/50.mp4
+#EXTINF:-1,LA: CNN INT
+http://tv.asplay.club:25461/marcol/marcol/7084
+#EXTINF:-1,Lady Bird: Vuela A Casa
+http://tv.asplay.club:25461/movie/marcol/marcol/7667.mp4
+#EXTINF:-1,Las Aventuras Del Capitán Calzoncillos: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/7343.mp4
+#EXTINF:-1,Las Crónicas De Navidad
+http://tv.asplay.club:25461/movie/marcol/marcol/9180.mp4
+#EXTINF:-1,Las Horas Más Oscuras
+http://tv.asplay.club:25461/movie/marcol/marcol/70.mp4
+#EXTINF:-1,Las Travesuras De Peter Rabbit
+http://tv.asplay.club:25461/movie/marcol/marcol/7204.mp4
+#EXTINF:-1,LATINA PERU
+http://tv.asplay.club:25461/marcol/marcol/8322
+#EXTINF:-1,Legítimo Rey
+http://tv.asplay.club:25461/movie/marcol/marcol/9158.mp4
+#EXTINF:-1,LEGO Ninjago: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/7283.mp4
+#EXTINF:-1,Life: Vida Inteligente
+http://tv.asplay.club:25461/movie/marcol/marcol/96.mp4
+#EXTINF:-1,LIFETIME
+http://tv.asplay.club:25461/marcol/marcol/7008
+#EXTINF:-1,Liga De La Justicia
+http://tv.asplay.club:25461/movie/marcol/marcol/52.mp4
+#EXTINF:-1,Línea Mortal: Al Límite
+http://tv.asplay.club:25461/movie/marcol/marcol/98.mp4
+#EXTINF:-1,Llámame Por Tu Nombre
+http://tv.asplay.club:25461/movie/marcol/marcol/5367.mp4
+#EXTINF:-1,Lluvia De Acero
+http://tv.asplay.club:25461/movie/marcol/marcol/7285.mp4
+#EXTINF:-1,Lo Que De Verdad Importa
+http://tv.asplay.club:25461/movie/marcol/marcol/6381.mp4
+#EXTINF:-1,Locamente Millonarios
+http://tv.asplay.club:25461/movie/marcol/marcol/9161.mp4
+#EXTINF:-1,MUSICA: Locomotion
+http://tv.asplay.club:25461/marcol/marcol/9294
+#EXTINF:-1,Locos Por Las Nueces 2
+http://tv.asplay.club:25461/movie/marcol/marcol/143.mp4
+#EXTINF:-1,Logan
+http://tv.asplay.club:25461/movie/marcol/marcol/95.mp4
+#EXTINF:-1,Los 50 Son Los Nuevos 30
+http://tv.asplay.club:25461/movie/marcol/marcol/8858.mp4
+#EXTINF:-1,Los 6 Ridículos
+http://tv.asplay.club:25461/movie/marcol/marcol/8399.mp4
+#EXTINF:-1,Los Aristogatos
+http://tv.asplay.club:25461/movie/marcol/marcol/7269.mp4
+#EXTINF:-1,Los Curados
+http://tv.asplay.club:25461/movie/marcol/marcol/7558.mp4
+#EXTINF:-1,Los Descendientes 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7353.mp4
+#EXTINF:-1,Los Extraños: Cacería Nocturna
+http://tv.asplay.club:25461/movie/marcol/marcol/7776.mp4
+#EXTINF:-1,Los Increíbles 2
+http://tv.asplay.club:25461/movie/marcol/marcol/9086.mp4
+#EXTINF:-1,Los Indestructibles 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8537.mp4
+#EXTINF:-1,Los Inquilinos
+http://tv.asplay.club:25461/movie/marcol/marcol/7515.mp4
+#EXTINF:-1,Los Oportunistas
+http://tv.asplay.club:25461/movie/marcol/marcol/8792.mp4
+#EXTINF:-1,Los Picapiedra En Viva Rock Vegas
+http://tv.asplay.club:25461/movie/marcol/marcol/8310.mp4
+#EXTINF:-1,Los Pitufos
+http://tv.asplay.club:25461/movie/marcol/marcol/7270.mp4
+#EXTINF:-1,Los Pitufos 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7274.mp4
+#EXTINF:-1,Los Pitufos En La Aldea Perdida
+http://tv.asplay.club:25461/movie/marcol/marcol/7273.mp4
+#EXTINF:-1,Los Siete Pecados Capitales: Prisioneros Del Cielo
+http://tv.asplay.club:25461/movie/marcol/marcol/9306.mp4
+#EXTINF:-1,Maestro Del Crimen
+http://tv.asplay.club:25461/movie/marcol/marcol/8050.mp4
+#EXTINF:-1,Maggie
+http://tv.asplay.club:25461/movie/marcol/marcol/7797.mp4
+#EXTINF:-1,Magia Extraña
+http://tv.asplay.club:25461/movie/marcol/marcol/7214.mp4
+#EXTINF:-1,Malas Madres
+http://tv.asplay.club:25461/movie/marcol/marcol/8660.mp4
+#EXTINF:-1,Maldición Ancestral
+http://tv.asplay.club:25461/movie/marcol/marcol/7792.mp4
+#EXTINF:-1,Malos Momentos En El Hotel Royale
+http://tv.asplay.club:25461/movie/marcol/marcol/9285.mp4
+#EXTINF:-1,Mamma Mia! Vamos Otra Vez
+http://tv.asplay.club:25461/movie/marcol/marcol/8952.mp4
+#EXTINF:-1,Mañana Empieza Todo
+http://tv.asplay.club:25461/movie/marcol/marcol/8668.mp4
+#EXTINF:-1,Mandíbulas: El Legado
+http://tv.asplay.club:25461/movie/marcol/marcol/8448.mp4
+#EXTINF:-1,Marco Macaco Y Los Primates Del Caribe
+http://tv.asplay.club:25461/movie/marcol/marcol/8669.mp4
+#EXTINF:-1,María Magdalena
+http://tv.asplay.club:25461/movie/marcol/marcol/7766.mp4
+#EXTINF:-1,Marjorie Prime
+http://tv.asplay.club:25461/movie/marcol/marcol/8245.mp4
+#EXTINF:-1,Mark Felt: El Informante
+http://tv.asplay.club:25461/movie/marcol/marcol/8734.mp4
+#EXTINF:-1,Más Allá De La Montaña
+http://tv.asplay.club:25461/movie/marcol/marcol/75.mp4
+#EXTINF:-1,Más Allá Del Horizonte
+http://tv.asplay.club:25461/movie/marcol/marcol/5364.mp4
+#EXTINF:-1,MAS CHIC
+http://tv.asplay.club:25461/marcol/marcol/8110
+#EXTINF:-1,Matar O Morir
+http://tv.asplay.club:25461/movie/marcol/marcol/9297.mp4
+#EXTINF:-1,MAX PRIME FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8038
+#EXTINF:-1,MAX PRIME SD
+http://tv.asplay.club:25461/marcol/marcol/6439
+#EXTINF:-1,MAX UP
+http://tv.asplay.club:25461/marcol/marcol/6961
+#EXTINF:-1,Mayhem
+http://tv.asplay.club:25461/movie/marcol/marcol/7669.mp4
+#EXTINF:-1,Maze
+http://tv.asplay.club:25461/movie/marcol/marcol/8444.mp4
+#EXTINF:-1,Maze Runner: La Cura Mortal
+http://tv.asplay.club:25461/movie/marcol/marcol/7293.mp4
+#EXTINF:-1,Mazinger Z: Infinity
+http://tv.asplay.club:25461/movie/marcol/marcol/8107.mp4
+#EXTINF:-1,Me Casé Con Un Boludo
+http://tv.asplay.club:25461/movie/marcol/marcol/8251.mp4
+#EXTINF:-1,Meet The Blacks
+http://tv.asplay.club:25461/movie/marcol/marcol/7784.mp4
+#EXTINF:-1,Megalodón
+http://tv.asplay.club:25461/movie/marcol/marcol/9084.mp4
+#EXTINF:-1,Megan Leavey
+http://tv.asplay.club:25461/movie/marcol/marcol/6371.mp4
+#EXTINF:-1,Melanie: Apocalipsis Zombie
+http://tv.asplay.club:25461/movie/marcol/marcol/7223.mp4
+#EXTINF:-1,MELODY CHANNEL
+http://tv.asplay.club:25461/marcol/marcol/6690
+#EXTINF:-1,Mentes Poderosas
+http://tv.asplay.club:25461/movie/marcol/marcol/9083.mp4
+#EXTINF:-1,Mi Ex Es Un Espía
+http://tv.asplay.club:25461/movie/marcol/marcol/8950.mp4
+#EXTINF:-1,Mi Familia Del Norte
+http://tv.asplay.club:25461/movie/marcol/marcol/8316.mp4
+#EXTINF:-1,Mi Nombre Es Te Ata
+http://tv.asplay.club:25461/movie/marcol/marcol/8672.mp4
+#EXTINF:-1,Mi Nueva Yo
+http://tv.asplay.club:25461/movie/marcol/marcol/131.mp4
+#EXTINF:-1,Mi Primera Lucha
+http://tv.asplay.club:25461/movie/marcol/marcol/6401.mp4
+#EXTINF:-1,Mi Villano Favorito 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7264.mp4
+#EXTINF:-1,Mi Villano Favorito 3
+http://tv.asplay.club:25461/movie/marcol/marcol/78.mp4
+#EXTINF:-1,Miedo Profundo
+http://tv.asplay.club:25461/movie/marcol/marcol/7789.mp4
+#EXTINF:-1,Milla 22: El Escape
+http://tv.asplay.club:25461/movie/marcol/marcol/9176.mp4
+#EXTINF:-1,Mío O De Nadie
+http://tv.asplay.club:25461/movie/marcol/marcol/135.mp4
+#EXTINF:-1,Misión: Imposible - Repercusión
+http://tv.asplay.club:25461/movie/marcol/marcol/9164.mp4
+#EXTINF:-1,MLB NETWORK (MX)
+http://tv.asplay.club:25461/marcol/marcol/7042
+#EXTINF:-1,Moana: Un Mar De Aventuras
+http://tv.asplay.club:25461/movie/marcol/marcol/6006.mp4
+#EXTINF:-1,Mojin - La Leyenda Perdida
+http://tv.asplay.club:25461/movie/marcol/marcol/7762.mp4
+#EXTINF:-1,Morgan
+http://tv.asplay.club:25461/movie/marcol/marcol/7783.mp4
+#EXTINF:-1,MotoGP HD
+http://tv.asplay.club:25461/marcol/marcol/7653
+#EXTINF:-1,MOVISTAR DEPORTES
+http://tv.asplay.club:25461/marcol/marcol/6962
+#EXTINF:-1,MOVISTAR F1 (CO)
+http://tv.asplay.club:25461/marcol/marcol/7652
+#EXTINF:-1,MOVISTAR FUTBOL
+http://tv.asplay.club:25461/marcol/marcol/7815
+#EXTINF:-1,Mowgli: Relatos Del Libro De La Selva
+http://tv.asplay.club:25461/movie/marcol/marcol/9267.mp4
+#EXTINF:-1,MTV HD
+http://tv.asplay.club:25461/marcol/marcol/8012
+#EXTINF:-1,MTV LIVE
+http://tv.asplay.club:25461/marcol/marcol/8013
+#EXTINF:-1,Mudo
+http://tv.asplay.club:25461/movie/marcol/marcol/165.mp4
+#EXTINF:-1,Muerte En Tombstone 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7346.mp4
+#EXTINF:-1,Mujer Maravilla
+http://tv.asplay.club:25461/movie/marcol/marcol/7342.mp4
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD (CP)
+http://tv.asplay.club:25461/marcol/marcol/7875
+#EXTINF:-1,MUSIC TOP (PM)
+http://tv.asplay.club:25461/marcol/marcol/6694
+#EXTINF:-1,MX Canal De Las Estrellas HD (RO)
+http://tv.asplay.club:25461/marcol/marcol/6819
+#EXTINF:-1,My Little Pony: La Película
+http://tv.asplay.club:25461/movie/marcol/marcol/77.mp4
+#EXTINF:-1,NATGEO  HD
+http://tv.asplay.club:25461/marcol/marcol/6456
+#EXTINF:-1,NATGEO KIDS HD
+http://tv.asplay.club:25461/marcol/marcol/7029
+#EXTINF:-1,NATGEO KIDS SD
+http://tv.asplay.club:25461/marcol/marcol/8040
+#EXTINF:-1,NATGEO SD
+http://tv.asplay.club:25461/marcol/marcol/8039
+#EXTINF:-1,NATGEO WILD FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8041
+#EXTINF:-1,NATGEO WILD HD
+http://tv.asplay.club:25461/marcol/marcol/9120
+#EXTINF:-1,NATGEO WILD SD
+http://tv.asplay.club:25461/marcol/marcol/6457
+#EXTINF:-1,NBA League Pass - Atlanta Hawks
+http://tv.asplay.club:25461/marcol/marcol/9479
+#EXTINF:-1,NBA League Pass - Boston Celtics
+http://tv.asplay.club:25461/marcol/marcol/9478
+#EXTINF:-1,NBA League Pass - Brooklyn Nets
+http://tv.asplay.club:25461/marcol/marcol/9477
+#EXTINF:-1,NBA League Pass - Charlotte Hornets
+http://tv.asplay.club:25461/marcol/marcol/9476
+#EXTINF:-1,NBA League Pass - Chicago Bulls
+http://tv.asplay.club:25461/marcol/marcol/9475
+#EXTINF:-1,NBA League Pass - Cleveland Cavaliers
+http://tv.asplay.club:25461/marcol/marcol/9474
+#EXTINF:-1,NBA League Pass - Dallas Mavericks
+http://tv.asplay.club:25461/marcol/marcol/9473
+#EXTINF:-1,NBA League Pass - Denver Nuggets
+http://tv.asplay.club:25461/marcol/marcol/9472
+#EXTINF:-1,NBA League Pass - Detroit Pistons
+http://tv.asplay.club:25461/marcol/marcol/9471
+#EXTINF:-1,NBA League Pass - Golden State Warriors
+http://tv.asplay.club:25461/marcol/marcol/9470
+#EXTINF:-1,NBA League Pass - Houston Rockets
+http://tv.asplay.club:25461/marcol/marcol/9469
+#EXTINF:-1,NBA League Pass - Indiana Pacers
+http://tv.asplay.club:25461/marcol/marcol/9468
+#EXTINF:-1,NBA League Pass - Los Angeles Clippers
+http://tv.asplay.club:25461/marcol/marcol/9467
+#EXTINF:-1,NBA League Pass - Los Angeles Lakers
+http://tv.asplay.club:25461/marcol/marcol/9466
+#EXTINF:-1,NBA League Pass - Memphis Grizzlies
+http://tv.asplay.club:25461/marcol/marcol/9465
+#EXTINF:-1,NBA League Pass - Miami Heat
+http://tv.asplay.club:25461/marcol/marcol/9464
+#EXTINF:-1,NBA League Pass - Milwaukee Bucks
+http://tv.asplay.club:25461/marcol/marcol/9463
+#EXTINF:-1,NBA League Pass - Minnesota Timberwolves
+http://tv.asplay.club:25461/marcol/marcol/9462
+#EXTINF:-1,NBA League Pass - NBA TV HD
+http://tv.asplay.club:25461/marcol/marcol/9461
+#EXTINF:-1,NBA League Pass - New Orleans Pelicans
+http://tv.asplay.club:25461/marcol/marcol/9460
+#EXTINF:-1,NBA League Pass - New York Knicks
+http://tv.asplay.club:25461/marcol/marcol/9459
+#EXTINF:-1,NBA League Pass - Oklahoma City Thunder
+http://tv.asplay.club:25461/marcol/marcol/9458
+#EXTINF:-1,NBA League Pass - Orlando Magic
+http://tv.asplay.club:25461/marcol/marcol/9457
+#EXTINF:-1,NBA League Pass - Philadelphia 76ers
+http://tv.asplay.club:25461/marcol/marcol/9456
+#EXTINF:-1,NBA League Pass - Phoenix Suns
+http://tv.asplay.club:25461/marcol/marcol/9455
+#EXTINF:-1,NBA League Pass - Portland Trail Blazers
+http://tv.asplay.club:25461/marcol/marcol/9454
+#EXTINF:-1,NBA League Pass - Sacramento Kings
+http://tv.asplay.club:25461/marcol/marcol/9453
+#EXTINF:-1,NBA League Pass - San Antonio Spurs
+http://tv.asplay.club:25461/marcol/marcol/9452
+#EXTINF:-1,NBA League Pass - Toronto Raptors
+http://tv.asplay.club:25461/marcol/marcol/9451
+#EXTINF:-1,NBA League Pass - Utah Jazz
+http://tv.asplay.club:25461/marcol/marcol/9450
+#EXTINF:-1,NBA League Pass - Washington Wizards
+http://tv.asplay.club:25461/marcol/marcol/9449
+#EXTINF:-1,Newness
+http://tv.asplay.club:25461/movie/marcol/marcol/5289.mp4
+#EXTINF:-1,NICk 2
+http://tv.asplay.club:25461/marcol/marcol/6765
+#EXTINF:-1,NICK 2 1080
+http://tv.asplay.club:25461/marcol/marcol/8007
+#EXTINF:-1,NICK JR 1080
+http://tv.asplay.club:25461/marcol/marcol/8009
+#EXTINF:-1,NICk JUNIOR
+http://tv.asplay.club:25461/marcol/marcol/6766
+#EXTINF:-1,NICKELODEON FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8010
+#EXTINF:-1,NICkELODEON HD
+http://tv.asplay.club:25461/marcol/marcol/7010
+#EXTINF:-1,NICKTOONS
+http://tv.asplay.club:25461/marcol/marcol/6813
+#EXTINF:-1,Nido De Amor
+http://tv.asplay.club:25461/movie/marcol/marcol/130.mp4
+#EXTINF:-1,No Dejes De Mirar
+http://tv.asplay.club:25461/movie/marcol/marcol/8438.mp4
+#EXTINF:-1,No Dormirás
+http://tv.asplay.club:25461/movie/marcol/marcol/9305.mp4
+#EXTINF:-1,No Game, No Life: Zero
+http://tv.asplay.club:25461/movie/marcol/marcol/8113.mp4
+#EXTINF:-1,No Manches Frida
+http://tv.asplay.club:25461/movie/marcol/marcol/8856.avi
+#EXTINF:-1,No Me Las Toquen
+http://tv.asplay.club:25461/movie/marcol/marcol/7632.mp4
+#EXTINF:-1,No Respires
+http://tv.asplay.club:25461/movie/marcol/marcol/7785.mp4
+#EXTINF:-1,No Soy Un Asesino En Serie
+http://tv.asplay.club:25461/movie/marcol/marcol/7759.mp4
+#EXTINF:-1,No Soy Un Hombre Fácil
+http://tv.asplay.club:25461/movie/marcol/marcol/7758.mp4
+#EXTINF:-1,Noche De Juegos
+http://tv.asplay.club:25461/movie/marcol/marcol/7808.mp4
+#EXTINF:-1,Noche De Lobos
+http://tv.asplay.club:25461/movie/marcol/marcol/8789.mp4
+#EXTINF:-1,Noche De Venganza
+http://tv.asplay.club:25461/movie/marcol/marcol/76.mp4
+#EXTINF:-1,Nostalgia
+http://tv.asplay.club:25461/movie/marcol/marcol/9159.mp4
+#EXTINF:-1,Notas Perfectas 3
+http://tv.asplay.club:25461/movie/marcol/marcol/5429.mp4
+#EXTINF:-1,Nuestra última Aventura
+http://tv.asplay.club:25461/movie/marcol/marcol/8768.mp4
+#EXTINF:-1,CRIS: Nuevo Tiempo
+http://tv.asplay.club:25461/marcol/marcol/8743
+#EXTINF:-1,Nunca Te Vayas
+http://tv.asplay.club:25461/movie/marcol/marcol/7221.mp4
+#EXTINF:-1,Ocean's 8: Las Estafadoras
+http://tv.asplay.club:25461/movie/marcol/marcol/8122.mp4
+#EXTINF:-1,Olé: El Viaje De Ferdinand
+http://tv.asplay.club:25461/movie/marcol/marcol/5369.mp4
+#EXTINF:-1,Olvidado
+http://tv.asplay.club:25461/movie/marcol/marcol/5288.mp4
+#EXTINF:-1,Ominoso
+http://tv.asplay.club:25461/movie/marcol/marcol/7804.mp4
+#EXTINF:-1,Opening Night
+http://tv.asplay.club:25461/movie/marcol/marcol/8255.mp4
+#EXTINF:-1,Operación Casino
+http://tv.asplay.club:25461/movie/marcol/marcol/8250.mp4
+#EXTINF:-1,Operación Final
+http://tv.asplay.club:25461/movie/marcol/marcol/8958.mp4
+#EXTINF:-1,Operación Mekong
+http://tv.asplay.club:25461/movie/marcol/marcol/7349.mp4
+#EXTINF:-1,Operación Red Sparrow
+http://tv.asplay.club:25461/movie/marcol/marcol/7191.mp4
+#EXTINF:-1,Operación: Huracán
+http://tv.asplay.club:25461/movie/marcol/marcol/8666.mp4
+#EXTINF:-1,Orgullo, Prejuicio Y Zombies
+http://tv.asplay.club:25461/movie/marcol/marcol/7798.mp4
+#EXTINF:-1,Oro
+http://tv.asplay.club:25461/movie/marcol/marcol/8663.mp4
+#EXTINF:-1,Otra Noche En La Tierra
+http://tv.asplay.club:25461/movie/marcol/marcol/8667.mp4
+#EXTINF:-1,Ouija: El Origen Del Mal
+http://tv.asplay.club:25461/movie/marcol/marcol/7761.mp4
+#EXTINF:-1,Pablo, Apóstol De Cristo
+http://tv.asplay.club:25461/movie/marcol/marcol/7526.mp4
+#EXTINF:-1,Paciente Cero
+http://tv.asplay.club:25461/movie/marcol/marcol/9144.mp4
+#EXTINF:-1,Paddington 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7209.mp4
+#EXTINF:-1,Panama: ECO TV
+http://tv.asplay.club:25461/marcol/marcol/8426
+#EXTINF:-1,Panama: NEXTV
+http://tv.asplay.club:25461/marcol/marcol/8425
+#EXTINF:-1,Panama: RPC
+http://tv.asplay.club:25461/marcol/marcol/8427
+#EXTINF:-1,Panama: Telemetro
+http://tv.asplay.club:25461/marcol/marcol/9506
+#EXTINF:-1,Panama: TVN
+http://tv.asplay.club:25461/marcol/marcol/8424
+#EXTINF:-1,PANAMERICANA PERU
+http://tv.asplay.club:25461/marcol/marcol/8323
+#EXTINF:-1,Pandemia
+http://tv.asplay.club:25461/movie/marcol/marcol/7216.mp4
+#EXTINF:-1,Pantera Negra
+http://tv.asplay.club:25461/movie/marcol/marcol/7199.mp4
+#EXTINF:-1,Papás Con Honores
+http://tv.asplay.club:25461/movie/marcol/marcol/7777.mp4
+#EXTINF:-1,Paraguay - C9N
+http://tv.asplay.club:25461/marcol/marcol/9580
+#EXTINF:-1,Paraguay - Lobo Station
+http://tv.asplay.club:25461/marcol/marcol/9572
+#EXTINF:-1,Paraguay - Noticias PY
+http://tv.asplay.club:25461/marcol/marcol/9570
+#EXTINF:-1,Paraguay - Paravision
+http://tv.asplay.club:25461/marcol/marcol/9573
+#EXTINF:-1,Paraguay - RPC
+http://tv.asplay.club:25461/marcol/marcol/9578
+#EXTINF:-1,Paraguay - Snt
+http://tv.asplay.club:25461/marcol/marcol/9577
+#EXTINF:-1,Paraguay - Telefuturo
+http://tv.asplay.club:25461/marcol/marcol/9576
+#EXTINF:-1,Paraguay - Unicanal
+http://tv.asplay.club:25461/marcol/marcol/9575
+#EXTINF:-1,Paraguay | Tigo Sports plus
+http://tv.asplay.club:25461/marcol/marcol/9569
+#EXTINF:-1,Paraguay: UNICANAL
+http://tv.asplay.club:25461/marcol/marcol/7585
+#EXTINF:-1,PARAMOUNT
+http://tv.asplay.club:25461/marcol/marcol/8008
+#EXTINF:-1,PARAMOUNT FULL HD
+http://tv.asplay.club:25461/marcol/marcol/9119
+#EXTINF:-1,París Puede Esperar
+http://tv.asplay.club:25461/movie/marcol/marcol/7856.mp4
+#EXTINF:-1,PASIONES HD
+http://tv.asplay.club:25461/marcol/marcol/7628
+#EXTINF:-1,PE: America Tv (RO)
+http://tv.asplay.club:25461/marcol/marcol/6444
+#EXTINF:-1,PE: ATV [RO]
+http://tv.asplay.club:25461/marcol/marcol/6703
+#EXTINF:-1,PE: CAPITAL TV
+http://tv.asplay.club:25461/marcol/marcol/6590
+#EXTINF:-1,PE: GOL PERU
+http://tv.asplay.club:25461/marcol/marcol/6447
+#EXTINF:-1,PE: Panamericana
+http://tv.asplay.club:25461/marcol/marcol/6830
+#EXTINF:-1,PE: Peru Magico
+http://tv.asplay.club:25461/marcol/marcol/6831
+#EXTINF:-1,PE: Tv Peru
+http://tv.asplay.club:25461/marcol/marcol/6833
+#EXTINF:-1,PE: WILLAX tv
+http://tv.asplay.club:25461/marcol/marcol/9480
+#EXTINF:-1,Peligro En Bushwick
+http://tv.asplay.club:25461/movie/marcol/marcol/7208.mp4
+#EXTINF:-1,Peligro En La Montaña
+http://tv.asplay.club:25461/movie/marcol/marcol/7202.mp4
+#EXTINF:-1,Pequeña Gran Vida
+http://tv.asplay.club:25461/movie/marcol/marcol/5388.mp4
+#EXTINF:-1,Pequeño Demonio
+http://tv.asplay.club:25461/movie/marcol/marcol/7233.mp4
+#EXTINF:-1,Perdida
+http://tv.asplay.club:25461/movie/marcol/marcol/8049.mp4
+#EXTINF:-1,Perdido En La Fama
+http://tv.asplay.club:25461/movie/marcol/marcol/7206.mp4
+#EXTINF:-1,Persecución Al Límite
+http://tv.asplay.club:25461/movie/marcol/marcol/7352.mp4
+#EXTINF:-1,Pesadilla En El Infierno
+http://tv.asplay.club:25461/movie/marcol/marcol/8729.mp4
+#EXTINF:-1,Pie Pequeño
+http://tv.asplay.club:25461/movie/marcol/marcol/9184.mp4
+#EXTINF:-1,Piratas Del Caribe: El Cofre De La Muerte
+http://tv.asplay.club:25461/movie/marcol/marcol/7337.mp4
+#EXTINF:-1,Piratas Del Caribe: En El Fin Del Mundo
+http://tv.asplay.club:25461/movie/marcol/marcol/7338.mp4
+#EXTINF:-1,Piratas Del Caribe: La Maldición Del Perla Negra
+http://tv.asplay.club:25461/movie/marcol/marcol/7336.mp4
+#EXTINF:-1,Piratas Del Caribe: La Venganza De Salazar
+http://tv.asplay.club:25461/movie/marcol/marcol/7340.mp4
+#EXTINF:-1,Piratas Del Caribe: Navegando Aguas Misteriosas
+http://tv.asplay.club:25461/movie/marcol/marcol/7339.mp4
+#EXTINF:-1,Plan V
+http://tv.asplay.club:25461/movie/marcol/marcol/9303.mp4
+#EXTINF:-1,Pokémon La Película: ¡Yo Te Elijo!
+http://tv.asplay.club:25461/movie/marcol/marcol/7847.mp4
+#EXTINF:-1,Pokémon La Película: El Poder De Todos
+http://tv.asplay.club:25461/movie/marcol/marcol/9284.mp4
+#EXTINF:-1,Pottersville
+http://tv.asplay.club:25461/movie/marcol/marcol/7855.mp4
+#EXTINF:-1,PR: CDM Internacional (FR)
+http://tv.asplay.club:25461/marcol/marcol/7605
+#EXTINF:-1,PR: CTNI
+http://tv.asplay.club:25461/marcol/marcol/8363
+#EXTINF:-1,PR: MEGA TV
+http://tv.asplay.club:25461/marcol/marcol/9671
+#EXTINF:-1,PR: Teleoro Canal 13
+http://tv.asplay.club:25461/marcol/marcol/8395
+#EXTINF:-1,PR: UNIVISION
+http://tv.asplay.club:25461/marcol/marcol/8396
+#EXTINF:-1,PR: WAPA
+http://tv.asplay.club:25461/marcol/marcol/8394
+#EXTINF:-1,PR: WAPA 2
+http://tv.asplay.club:25461/marcol/marcol/9670
+#EXTINF:-1,PR: WIPR
+http://tv.asplay.club:25461/marcol/marcol/8362
+#EXTINF:-1,Prisionero 99
+http://tv.asplay.club:25461/movie/marcol/marcol/60.mp4
+#EXTINF:-1,Proud Mary
+http://tv.asplay.club:25461/movie/marcol/marcol/6393.mp4
+#EXTINF:-1,PUBLICIDAD
+http://tv.asplay.club:25461/marcol/marcol/8338
+#EXTINF:-1,Puertas Abiertas
+http://tv.asplay.club:25461/movie/marcol/marcol/69.mp4
+#EXTINF:-1,Punto Ciego
+http://tv.asplay.club:25461/movie/marcol/marcol/9160.mp4
+#EXTINF:-1,Pura Sangre
+http://tv.asplay.club:25461/movie/marcol/marcol/7485.mp4
+#EXTINF:-1,Querido Dictador
+http://tv.asplay.club:25461/movie/marcol/marcol/8298.mp4
+#EXTINF:-1,RADI
+http://tv.asplay.club:25461/marcol/marcol/8849
+#EXTINF:-1,Rampage: Devastación
+http://tv.asplay.club:25461/movie/marcol/marcol/7676.mp4
+#EXTINF:-1,Rápido Y Furioso 1
+http://tv.asplay.club:25461/movie/marcol/marcol/8270.mp4
+#EXTINF:-1,Rápido Y Furioso: Reto Tokio 3
+http://tv.asplay.club:25461/movie/marcol/marcol/8272.mp4
+#EXTINF:-1,Rápidos Y Furiosos 4
+http://tv.asplay.club:25461/movie/marcol/marcol/8273.mp4
+#EXTINF:-1,Rápidos Y Furiosos 5
+http://tv.asplay.club:25461/movie/marcol/marcol/8274.mp4
+#EXTINF:-1,Rápidos Y Furiosos 6
+http://tv.asplay.club:25461/movie/marcol/marcol/8275.mp4
+#EXTINF:-1,Rápidos Y Furiosos 7
+http://tv.asplay.club:25461/movie/marcol/marcol/8276.mp4
+#EXTINF:-1,Rápidos Y Furiosos 8
+http://tv.asplay.club:25461/movie/marcol/marcol/8277.mp4
+#EXTINF:-1,Rascacielos: Rescate En Las Alturas
+http://tv.asplay.club:25461/movie/marcol/marcol/8770.mp4
+#EXTINF:-1,Rastro De Sangre
+http://tv.asplay.club:25461/movie/marcol/marcol/8654.mp4
+#EXTINF:-1,RD -  Bonao Tv
+http://tv.asplay.club:25461/marcol/marcol/9505
+#EXTINF:-1,RD -  Canal 19
+http://tv.asplay.club:25461/marcol/marcol/9504
+#EXTINF:-1,RD -  Color Vision 9
+http://tv.asplay.club:25461/marcol/marcol/9503
+#EXTINF:-1,RD -  La Voz De Maria
+http://tv.asplay.club:25461/marcol/marcol/9501
+#EXTINF:-1,RD -  ONDA TV CANAL 10
+http://tv.asplay.club:25461/marcol/marcol/9500
+#EXTINF:-1,RD -  Super Tv 55
+http://tv.asplay.club:25461/marcol/marcol/9499
+#EXTINF:-1,RD -  Telecentro 13
+http://tv.asplay.club:25461/marcol/marcol/9498
+#EXTINF:-1,RD -  TeleRadioAmerica 45
+http://tv.asplay.club:25461/marcol/marcol/9495
+#EXTINF:-1,RD -  TeleUniverso
+http://tv.asplay.club:25461/marcol/marcol/9493
+#EXTINF:-1,RD -  YUNA VISION CANAL 10
+http://tv.asplay.club:25461/marcol/marcol/9492
+#EXTINF:-1,Ready Player One: Comienza El Juego
+http://tv.asplay.club:25461/movie/marcol/marcol/7707.mp4
+#EXTINF:-1,REALITYHIGH
+http://tv.asplay.club:25461/movie/marcol/marcol/8252.mp4
+#EXTINF:-1,Rebelde Entre El Centeno
+http://tv.asplay.club:25461/movie/marcol/marcol/8447.mp4
+#EXTINF:-1,Rescate En Entebbe
+http://tv.asplay.club:25461/movie/marcol/marcol/8440.mp4
+#EXTINF:-1,Resident Evil: Capítulo Final
+http://tv.asplay.club:25461/movie/marcol/marcol/7230.mp4
+#EXTINF:-1,Retiro Voluntario
+http://tv.asplay.club:25461/movie/marcol/marcol/81.mp4
+#EXTINF:-1,Revolt
+http://tv.asplay.club:25461/movie/marcol/marcol/7943.mp4
+#EXTINF:-1,Ritual Del Más Allá
+http://tv.asplay.club:25461/movie/marcol/marcol/7234.mp4
+#EXTINF:-1,Robot
+http://tv.asplay.club:25461/movie/marcol/marcol/8378.mp4
+#EXTINF:-1,Rocky 1
+http://tv.asplay.club:25461/movie/marcol/marcol/8279.mp4
+#EXTINF:-1,Rocky 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8280.mp4
+#EXTINF:-1,Rocky 3
+http://tv.asplay.club:25461/movie/marcol/marcol/8281.mp4
+#EXTINF:-1,Rocky 5
+http://tv.asplay.club:25461/movie/marcol/marcol/8283.mp4
+#EXTINF:-1,Rocky Balboa 6
+http://tv.asplay.club:25461/movie/marcol/marcol/8284.mp4
+#EXTINF:-1,Rocky IV
+http://tv.asplay.club:25461/movie/marcol/marcol/8282.mp4
+#EXTINF:-1,Roma
+http://tv.asplay.club:25461/movie/marcol/marcol/9279.mp4
+#EXTINF:-1,Roman J  Israel, Esq
+http://tv.asplay.club:25461/movie/marcol/marcol/84.mp4
+#EXTINF:-1,Roxanne Roxanne
+http://tv.asplay.club:25461/movie/marcol/marcol/6364.mp4
+#EXTINF:-1,Sahara
+http://tv.asplay.club:25461/movie/marcol/marcol/6005.mp4
+#EXTINF:-1,Same Kind Of Different As Me
+http://tv.asplay.club:25461/movie/marcol/marcol/93.mp4
+#EXTINF:-1,Sansón
+http://tv.asplay.club:25461/movie/marcol/marcol/7189.mp4
+#EXTINF:-1,Scooby-Doo Y Batman El Valiente
+http://tv.asplay.club:25461/movie/marcol/marcol/7287.mp4
+#EXTINF:-1,Secuestro En Venice
+http://tv.asplay.club:25461/movie/marcol/marcol/7289.mp4
+#EXTINF:-1,Set It Up: El Plan Imperfecto
+http://tv.asplay.club:25461/movie/marcol/marcol/7559.mp4
+#EXTINF:-1,Sexy Por Accidente
+http://tv.asplay.club:25461/movie/marcol/marcol/7708.mp4
+#EXTINF:-1,Sherlock Gnomes
+http://tv.asplay.club:25461/movie/marcol/marcol/7513.mp4
+#EXTINF:-1,Show De Perros
+http://tv.asplay.club:25461/movie/marcol/marcol/8047.mp4
+#EXTINF:-1,Si Solo Pudiera Imaginar
+http://tv.asplay.club:25461/movie/marcol/marcol/7779.mp4
+#EXTINF:-1,Siberia
+http://tv.asplay.club:25461/movie/marcol/marcol/8957.mp4
+#EXTINF:-1,Sicario: Día Del Soldado
+http://tv.asplay.club:25461/movie/marcol/marcol/8731.mp4
+#EXTINF:-1,Sierra Burgess Es Una Loser
+http://tv.asplay.club:25461/movie/marcol/marcol/8381.mp4
+#EXTINF:-1,Silencio
+http://tv.asplay.club:25461/movie/marcol/marcol/7803.mp4
+#EXTINF:-1,Sin Rastro
+http://tv.asplay.club:25461/movie/marcol/marcol/9156.mp4
+#EXTINF:-1,Sin Refugio
+http://tv.asplay.club:25461/movie/marcol/marcol/7217.mp4
+#EXTINF:-1,Sing: ¡Ven Y Canta!
+http://tv.asplay.club:25461/movie/marcol/marcol/80.mp4
+#EXTINF:-1,Slender Man
+http://tv.asplay.club:25461/movie/marcol/marcol/8894.mp4
+#EXTINF:-1,Slender Man Subtitulada
+http://tv.asplay.club:25461/movie/marcol/marcol/8864.avi
+#EXTINF:-1,Solo Los Valientes
+http://tv.asplay.club:25461/movie/marcol/marcol/6367.mp4
+#EXTINF:-1,Son Como Niños
+http://tv.asplay.club:25461/movie/marcol/marcol/7258.mp4
+#EXTINF:-1,Son Como Niños 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7266.mp4
+#EXTINF:-1,Sonidos Del Corazón
+http://tv.asplay.club:25461/movie/marcol/marcol/9276.mp4
+#EXTINF:-1,SONY FULL HD
+http://tv.asplay.club:25461/marcol/marcol/8006
+#EXTINF:-1,SONY SD
+http://tv.asplay.club:25461/marcol/marcol/6452
+#EXTINF:-1,SPACE
+http://tv.asplay.club:25461/marcol/marcol/7093
+#EXTINF:-1,SPACE 1080 (CP)
+http://tv.asplay.club:25461/marcol/marcol/8005
+#EXTINF:-1,Space Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9097
+#EXTINF:-1,Spider-Man: De Regreso A Casa
+http://tv.asplay.club:25461/movie/marcol/marcol/92.mp4
+#EXTINF:-1,Star Wars: Los Ãºltimos Jedi
+http://tv.asplay.club:25461/movie/marcol/marcol/5392.mp4
+#EXTINF:-1,Starship Troopers: Traidor De Marte
+http://tv.asplay.club:25461/movie/marcol/marcol/137.mp4
+#EXTINF:-1,Step Sisters
+http://tv.asplay.club:25461/movie/marcol/marcol/68.mp4
+#EXTINF:-1,STUDIO UNIVERSAL
+http://tv.asplay.club:25461/marcol/marcol/6458
+#EXTINF:-1,Suburbicon: Bienvenidos Al Paraí­so
+http://tv.asplay.club:25461/movie/marcol/marcol/61.mp4
+#EXTINF:-1,Sueño En Otro Idioma
+http://tv.asplay.club:25461/movie/marcol/marcol/9308.mp4
+#EXTINF:-1,Super Policías 2
+http://tv.asplay.club:25461/movie/marcol/marcol/7715.mp4
+#EXTINF:-1,Sweet Virginia
+http://tv.asplay.club:25461/movie/marcol/marcol/8954.mp4
+#EXTINF:-1,SYFY
+http://tv.asplay.club:25461/marcol/marcol/7033
+#EXTINF:-1,Tadeo El Explorador Perdido 2: El Secreto Del Rey Midas
+http://tv.asplay.club:25461/movie/marcol/marcol/6400.mp4
+#EXTINF:-1,Tau
+http://tv.asplay.club:25461/movie/marcol/marcol/7670.mp4
+#EXTINF:-1,TBS
+http://tv.asplay.club:25461/marcol/marcol/6440
+#EXTINF:-1,TCM SD
+http://tv.asplay.club:25461/marcol/marcol/7030
+#EXTINF:-1,TDN
+http://tv.asplay.club:25461/marcol/marcol/6441
+#EXTINF:-1,Teen Titans Go
+http://tv.asplay.club:25461/movie/marcol/marcol/8315.mp4
+#EXTINF:-1,TELEMUNDO
+http://tv.asplay.club:25461/marcol/marcol/7884
+#EXTINF:-1,MX: TELEMUNDO  LOS ANGELES
+http://tv.asplay.club:25461/marcol/marcol/7712
+#EXTINF:-1,MX: TELEMUNDO INTERNACIONAL
+http://tv.asplay.club:25461/marcol/marcol/8845
+#EXTINF:-1,TELEMUNDO NY47
+http://tv.asplay.club:25461/marcol/marcol/8066
+#EXTINF:-1,MUSICA: Telemusica
+http://tv.asplay.club:25461/marcol/marcol/9293
+#EXTINF:-1,TELENOVELAS
+http://tv.asplay.club:25461/marcol/marcol/6475
+#EXTINF:-1,Telesur HD (FR)
+http://tv.asplay.club:25461/marcol/marcol/7178
+#EXTINF:-1,TENNIS CHANNEL HD
+http://tv.asplay.club:25461/marcol/marcol/7473
+#EXTINF:-1,Terminator
+http://tv.asplay.club:25461/movie/marcol/marcol/8560.mkv
+#EXTINF:-1,Terminator Génesis
+http://tv.asplay.club:25461/movie/marcol/marcol/8559.mp4
+#EXTINF:-1,Terror Bajo La Tierra 6: Un Día Frío En El Infierno
+http://tv.asplay.club:25461/movie/marcol/marcol/7205.mp4
+#EXTINF:-1,Terror Profundo
+http://tv.asplay.club:25461/movie/marcol/marcol/102.mp4
+#EXTINF:-1,The After Party
+http://tv.asplay.club:25461/movie/marcol/marcol/8114.mp4
+#EXTINF:-1,The Angel: La Historia De Ashraf Marwan
+http://tv.asplay.club:25461/movie/marcol/marcol/8437.mp4
+#EXTINF:-1,The Catcher Was A Spy
+http://tv.asplay.club:25461/movie/marcol/marcol/8787.mp4
+#EXTINF:-1,The Cloverfield Paradox
+http://tv.asplay.club:25461/movie/marcol/marcol/62.mp4
+#EXTINF:-1,The Domestics
+http://tv.asplay.club:25461/movie/marcol/marcol/9263.mp4
+#EXTINF:-1,The Good Catholic
+http://tv.asplay.club:25461/movie/marcol/marcol/8247.mp4
+#EXTINF:-1,The Layover
+http://tv.asplay.club:25461/movie/marcol/marcol/87.mp4
+#EXTINF:-1,The Place
+http://tv.asplay.club:25461/movie/marcol/marcol/8773.mp4
+#EXTINF:-1,The Recall
+http://tv.asplay.club:25461/movie/marcol/marcol/7242.mp4
+#EXTINF:-1,The Villainess
+http://tv.asplay.club:25461/movie/marcol/marcol/8443.mp4
+#EXTINF:-1,Thor: Ragnarok
+http://tv.asplay.club:25461/movie/marcol/marcol/85.mp4
+#EXTINF:-1,TIIN SD
+http://tv.asplay.club:25461/marcol/marcol/7732
+#EXTINF:-1,Tinker Bell: Hadas Y Piratas
+http://tv.asplay.club:25461/movie/marcol/marcol/7341.mp4
+#EXTINF:-1,Tío Drew
+http://tv.asplay.club:25461/movie/marcol/marcol/8728.mp4
+#EXTINF:-1,Titanes Del Pacífico: La Insurrección
+http://tv.asplay.club:25461/movie/marcol/marcol/7525.mp4
+#EXTINF:-1,Titanic
+http://tv.asplay.club:25461/movie/marcol/marcol/8352.mp4
+#EXTINF:-1,TLC HD
+http://tv.asplay.club:25461/marcol/marcol/8003
+#EXTINF:-1,TNT FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7995
+#EXTINF:-1,TNT Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9096
+#EXTINF:-1,TNT SD
+http://tv.asplay.club:25461/marcol/marcol/6461
+#EXTINF:-1,TNT SERIES FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7996
+#EXTINF:-1,TNT Series Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9095
+#EXTINF:-1,TNT SERIES SD
+http://tv.asplay.club:25461/marcol/marcol/6462
+#EXTINF:-1,Todo El Dinero Del Mundo
+http://tv.asplay.club:25461/movie/marcol/marcol/6379.mp4
+#EXTINF:-1,Tomb Raider: Las Aventuras De Lara Croft
+http://tv.asplay.club:25461/movie/marcol/marcol/7486.mp4
+#EXTINF:-1,TOONCAST
+http://tv.asplay.club:25461/marcol/marcol/7709
+#EXTINF:-1,TOROS
+http://tv.asplay.club:25461/marcol/marcol/7827
+#EXTINF:-1,Totem
+http://tv.asplay.club:25461/movie/marcol/marcol/8674.mp4
+#EXTINF:-1,Tragedy Girls
+http://tv.asplay.club:25461/movie/marcol/marcol/8436.mp4
+#EXTINF:-1,Transformers: El último Caballero
+http://tv.asplay.club:25461/movie/marcol/marcol/94.mp4
+#EXTINF:-1,Tres Anuncios Por Un Crimen
+http://tv.asplay.club:25461/movie/marcol/marcol/91.mp4
+#EXTINF:-1,Triunfos Robados
+http://tv.asplay.club:25461/movie/marcol/marcol/8253.mp4
+#EXTINF:-1,Tropa De Héroes
+http://tv.asplay.club:25461/movie/marcol/marcol/7520.mp4
+#EXTINF:-1,TRU TV HD
+http://tv.asplay.club:25461/marcol/marcol/6989
+#EXTINF:-1,Trutv Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9098
+#EXTINF:-1,Tú Me Entiendes
+http://tv.asplay.club:25461/movie/marcol/marcol/134.mp4
+#EXTINF:-1,Tully
+http://tv.asplay.club:25461/movie/marcol/marcol/7807.mp4
+#EXTINF:-1,Panama: TV MAX
+http://tv.asplay.club:25461/marcol/marcol/7876
+#EXTINF:-1,Tyler Perry En Boo!: Un Halloween Con Madea
+http://tv.asplay.club:25461/movie/marcol/marcol/7763.mp4
+#EXTINF:-1,UFC FIGHTING
+http://tv.asplay.club:25461/marcol/marcol/7472
+#EXTINF:-1,ULTRA BANDA 720
+http://tv.asplay.club:25461/marcol/marcol/8076
+#EXTINF:-1,ULTRA CINE 720
+http://tv.asplay.club:25461/marcol/marcol/8067
+#EXTINF:-1,ULTRA CLASICO 720
+http://tv.asplay.club:25461/marcol/marcol/8068
+#EXTINF:-1,ULTRA DOCU 720
+http://tv.asplay.club:25461/marcol/marcol/8074
+#EXTINF:-1,ULTRA FAMILIA 720
+http://tv.asplay.club:25461/marcol/marcol/8069
+#EXTINF:-1,ULTRA FIESTA 720
+http://tv.asplay.club:25461/marcol/marcol/8075
+#EXTINF:-1,ULTRA FILM 720
+http://tv.asplay.club:25461/marcol/marcol/8071
+#EXTINF:-1,ULTRA KIDZ 720
+http://tv.asplay.club:25461/marcol/marcol/8077
+#EXTINF:-1,ULTRA LUNA 720
+http://tv.asplay.club:25461/marcol/marcol/8072
+#EXTINF:-1,ULTRA MACHO 720
+http://tv.asplay.club:25461/marcol/marcol/8073
+#EXTINF:-1,ULTRA MEX 720
+http://tv.asplay.club:25461/marcol/marcol/8108
+#EXTINF:-1,ULTRA TAINMENT 720
+http://tv.asplay.club:25461/marcol/marcol/8070
+#EXTINF:-1,Un Chofer En Apuros
+http://tv.asplay.club:25461/movie/marcol/marcol/8244.mp4
+#EXTINF:-1,Un Gesto Fútil Y Estúpido
+http://tv.asplay.club:25461/movie/marcol/marcol/66.mp4
+#EXTINF:-1,Un Jefe En Pañales
+http://tv.asplay.club:25461/movie/marcol/marcol/79.mp4
+#EXTINF:-1,Un Lugar En Silencio
+http://tv.asplay.club:25461/movie/marcol/marcol/7633.mp4
+#EXTINF:-1,Un Pequeño Favor
+http://tv.asplay.club:25461/movie/marcol/marcol/9275.mp4
+#EXTINF:-1,Un Príncipe De Navidad: La Boda Real
+http://tv.asplay.club:25461/movie/marcol/marcol/9262.mp4
+#EXTINF:-1,Un Viaje En El Tiempo
+http://tv.asplay.club:25461/movie/marcol/marcol/7484.mp4
+#EXTINF:-1,Una Cigueña En Apuros
+http://tv.asplay.club:25461/movie/marcol/marcol/142.mp4
+#EXTINF:-1,Una Mujer Fantástica
+http://tv.asplay.club:25461/movie/marcol/marcol/7376.mp4
+#EXTINF:-1,Una Noche Con Mi Exsuegro
+http://tv.asplay.club:25461/movie/marcol/marcol/129.mp4
+#EXTINF:-1,Una Noche De Locura
+http://tv.asplay.club:25461/movie/marcol/marcol/7858.mp4
+#EXTINF:-1,MX: UNICABLE
+http://tv.asplay.club:25461/marcol/marcol/7730
+#EXTINF:-1,UNIMAS HD
+http://tv.asplay.club:25461/marcol/marcol/7061
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://tv.asplay.club:25461/marcol/marcol/7034
+#EXTINF:-1,UNIVISION 1080
+http://tv.asplay.club:25461/marcol/marcol/8063
+#EXTINF:-1,UNIVISION DEPORTES HD
+http://tv.asplay.club:25461/marcol/marcol/6875
+#EXTINF:-1,UNIVISION TDN 1080
+http://tv.asplay.club:25461/marcol/marcol/8064
+#EXTINF:-1,UNIVISION TELENOVELAS
+http://tv.asplay.club:25461/marcol/marcol/8949
+#EXTINF:-1,Unsane
+http://tv.asplay.club:25461/movie/marcol/marcol/7718.mp4
+#EXTINF:-1,Upgrade
+http://tv.asplay.club:25461/movie/marcol/marcol/8105.mp4
+#EXTINF:-1,URY : Canal 10 HD (CP)
+http://tv.asplay.club:25461/marcol/marcol/7867
+#EXTINF:-1,URY : Monte Carlo TV
+http://tv.asplay.club:25461/marcol/marcol/6421
+#EXTINF:-1,URY : Teledoce HD
+http://tv.asplay.club:25461/marcol/marcol/6420
+#EXTINF:-1,URY: CANAL M (CP)
+http://tv.asplay.club:25461/marcol/marcol/6595
+#EXTINF:-1,URY: TNU (CP)
+http://tv.asplay.club:25461/marcol/marcol/8290
+#EXTINF:-1,URY: VTV (CP)
+http://tv.asplay.club:25461/marcol/marcol/7488
+#EXTINF:-1,URY: VTV OPC 2
+http://tv.asplay.club:25461/marcol/marcol/7828
+#EXTINF:-1,URY: VTV PLUS
+http://tv.asplay.club:25461/marcol/marcol/7852
+#EXTINF:-1,US: A&E
+http://tv.asplay.club:25461/marcol/marcol/9552
+#EXTINF:-1,US: ABC NEW (FR)
+http://tv.asplay.club:25461/marcol/marcol/7627
+#EXTINF:-1,US: AMC
+http://tv.asplay.club:25461/marcol/marcol/9513
+#EXTINF:-1,US: ANIMAL PLANET
+http://tv.asplay.club:25461/marcol/marcol/9512
+#EXTINF:-1,US: BLOOMBERG HD
+http://tv.asplay.club:25461/marcol/marcol/6904
+#EXTINF:-1,US: CBS NEW
+http://tv.asplay.club:25461/marcol/marcol/7626
+#EXTINF:-1,US: Cinemax 5 Max
+http://tv.asplay.club:25461/marcol/marcol/9517
+#EXTINF:-1,US: Cinemax ActionMax
+http://tv.asplay.club:25461/marcol/marcol/9516
+#EXTINF:-1,US: Cinemax Moremax
+http://tv.asplay.club:25461/marcol/marcol/9515
+#EXTINF:-1,US: DISCOVERY CHANNEL HD
+http://tv.asplay.club:25461/marcol/marcol/9521
+#EXTINF:-1,US: DISCOVERY SCIENCE HD
+http://tv.asplay.club:25461/marcol/marcol/9520
+#EXTINF:-1,US: Disney Channel HD
+http://tv.asplay.club:25461/marcol/marcol/9518
+#EXTINF:-1,US: E!
+http://tv.asplay.club:25461/marcol/marcol/9551
+#EXTINF:-1,US: ESPN
+http://tv.asplay.club:25461/marcol/marcol/9534
+#EXTINF:-1,US: ESPN 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9533
+#EXTINF:-1,US: ESPN NEWS
+http://tv.asplay.club:25461/marcol/marcol/9532
+#EXTINF:-1,US: FIGHT BOX
+http://tv.asplay.club:25461/marcol/marcol/7697
+#EXTINF:-1,US: FOOD NETWORK
+http://tv.asplay.club:25461/marcol/marcol/9529
+#EXTINF:-1,US: FOX DEPORTES HD
+http://tv.asplay.club:25461/marcol/marcol/9528
+#EXTINF:-1,US: FOX SOCCER PLUS HD
+http://tv.asplay.club:25461/marcol/marcol/7782
+#EXTINF:-1,US: Fox Sports San Diego
+http://tv.asplay.club:25461/marcol/marcol/9555
+#EXTINF:-1,US: Fox Sports West
+http://tv.asplay.club:25461/marcol/marcol/9554
+#EXTINF:-1,﻿US: FS1
+http://tv.asplay.club:25461/marcol/marcol/9557
+#EXTINF:-1,US: FS2
+http://tv.asplay.club:25461/marcol/marcol/9556
+#EXTINF:-1,US: FX
+http://tv.asplay.club:25461/marcol/marcol/9550
+#EXTINF:-1,US: HBO COMEDY
+http://tv.asplay.club:25461/marcol/marcol/9525
+#EXTINF:-1,US: HBO Family HD
+http://tv.asplay.club:25461/marcol/marcol/9524
+#EXTINF:-1,US: HBO SIGNATURE
+http://tv.asplay.club:25461/marcol/marcol/9523
+#EXTINF:-1,US: HBO ZONE
+http://tv.asplay.club:25461/marcol/marcol/9522
+#EXTINF:-1,US: HISTORY
+http://tv.asplay.club:25461/marcol/marcol/9549
+#EXTINF:-1,US: LIFETIME
+http://tv.asplay.club:25461/marcol/marcol/9548
+#EXTINF:-1,US: NATGEO
+http://tv.asplay.club:25461/marcol/marcol/9546
+#EXTINF:-1,US: NATGEO MUNDO
+http://tv.asplay.club:25461/marcol/marcol/9547
+#EXTINF:-1,US: NATGEO WILD
+http://tv.asplay.club:25461/marcol/marcol/9545
+#EXTINF:-1,US: NFL Network HD
+http://tv.asplay.club:25461/marcol/marcol/7699
+#EXTINF:-1,US: NHL NETWORk
+http://tv.asplay.club:25461/marcol/marcol/7843
+#EXTINF:-1,US: NICK HD
+http://tv.asplay.club:25461/marcol/marcol/9537
+#EXTINF:-1,US: SYFY
+http://tv.asplay.club:25461/marcol/marcol/9544
+#EXTINF:-1,US: TBS HD
+http://tv.asplay.club:25461/marcol/marcol/9540
+#EXTINF:-1,US: telemundo 51
+http://tv.asplay.club:25461/marcol/marcol/9143
+#EXTINF:-1,US: TRAVEL CHANNEL
+http://tv.asplay.club:25461/marcol/marcol/9539
+#EXTINF:-1,US: TRU TV
+http://tv.asplay.club:25461/marcol/marcol/9538
+#EXTINF:-1,US: Tsn-Sport 1 HD
+http://tv.asplay.club:25461/marcol/marcol/9543
+#EXTINF:-1,US: Tsn-Sport 2 HD
+http://tv.asplay.club:25461/marcol/marcol/9542
+#EXTINF:-1,US: Tsn-Sport 4 HD
+http://tv.asplay.club:25461/marcol/marcol/9541
+#EXTINF:-1,US: WWE HD
+http://tv.asplay.club:25461/marcol/marcol/7704
+#EXTINF:-1,USA: NBA TV
+http://tv.asplay.club:25461/marcol/marcol/7088
+#EXTINF:-1,Valerian Y La Ciudad De Los Mil Planetas
+http://tv.asplay.club:25461/movie/marcol/marcol/7296.mp4
+#EXTINF:-1,Venganza Del Más Allá
+http://tv.asplay.club:25461/movie/marcol/marcol/7862.mp4
+#EXTINF:-1,Venom
+http://tv.asplay.club:25461/movie/marcol/marcol/9265.mp4
+#EXTINF:-1,Verdad O Reto
+http://tv.asplay.club:25461/movie/marcol/marcol/7714.mp4
+#EXTINF:-1,VH1
+http://tv.asplay.club:25461/marcol/marcol/7997
+#EXTINF:-1,VH1 CLASSIC
+http://tv.asplay.club:25461/marcol/marcol/7906
+#EXTINF:-1,Viaje De Chicas
+http://tv.asplay.club:25461/movie/marcol/marcol/8249.mp4
+#EXTINF:-1,Vida Privada
+http://tv.asplay.club:25461/movie/marcol/marcol/8956.mp4
+#EXTINF:-1,Viene De Noche
+http://tv.asplay.club:25461/movie/marcol/marcol/144.mp4
+#EXTINF:-1,Viento Salvaje
+http://tv.asplay.club:25461/movie/marcol/marcol/6380.mp4
+#EXTINF:-1,Vigilante Nocturno
+http://tv.asplay.club:25461/movie/marcol/marcol/136.mp4
+#EXTINF:-1,Viral
+http://tv.asplay.club:25461/movie/marcol/marcol/7235.mp4
+#EXTINF:-1,Volver Al Futuro 1
+http://tv.asplay.club:25461/movie/marcol/marcol/8267.mp4
+#EXTINF:-1,Volver Al Futuro 2
+http://tv.asplay.club:25461/movie/marcol/marcol/8268.mp4
+#EXTINF:-1,Volver Al Futuro 3
+http://tv.asplay.club:25461/movie/marcol/marcol/8269.mp4
+#EXTINF:-1,Volver Al Futuro II
+http://tv.asplay.club:25461/movie/marcol/marcol/7257.mp4
+#EXTINF:-1,Volver Al Futuro III
+http://tv.asplay.club:25461/movie/marcol/marcol/7256.mp4
+#EXTINF:-1,WARNER CHANNEL FULL HD
+http://tv.asplay.club:25461/marcol/marcol/7994
+#EXTINF:-1,Warner Channel Full HD [Dual audio]
+http://tv.asplay.club:25461/marcol/marcol/9094
+#EXTINF:-1,WARNER CHANNEL SD
+http://tv.asplay.club:25461/marcol/marcol/7080
+#EXTINF:-1,Wheelman
+http://tv.asplay.club:25461/movie/marcol/marcol/7331.mp4
+#EXTINF:-1,WIN SPORT FULL HD
+http://tv.asplay.club:25461/marcol/marcol/6474
+#EXTINF:-1,WIN SPORTS
+http://tv.asplay.club:25461/marcol/marcol/8015
+#EXTINF:-1,Wonderstruck: El Museo De Las Maravillas
+http://tv.asplay.club:25461/movie/marcol/marcol/7668.mp4
+#EXTINF:-1,XXX: 16 PREMIUM
+http://tv.asplay.club:25461/marcol/marcol/9658
+#EXTINF:-1,XXX: 3RD MOVIES
+http://tv.asplay.club:25461/marcol/marcol/9661
+#EXTINF:-1,XXX: BANG
+http://tv.asplay.club:25461/marcol/marcol/9669
+#EXTINF:-1,XXX: EROTIC 3
+http://tv.asplay.club:25461/marcol/marcol/9655
+#EXTINF:-1,XXX: EVIL ANGEL
+http://tv.asplay.club:25461/marcol/marcol/9656
+#EXTINF:-1,XXX: LETHAL PASS
+http://tv.asplay.club:25461/marcol/marcol/9668
+#EXTINF:-1,XXX: MEIDEN HOLLAND
+http://tv.asplay.club:25461/marcol/marcol/9662
+#EXTINF:-1,XXX: TUSHY
+http://tv.asplay.club:25461/marcol/marcol/9657
+#EXTINF:-1,La Casa De Papel S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8528.mp4
+#EXTINF:-1,La Casa De Papel S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8529.mp4
+#EXTINF:-1,La Casa De Papel S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8530.mp4
+#EXTINF:-1,La Casa De Papel S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8531.mp4
+#EXTINF:-1,La Casa De Papel S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8532.mp4
+#EXTINF:-1,La Casa De Papel S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8540.mp4
+#EXTINF:-1,La Casa De Papel S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8539.mp4
+#EXTINF:-1,La Casa De Papel S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8542.mp4
+#EXTINF:-1,La Casa De Papel S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8541.mp4
+#EXTINF:-1,La Casa De Papel S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8543.mp4
+#EXTINF:-1,La Casa De Papel S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8544.mp4
+#EXTINF:-1,La Casa De Papel S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8545.mp4
+#EXTINF:-1,La Casa De Papel S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8548.mp4
+#EXTINF:-1,La Casa De Papel S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8546.mp4
+#EXTINF:-1,La Casa De Papel S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8547.mp4
+#EXTINF:-1,Lucifer S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8451.mp4
+#EXTINF:-1,Lucifer S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8452.mp4
+#EXTINF:-1,Lucifer S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8453.mp4
+#EXTINF:-1,Lucifer S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8488.mp4
+#EXTINF:-1,Lucifer S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8455.mp4
+#EXTINF:-1,Lucifer S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8456.mp4
+#EXTINF:-1,Lucifer S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8457.mp4
+#EXTINF:-1,Lucifer S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8458.mp4
+#EXTINF:-1,Lucifer S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8459.mp4
+#EXTINF:-1,Lucifer S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8460.mp4
+#EXTINF:-1,Lucifer S01 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8461.mp4
+#EXTINF:-1,Lucifer S01 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8462.mp4
+#EXTINF:-1,Lucifer S01 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8463.mp4
+#EXTINF:-1,Lucifer S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8464.mp4
+#EXTINF:-1,Lucifer S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8489.mp4
+#EXTINF:-1,Lucifer S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8490.mp4
+#EXTINF:-1,Lucifer S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8491.mp4
+#EXTINF:-1,Lucifer S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8492.mp4
+#EXTINF:-1,Lucifer S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8493.mp4
+#EXTINF:-1,Lucifer S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8494.mp4
+#EXTINF:-1,Lucifer S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8495.mp4
+#EXTINF:-1,Lucifer S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8496.mp4
+#EXTINF:-1,Lucifer S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8497.mp4
+#EXTINF:-1,Lucifer S02 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8498.mp4
+#EXTINF:-1,Lucifer S02 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8499.mp4
+#EXTINF:-1,Lucifer S02 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8500.mp4
+#EXTINF:-1,Lucifer S02 E14
+http://tv.asplay.club:25461/series/marcol/marcol/8501.mp4
+#EXTINF:-1,Lucifer S02 E15
+http://tv.asplay.club:25461/series/marcol/marcol/8502.mp4
+#EXTINF:-1,Lucifer S02 E16
+http://tv.asplay.club:25461/series/marcol/marcol/8503.mp4
+#EXTINF:-1,Lucifer S02 E17
+http://tv.asplay.club:25461/series/marcol/marcol/8504.mp4
+#EXTINF:-1,Lucifer S02 E18
+http://tv.asplay.club:25461/series/marcol/marcol/8505.mp4
+#EXTINF:-1,Lucifer S02 E19
+http://tv.asplay.club:25461/series/marcol/marcol/8506.mp4
+#EXTINF:-1,Lucifer S02 E20
+http://tv.asplay.club:25461/series/marcol/marcol/8507.mp4
+#EXTINF:-1,Lucifer S02 E21
+http://tv.asplay.club:25461/series/marcol/marcol/8508.mp4
+#EXTINF:-1,Lucifer S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8479.mkv
+#EXTINF:-1,Lucifer S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8480.mp4
+#EXTINF:-1,Lucifer S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8481.mp4
+#EXTINF:-1,Lucifer S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8482.mp4
+#EXTINF:-1,Lucifer S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8483.mp4
+#EXTINF:-1,Lucifer S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8484.mp4
+#EXTINF:-1,Lucifer S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8485.mp4
+#EXTINF:-1,Lucifer S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8486.mp4
+#EXTINF:-1,Lucifer S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8487.mp4
+#EXTINF:-1,Lucifer S03 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8509.mp4
+#EXTINF:-1,Lucifer S03 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8510.mp4
+#EXTINF:-1,Lucifer S03 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8511.mp4
+#EXTINF:-1,Lucifer S03 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8512.mp4
+#EXTINF:-1,Lucifer S03 E14
+http://tv.asplay.club:25461/series/marcol/marcol/8513.mp4
+#EXTINF:-1,Lucifer S03 E15
+http://tv.asplay.club:25461/series/marcol/marcol/8514.mp4
+#EXTINF:-1,Lucifer S03 E16
+http://tv.asplay.club:25461/series/marcol/marcol/8515.mp4
+#EXTINF:-1,Lucifer S03 E17
+http://tv.asplay.club:25461/series/marcol/marcol/8516.mp4
+#EXTINF:-1,Lucifer S03 E18
+http://tv.asplay.club:25461/series/marcol/marcol/8517.mp4
+#EXTINF:-1,Lucifer S03 E19
+http://tv.asplay.club:25461/series/marcol/marcol/8518.mp4
+#EXTINF:-1,Lucifer S03 E20
+http://tv.asplay.club:25461/series/marcol/marcol/8519.mp4
+#EXTINF:-1,Lucifer S03 E21
+http://tv.asplay.club:25461/series/marcol/marcol/8520.mp4
+#EXTINF:-1,Lucifer S03 E22
+http://tv.asplay.club:25461/series/marcol/marcol/8521.mp4
+#EXTINF:-1,Lucifer S03 E23
+http://tv.asplay.club:25461/series/marcol/marcol/8522.mp4
+#EXTINF:-1,Lucifer S03 E24
+http://tv.asplay.club:25461/series/marcol/marcol/8523.mp4
+#EXTINF:-1,Lucifer S03 E25
+http://tv.asplay.club:25461/series/marcol/marcol/8524.mp4
+#EXTINF:-1,Juegos De Tronos S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8710.mp4
+#EXTINF:-1,Juegos De Tronos S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8711.mp4
+#EXTINF:-1,Juegos De Tronos S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8712.mp4
+#EXTINF:-1,Juegos De Tronos S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8713.mp4
+#EXTINF:-1,Juegos De Tronos S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8714.mp4
+#EXTINF:-1,Juegos De Tronos S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8715.mp4
+#EXTINF:-1,Juegos De Tronos S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8716.mp4
+#EXTINF:-1,Juegos De Tronos S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8719.mp4
+#EXTINF:-1,Juegos De Tronos S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8717.mp4
+#EXTINF:-1,Juegos De Tronos S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8718.mp4
+#EXTINF:-1,Juegos De Tronos S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8720.mp4
+#EXTINF:-1,Juegos De Tronos S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8721.mp4
+#EXTINF:-1,Juegos De Tronos S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8722.mp4
+#EXTINF:-1,Juegos De Tronos S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8723.mp4
+#EXTINF:-1,Juegos De Tronos S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8724.mp4
+#EXTINF:-1,Juegos De Tronos S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8747.mp4
+#EXTINF:-1,Juegos De Tronos S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8748.mp4
+#EXTINF:-1,Juegos De Tronos S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8749.mp4
+#EXTINF:-1,Juegos De Tronos S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8750.mp4
+#EXTINF:-1,Juegos De Tronos S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8751.mp4
+#EXTINF:-1,Juegos De Tronos S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8752.mp4
+#EXTINF:-1,Juegos De Tronos S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8753.mp4
+#EXTINF:-1,Juegos De Tronos S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8754.mp4
+#EXTINF:-1,Juegos De Tronos S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8755.mp4
+#EXTINF:-1,Juegos De Tronos S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8756.mp4
+#EXTINF:-1,Juegos De Tronos S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8757.mp4
+#EXTINF:-1,Juegos De Tronos S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8758.mp4
+#EXTINF:-1,Juegos De Tronos S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8759.mp4
+#EXTINF:-1,Juegos De Tronos S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8761.mp4
+#EXTINF:-1,Juegos De Tronos S03 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8762.mp4
+#EXTINF:-1,Juegos De Tronos S04 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8875.mp4
+#EXTINF:-1,Juegos De Tronos S04 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8876.mp4
+#EXTINF:-1,Juegos De Tronos S04 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8877.mp4
+#EXTINF:-1,Juegos De Tronos S04 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8878.mp4
+#EXTINF:-1,Juegos De Tronos S04 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8879.mp4
+#EXTINF:-1,Juegos De Tronos S04 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8880.mp4
+#EXTINF:-1,Juegos De Tronos S04 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8881.mp4
+#EXTINF:-1,Juegos De Tronos S04 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8882.mp4
+#EXTINF:-1,Juegos De Tronos S04 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8883.mp4
+#EXTINF:-1,Juegos De Tronos S04 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8884.mp4
+#EXTINF:-1,Juegos De Tronos S05 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8885.mp4
+#EXTINF:-1,Juegos De Tronos S05 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8886.mp4
+#EXTINF:-1,Juegos De Tronos S05 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8887.mp4
+#EXTINF:-1,Juegos De Tronos S05 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8888.mp4
+#EXTINF:-1,Juegos De Tronos S05 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8889.mp4
+#EXTINF:-1,Juegos De Tronos S05 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8890.mp4
+#EXTINF:-1,Juegos De Tronos S05 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8891.mp4
+#EXTINF:-1,Juegos De Tronos S05 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8892.mp4
+#EXTINF:-1,Juegos De Tronos S05 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8893.mp4
+#EXTINF:-1,Juegos De Tronos S05 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8897.mp4
+#EXTINF:-1,Juegos De Tronos S05 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8898.mp4
+#EXTINF:-1,Juegos De Tronos S06 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8899.mp4
+#EXTINF:-1,Juegos De Tronos S06 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8900.mp4
+#EXTINF:-1,Juegos De Tronos S06 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8901.mp4
+#EXTINF:-1,Juegos De Tronos S06 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8902.mp4
+#EXTINF:-1,Juegos De Tronos S06 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8903.mp4
+#EXTINF:-1,Juegos De Tronos S06 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8904.mp4
+#EXTINF:-1,Juegos De Tronos S06 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8905.mp4
+#EXTINF:-1,Juegos De Tronos S06 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8906.mp4
+#EXTINF:-1,Juegos De Tronos S06 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8907.mp4
+#EXTINF:-1,Juegos De Tronos S06 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8908.mp4
+#EXTINF:-1,Juegos De Tronos S07 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8909.mp4
+#EXTINF:-1,Juegos De Tronos S07 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8910.mp4
+#EXTINF:-1,Juegos De Tronos S07 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8911.mp4
+#EXTINF:-1,Juegos De Tronos S07 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8912.mp4
+#EXTINF:-1,Juegos De Tronos S07 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8913.mp4
+#EXTINF:-1,Juegos De Tronos S07 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9824.mp4
+#EXTINF:-1,Juegos De Tronos S07 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9825.mp4
+#EXTINF:-1,Vis A Vis S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9802.mp4
+#EXTINF:-1,Vis A Vis S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9803.mp4
+#EXTINF:-1,Vis A Vis S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9804.mp4
+#EXTINF:-1,Vis A Vis S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9805.mp4
+#EXTINF:-1,Vis A Vis S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9806.mp4
+#EXTINF:-1,Vis A Vis S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9807.mp4
+#EXTINF:-1,Vis A Vis S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9808.mp4
+#EXTINF:-1,Vis A Vis S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9809.mp4
+#EXTINF:-1,Vis A Vis S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9810.mp4
+#EXTINF:-1,Vis A Vis S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9811.mp4
+#EXTINF:-1,Vis A Vis S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9812.mp4
+#EXTINF:-1,Vis A Vis S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9813.mp4
+#EXTINF:-1,Vis A Vis S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9814.mp4
+#EXTINF:-1,Vis A Vis S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9815.mp4
+#EXTINF:-1,Vis A Vis S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9816.mp4
+#EXTINF:-1,Vis A Vis S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9823.mp4
+#EXTINF:-1,Vis A Vis S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9818.mp4
+#EXTINF:-1,Vis A Vis S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9819.mp4
+#EXTINF:-1,Vis A Vis S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9820.mp4
+#EXTINF:-1,Vis A Vis S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9821.mp4
+#EXTINF:-1,Vis A Vis S02 E11
+http://tv.asplay.club:25461/series/marcol/marcol/9822.mp4
+#EXTINF:-1,Vis A Vis S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9788.mp4
+#EXTINF:-1,Vis A Vis S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9789.mp4
+#EXTINF:-1,Vis A Vis S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9790.mp4
+#EXTINF:-1,Vis A Vis S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9791.mp4
+#EXTINF:-1,Vis A Vis S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9792.mp4
+#EXTINF:-1,Vis A Vis S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9793.mp4
+#EXTINF:-1,Vis A Vis S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9794.mp4
+#EXTINF:-1,Vis A Vis S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9795.mp4
+#EXTINF:-1,Vis A Vis S04 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9796.mp4
+#EXTINF:-1,Vis A Vis S04 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9797.mp4
+#EXTINF:-1,Vis A Vis S04 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9798.mp4
+#EXTINF:-1,Vis A Vis S04 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9799.mp4
+#EXTINF:-1,Vis A Vis S04 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9800.mp4
+#EXTINF:-1,Vis A Vis S04 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9801.mp4
+#EXTINF:-1,Mr  Robot S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8327.mp4
+#EXTINF:-1,Mr  Robot S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8328.mp4
+#EXTINF:-1,Mr  Robot S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8329.mp4
+#EXTINF:-1,Mr  Robot S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8330.mp4
+#EXTINF:-1,Mr  Robot S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8331.mp4
+#EXTINF:-1,Mr  Robot S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8332.mp4
+#EXTINF:-1,Mr  Robot S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8333.mp4
+#EXTINF:-1,Mr  Robot S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8334.mp4
+#EXTINF:-1,Mr  Robot S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8335.mp4
+#EXTINF:-1,Mr  Robot S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8336.mp4
+#EXTINF:-1,Mr  Robot S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8340.mp4
+#EXTINF:-1,Mr  Robot S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8341.mp4
+#EXTINF:-1,Mr  Robot S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8342.mp4
+#EXTINF:-1,Mr  Robot S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8343.mp4
+#EXTINF:-1,Mr  Robot S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8344.mp4
+#EXTINF:-1,Mr  Robot S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8345.mp4
+#EXTINF:-1,Mr  Robot S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8346.mp4
+#EXTINF:-1,Mr  Robot S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8347.mp4
+#EXTINF:-1,Mr  Robot S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8348.mp4
+#EXTINF:-1,Mr  Robot S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8349.mp4
+#EXTINF:-1,Mr  Robot S02 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8350.mp4
+#EXTINF:-1,Mr  Robot S02 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8351.mp4
+#EXTINF:-1,Mr  Robot S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8358.mp4
+#EXTINF:-1,Mr  Robot S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8357.mp4
+#EXTINF:-1,Mr  Robot S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8365.mp4
+#EXTINF:-1,Mr  Robot S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8366.mp4
+#EXTINF:-1,Mr  Robot S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8367.mp4
+#EXTINF:-1,Mr  Robot S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8368.mp4
+#EXTINF:-1,Mr  Robot S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8369.mp4
+#EXTINF:-1,Mr  Robot S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8377.mp4
+#EXTINF:-1,Mr  Robot S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8371.mp4
+#EXTINF:-1,Mr  Robot S03 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8374.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8562.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8563.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8564.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8565.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8566.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8567.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8568.mp4
+#EXTINF:-1,Las Chicas Del Cable S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8569.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8570.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8571.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8572.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8574.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8573.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8575.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8576.mp4
+#EXTINF:-1,Las Chicas Del Cable S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8577.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8578.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8579.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8580.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8581.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8582.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8583.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8584.mp4
+#EXTINF:-1,Las Chicas Del Cable S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8585.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8586.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8587.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8588.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8590.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8589.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8591.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8592.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8593.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8594.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8595.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8596.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8597.mp4
+#EXTINF:-1,La Casa De Las Flores S01 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8598.mp4
+#EXTINF:-1,American Horror Story S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8599.mp4
+#EXTINF:-1,American Horror Story S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8600.mp4
+#EXTINF:-1,American Horror Story S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8601.mp4
+#EXTINF:-1,American Horror Story S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8602.mp4
+#EXTINF:-1,American Horror Story S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8603.mp4
+#EXTINF:-1,American Horror Story S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8604.mp4
+#EXTINF:-1,American Horror Story S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8605.mp4
+#EXTINF:-1,American Horror Story S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8606.mp4
+#EXTINF:-1,American Horror Story S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8607.mp4
+#EXTINF:-1,American Horror Story S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8608.mp4
+#EXTINF:-1,American Horror Story S01 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8609.mp4
+#EXTINF:-1,American Horror Story S01 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8610.mp4
+#EXTINF:-1,American Horror Story S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8611.mp4
+#EXTINF:-1,American Horror Story S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8612.mp4
+#EXTINF:-1,American Horror Story S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8613.mp4
+#EXTINF:-1,American Horror Story S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8614.mp4
+#EXTINF:-1,American Horror Story S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8615.mp4
+#EXTINF:-1,American Horror Story S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8616.mp4
+#EXTINF:-1,American Horror Story S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8617.mp4
+#EXTINF:-1,American Horror Story S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8618.mp4
+#EXTINF:-1,American Horror Story S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8619.mp4
+#EXTINF:-1,American Horror Story S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8620.mp4
+#EXTINF:-1,American Horror Story S02 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8621.mp4
+#EXTINF:-1,American Horror Story S02 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8622.mp4
+#EXTINF:-1,American Horror Story S02 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8623.mp4
+#EXTINF:-1,American Horror Story S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8624.mp4
+#EXTINF:-1,American Horror Story S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8625.mp4
+#EXTINF:-1,American Horror Story S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8626.mp4
+#EXTINF:-1,American Horror Story S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8627.mp4
+#EXTINF:-1,American Horror Story S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8628.mp4
+#EXTINF:-1,American Horror Story S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8629.mp4
+#EXTINF:-1,American Horror Story S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8630.mp4
+#EXTINF:-1,American Horror Story S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8631.mp4
+#EXTINF:-1,American Horror Story S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8632.mp4
+#EXTINF:-1,American Horror Story S03 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8633.mp4
+#EXTINF:-1,American Horror Story S03 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8634.mp4
+#EXTINF:-1,American Horror Story S03 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8635.mp4
+#EXTINF:-1,American Horror Story S03 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8636.mp4
+#EXTINF:-1,American Horror Story S04 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8637.mp4
+#EXTINF:-1,American Horror Story S04 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8638.mp4
+#EXTINF:-1,American Horror Story S04 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8639.mp4
+#EXTINF:-1,American Horror Story S04 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8640.mp4
+#EXTINF:-1,American Horror Story S04 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8641.mp4
+#EXTINF:-1,American Horror Story S04 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8642.mp4
+#EXTINF:-1,American Horror Story S04 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8643.mp4
+#EXTINF:-1,American Horror Story S04 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8644.mp4
+#EXTINF:-1,American Horror Story S04 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8645.mp4
+#EXTINF:-1,American Horror Story S04 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8646.mp4
+#EXTINF:-1,American Horror Story S04 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8647.mp4
+#EXTINF:-1,American Horror Story S04 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8648.mp4
+#EXTINF:-1,American Horror Story S04 E13
+http://tv.asplay.club:25461/series/marcol/marcol/8649.mp4
+#EXTINF:-1,American Horror Story S05 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8675.mp4
+#EXTINF:-1,American Horror Story S05 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8676.mp4
+#EXTINF:-1,American Horror Story S05 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8677.mp4
+#EXTINF:-1,American Horror Story S05 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8678.mp4
+#EXTINF:-1,American Horror Story S05 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8679.mp4
+#EXTINF:-1,American Horror Story S05 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8680.mp4
+#EXTINF:-1,American Horror Story S05 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8681.mp4
+#EXTINF:-1,American Horror Story S05 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8682.mp4
+#EXTINF:-1,American Horror Story S05 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8683.mp4
+#EXTINF:-1,American Horror Story S05 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8684.mp4
+#EXTINF:-1,American Horror Story S05 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8685.mp4
+#EXTINF:-1,American Horror Story S05 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8686.mp4
+#EXTINF:-1,American Horror Story S06 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8687.mp4
+#EXTINF:-1,American Horror Story S06 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8688.mp4
+#EXTINF:-1,American Horror Story S06 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8689.mp4
+#EXTINF:-1,American Horror Story S06 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8690.mp4
+#EXTINF:-1,American Horror Story S06 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8691.mp4
+#EXTINF:-1,American Horror Story S06 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8692.mp4
+#EXTINF:-1,American Horror Story S06 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8693.mp4
+#EXTINF:-1,American Horror Story S06 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8694.mp4
+#EXTINF:-1,American Horror Story S06 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8695.mp4
+#EXTINF:-1,American Horror Story S06 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8696.mp4
+#EXTINF:-1,American Horror Story S07 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8697.mp4
+#EXTINF:-1,American Horror Story S07 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8698.mp4
+#EXTINF:-1,American Horror Story S07 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8699.mp4
+#EXTINF:-1,American Horror Story S07 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8700.mp4
+#EXTINF:-1,American Horror Story S07 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8701.mp4
+#EXTINF:-1,American Horror Story S07 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8702.mp4
+#EXTINF:-1,American Horror Story S07 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8703.mp4
+#EXTINF:-1,American Horror Story S07 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8704.mp4
+#EXTINF:-1,American Horror Story S07 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8705.mp4
+#EXTINF:-1,American Horror Story S07 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8706.mp4
+#EXTINF:-1,American Horror Story S07 E11
+http://tv.asplay.club:25461/series/marcol/marcol/8707.mp4
+#EXTINF:-1,American Horror Story S07 E12
+http://tv.asplay.club:25461/series/marcol/marcol/8708.mp4
+#EXTINF:-1,American Horror Story S08 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9826.mp4
+#EXTINF:-1,American Horror Story S08 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9827.mp4
+#EXTINF:-1,American Horror Story S08 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9828.mp4
+#EXTINF:-1,American Horror Story S08 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9829.mp4
+#EXTINF:-1,American Horror Story S08 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9830.mp4
+#EXTINF:-1,American Horror Story S08 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9831.mp4
+#EXTINF:-1,American Horror Story S08 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9832.mp4
+#EXTINF:-1,American Horror Story S08 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9833.mp4
+#EXTINF:-1,American Horror Story S08 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9834.mp4
+#EXTINF:-1,(Des)encanto S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8865.mp4
+#EXTINF:-1,(Des)encanto S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8866.mp4
+#EXTINF:-1,(Des)encanto S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8867.mp4
+#EXTINF:-1,(Des)encanto S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8868.mp4
+#EXTINF:-1,(Des)encanto S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8869.mp4
+#EXTINF:-1,(Des)encanto S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8870.mp4
+#EXTINF:-1,(Des)encanto S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8871.mp4
+#EXTINF:-1,(Des)encanto S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8872.mp4
+#EXTINF:-1,(Des)encanto S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8873.mp4
+#EXTINF:-1,(Des)encanto S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8874.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/8936.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/8939.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/8940.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/8941.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/8943.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/8944.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/8945.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/8946.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/8947.mp4
+#EXTINF:-1,La Maldición De Hill House S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/8948.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9947.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9948.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9949.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9950.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9951.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9952.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9953.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9954.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9955.mp4
+#EXTINF:-1,Tú Yo Y Ella S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9956.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9957.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9958.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9959.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9960.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9961.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9962.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9963.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9964.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9965.mp4
+#EXTINF:-1,Tú Yo Y Ella S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9966.mp4
+#EXTINF:-1,Vikingos S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9595.mkv
+#EXTINF:-1,Vikingos S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9596.mkv
+#EXTINF:-1,Vikingos S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9597.mkv
+#EXTINF:-1,Vikingos S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9598.mkv
+#EXTINF:-1,Vikingos S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9599.mkv
+#EXTINF:-1,Vikingos S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9600.mkv
+#EXTINF:-1,Vikingos S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9601.mkv
+#EXTINF:-1,Vikingos S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9602.mkv
+#EXTINF:-1,Vikingos S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9603.mkv
+#EXTINF:-1,Vikingos S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9604.mp4
+#EXTINF:-1,Vikingos S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9605.mp4
+#EXTINF:-1,Vikingos S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9606.mp4
+#EXTINF:-1,Vikingos S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9607.mp4
+#EXTINF:-1,Vikingos S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9608.mp4
+#EXTINF:-1,Vikingos S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9609.mp4
+#EXTINF:-1,Vikingos S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9769.mp4
+#EXTINF:-1,Vikingos S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9610.mp4
+#EXTINF:-1,Vikingos S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9611.mp4
+#EXTINF:-1,Vikingos S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9612.mp4
+#EXTINF:-1,Vikingos S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9781.mp4
+#EXTINF:-1,Vikingos S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9782.mp4
+#EXTINF:-1,Vikingos S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9783.mp4
+#EXTINF:-1,Vikingos S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9774.mp4
+#EXTINF:-1,Vikingos S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9775.mp4
+#EXTINF:-1,Vikingos S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9776.mp4
+#EXTINF:-1,Vikingos S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9787.mp4
+#EXTINF:-1,Vikingos S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9778.mp4
+#EXTINF:-1,Vikingos S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9779.mp4
+#EXTINF:-1,Vikingos S03 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9780.mp4
+#EXTINF:-1,Vikingos S04 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9835.mp4
+#EXTINF:-1,Vikingos S04 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9836.mp4
+#EXTINF:-1,Vikingos S04 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9837.mp4
+#EXTINF:-1,Vikingos S04 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9838.mp4
+#EXTINF:-1,Vikingos S04 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9839.mp4
+#EXTINF:-1,Vikingos S04 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9840.mp4
+#EXTINF:-1,Vikingos S04 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9841.mp4
+#EXTINF:-1,Vikingos S04 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9842.mp4
+#EXTINF:-1,Vikingos S04 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9843.mp4
+#EXTINF:-1,Vikingos S04 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9844.mp4
+#EXTINF:-1,Vikingos S04 E11
+http://tv.asplay.club:25461/series/marcol/marcol/9845.mp4
+#EXTINF:-1,Vikingos S04 E12
+http://tv.asplay.club:25461/series/marcol/marcol/9846.mp4
+#EXTINF:-1,Vikingos S04 E13
+http://tv.asplay.club:25461/series/marcol/marcol/9847.mp4
+#EXTINF:-1,Vikingos S04 E14
+http://tv.asplay.club:25461/series/marcol/marcol/9848.mp4
+#EXTINF:-1,Vikingos S04 E15
+http://tv.asplay.club:25461/series/marcol/marcol/9849.mp4
+#EXTINF:-1,Vikingos S04 E16
+http://tv.asplay.club:25461/series/marcol/marcol/9854.mp4
+#EXTINF:-1,Vikingos S04 E17
+http://tv.asplay.club:25461/series/marcol/marcol/9855.mp4
+#EXTINF:-1,Vikingos S04 E18
+http://tv.asplay.club:25461/series/marcol/marcol/9856.mp4
+#EXTINF:-1,Vikingos S04 E19
+http://tv.asplay.club:25461/series/marcol/marcol/9851.mp4
+#EXTINF:-1,Vikingos S04 E20
+http://tv.asplay.club:25461/series/marcol/marcol/9857.mp4
+#EXTINF:-1,Vikingos S04 E21
+http://tv.asplay.club:25461/series/marcol/marcol/9853.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9860.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9861.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9862.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9863.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9864.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9865.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9866.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9867.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9868.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9869.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E11
+http://tv.asplay.club:25461/series/marcol/marcol/9880.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E12
+http://tv.asplay.club:25461/series/marcol/marcol/9871.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E13
+http://tv.asplay.club:25461/series/marcol/marcol/9872.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E14
+http://tv.asplay.club:25461/series/marcol/marcol/9883.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E15
+http://tv.asplay.club:25461/series/marcol/marcol/9874.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E16
+http://tv.asplay.club:25461/series/marcol/marcol/9875.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E17
+http://tv.asplay.club:25461/series/marcol/marcol/9876.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E18
+http://tv.asplay.club:25461/series/marcol/marcol/9877.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E19
+http://tv.asplay.club:25461/series/marcol/marcol/9888.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E20
+http://tv.asplay.club:25461/series/marcol/marcol/9898.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E21
+http://tv.asplay.club:25461/series/marcol/marcol/9899.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E22
+http://tv.asplay.club:25461/series/marcol/marcol/9900.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E23
+http://tv.asplay.club:25461/series/marcol/marcol/9901.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E24
+http://tv.asplay.club:25461/series/marcol/marcol/9902.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E25
+http://tv.asplay.club:25461/series/marcol/marcol/9903.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E26
+http://tv.asplay.club:25461/series/marcol/marcol/9904.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E27
+http://tv.asplay.club:25461/series/marcol/marcol/9905.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E28
+http://tv.asplay.club:25461/series/marcol/marcol/9906.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E29
+http://tv.asplay.club:25461/series/marcol/marcol/9907.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E30
+http://tv.asplay.club:25461/series/marcol/marcol/9908.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E31
+http://tv.asplay.club:25461/series/marcol/marcol/9909.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E32
+http://tv.asplay.club:25461/series/marcol/marcol/9910.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E33
+http://tv.asplay.club:25461/series/marcol/marcol/9911.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E34
+http://tv.asplay.club:25461/series/marcol/marcol/9912.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E35
+http://tv.asplay.club:25461/series/marcol/marcol/9913.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E36
+http://tv.asplay.club:25461/series/marcol/marcol/9914.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E37
+http://tv.asplay.club:25461/series/marcol/marcol/9915.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E38
+http://tv.asplay.club:25461/series/marcol/marcol/9916.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E39
+http://tv.asplay.club:25461/series/marcol/marcol/9917.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E40
+http://tv.asplay.club:25461/series/marcol/marcol/9918.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E41
+http://tv.asplay.club:25461/series/marcol/marcol/9919.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E42
+http://tv.asplay.club:25461/series/marcol/marcol/9920.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E43
+http://tv.asplay.club:25461/series/marcol/marcol/9921.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E44
+http://tv.asplay.club:25461/series/marcol/marcol/9922.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E45
+http://tv.asplay.club:25461/series/marcol/marcol/9923.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E46
+http://tv.asplay.club:25461/series/marcol/marcol/9924.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E47
+http://tv.asplay.club:25461/series/marcol/marcol/9925.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E48
+http://tv.asplay.club:25461/series/marcol/marcol/9926.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E49
+http://tv.asplay.club:25461/series/marcol/marcol/9927.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E50
+http://tv.asplay.club:25461/series/marcol/marcol/9928.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E51
+http://tv.asplay.club:25461/series/marcol/marcol/9929.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E52
+http://tv.asplay.club:25461/series/marcol/marcol/9930.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E53
+http://tv.asplay.club:25461/series/marcol/marcol/9931.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E54
+http://tv.asplay.club:25461/series/marcol/marcol/9932.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E55
+http://tv.asplay.club:25461/series/marcol/marcol/9933.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E56
+http://tv.asplay.club:25461/series/marcol/marcol/9934.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E57
+http://tv.asplay.club:25461/series/marcol/marcol/9935.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E58
+http://tv.asplay.club:25461/series/marcol/marcol/9936.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E59
+http://tv.asplay.club:25461/series/marcol/marcol/9937.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E60
+http://tv.asplay.club:25461/series/marcol/marcol/9938.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E61
+http://tv.asplay.club:25461/series/marcol/marcol/9939.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E62
+http://tv.asplay.club:25461/series/marcol/marcol/9940.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E63
+http://tv.asplay.club:25461/series/marcol/marcol/9941.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E64
+http://tv.asplay.club:25461/series/marcol/marcol/9942.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E65
+http://tv.asplay.club:25461/series/marcol/marcol/9943.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E66
+http://tv.asplay.club:25461/series/marcol/marcol/9944.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E67
+http://tv.asplay.club:25461/series/marcol/marcol/9945.mp4
+#EXTINF:-1,Sobreviviendo a Escobar, Alias J.J. S01 E68
+http://tv.asplay.club:25461/series/marcol/marcol/9946.mp4
+#EXTINF:-1,somos nosotros S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9967.mp4
+#EXTINF:-1,somos nosotros S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9968.mp4
+#EXTINF:-1,somos nosotros S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/9969.mp4
+#EXTINF:-1,somos nosotros S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9970.mp4
+#EXTINF:-1,somos nosotros S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9971.mp4
+#EXTINF:-1,somos nosotros S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/9972.mp4
+#EXTINF:-1,somos nosotros S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9973.mp4
+#EXTINF:-1,somos nosotros S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9974.mp4
+#EXTINF:-1,somos nosotros S01 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9975.mp4
+#EXTINF:-1,somos nosotros S01 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9976.mp4
+#EXTINF:-1,somos nosotros S01 E11
+http://tv.asplay.club:25461/series/marcol/marcol/9997.mp4
+#EXTINF:-1,somos nosotros S01 E12
+http://tv.asplay.club:25461/series/marcol/marcol/9978.mp4
+#EXTINF:-1,somos nosotros S01 E13
+http://tv.asplay.club:25461/series/marcol/marcol/9979.mp4
+#EXTINF:-1,somos nosotros S01 E14
+http://tv.asplay.club:25461/series/marcol/marcol/9980.mp4
+#EXTINF:-1,somos nosotros S01 E15
+http://tv.asplay.club:25461/series/marcol/marcol/9981.mp4
+#EXTINF:-1,somos nosotros S01 E16
+http://tv.asplay.club:25461/series/marcol/marcol/9982.mp4
+#EXTINF:-1,somos nosotros S01 E17
+http://tv.asplay.club:25461/series/marcol/marcol/9983.mp4
+#EXTINF:-1,somos nosotros S01 E18
+http://tv.asplay.club:25461/series/marcol/marcol/9984.mp4
+#EXTINF:-1,somos nosotros S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/9985.mp4
+#EXTINF:-1,somos nosotros S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/9986.mp4
+#EXTINF:-1,somos nosotros S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/10015.mp4
+#EXTINF:-1,somos nosotros S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/9988.mp4
+#EXTINF:-1,somos nosotros S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/9989.mp4
+#EXTINF:-1,somos nosotros S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/10014.mp4
+#EXTINF:-1,somos nosotros S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/9991.mp4
+#EXTINF:-1,somos nosotros S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/9992.mp4
+#EXTINF:-1,somos nosotros S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/9993.mp4
+#EXTINF:-1,somos nosotros S02 E10
+http://tv.asplay.club:25461/series/marcol/marcol/9994.mp4
+#EXTINF:-1,somos nosotros S02 E11
+http://tv.asplay.club:25461/series/marcol/marcol/9995.mp4
+#EXTINF:-1,somos nosotros S02 E12
+http://tv.asplay.club:25461/series/marcol/marcol/9996.mp4
+#EXTINF:-1,somos nosotros S02 E13
+http://tv.asplay.club:25461/series/marcol/marcol/9998.mp4
+#EXTINF:-1,somos nosotros S02 E14
+http://tv.asplay.club:25461/series/marcol/marcol/9999.mp4
+#EXTINF:-1,somos nosotros S02 E15
+http://tv.asplay.club:25461/series/marcol/marcol/10000.mp4
+#EXTINF:-1,somos nosotros S02 E16
+http://tv.asplay.club:25461/series/marcol/marcol/10001.mp4
+#EXTINF:-1,somos nosotros S02 E17
+http://tv.asplay.club:25461/series/marcol/marcol/10002.mp4
+#EXTINF:-1,somos nosotros S02 E18
+http://tv.asplay.club:25461/series/marcol/marcol/10003.mp4
+#EXTINF:-1,somos nosotros S03 E01
+http://tv.asplay.club:25461/series/marcol/marcol/10004.mp4
+#EXTINF:-1,somos nosotros S03 E02
+http://tv.asplay.club:25461/series/marcol/marcol/10005.mp4
+#EXTINF:-1,somos nosotros S03 E03
+http://tv.asplay.club:25461/series/marcol/marcol/10006.mp4
+#EXTINF:-1,somos nosotros S03 E04
+http://tv.asplay.club:25461/series/marcol/marcol/10007.mp4
+#EXTINF:-1,somos nosotros S03 E05
+http://tv.asplay.club:25461/series/marcol/marcol/10008.mp4
+#EXTINF:-1,somos nosotros S03 E06
+http://tv.asplay.club:25461/series/marcol/marcol/10009.mp4
+#EXTINF:-1,somos nosotros S03 E07
+http://tv.asplay.club:25461/series/marcol/marcol/10010.mp4
+#EXTINF:-1,somos nosotros S03 E08
+http://tv.asplay.club:25461/series/marcol/marcol/10011.mp4
+#EXTINF:-1,somos nosotros S03 E09
+http://tv.asplay.club:25461/series/marcol/marcol/10012.mp4
+#EXTINF:-1,Stranger Things S01 E01
+http://tv.asplay.club:25461/series/marcol/marcol/10016.mp4
+#EXTINF:-1,Stranger Things S01 E02
+http://tv.asplay.club:25461/series/marcol/marcol/10017.mp4
+#EXTINF:-1,Stranger Things S01 E03
+http://tv.asplay.club:25461/series/marcol/marcol/10018.mp4
+#EXTINF:-1,Stranger Things S01 E04
+http://tv.asplay.club:25461/series/marcol/marcol/10019.mp4
+#EXTINF:-1,Stranger Things S01 E05
+http://tv.asplay.club:25461/series/marcol/marcol/10020.mp4
+#EXTINF:-1,Stranger Things S01 E06
+http://tv.asplay.club:25461/series/marcol/marcol/10021.mp4
+#EXTINF:-1,Stranger Things S01 E07
+http://tv.asplay.club:25461/series/marcol/marcol/10022.mp4
+#EXTINF:-1,Stranger Things S01 E08
+http://tv.asplay.club:25461/series/marcol/marcol/10023.mp4
+#EXTINF:-1,Stranger Things S02 E01
+http://tv.asplay.club:25461/series/marcol/marcol/10024.mp4
+#EXTINF:-1,Stranger Things S02 E02
+http://tv.asplay.club:25461/series/marcol/marcol/10025.mp4
+#EXTINF:-1,Stranger Things S02 E03
+http://tv.asplay.club:25461/series/marcol/marcol/10026.mp4
+#EXTINF:-1,Stranger Things S02 E04
+http://tv.asplay.club:25461/series/marcol/marcol/10027.mp4
+#EXTINF:-1,Stranger Things S02 E05
+http://tv.asplay.club:25461/series/marcol/marcol/10033.mp4
+#EXTINF:-1,Stranger Things S02 E06
+http://tv.asplay.club:25461/series/marcol/marcol/10029.mp4
+#EXTINF:-1,Stranger Things S02 E07
+http://tv.asplay.club:25461/series/marcol/marcol/10030.mp4
+#EXTINF:-1,Stranger Things S02 E08
+http://tv.asplay.club:25461/series/marcol/marcol/10031.mp4
+#EXTINF:-1,Stranger Things S02 E09
+http://tv.asplay.club:25461/series/marcol/marcol/10032.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic Channels", |AR|_TUNISIE_NAT1_TV
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.ts
