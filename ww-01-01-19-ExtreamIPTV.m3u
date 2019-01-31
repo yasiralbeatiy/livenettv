@@ -1,5 +1,179 @@
 #EXTM3U
 
+
+#EXTINF:-1,Bein Sport HD
+http://145.239.204.63:8000/live/multaka/multaka123/86.ts
+#EXTINF:-1,Bein Sport News
+http://145.239.204.63:8000/live/multaka/multaka123/85.ts
+#EXTINF:-1,BeinMax2
+http://145.239.204.63:8000/live/multaka/multaka123/88.ts
+#EXTINF:-1,BeinMax1
+http://145.239.204.63:8000/live/multaka/multaka123/87.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://145.239.204.63:8000/live/multaka/multaka123/89.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://145.239.204.63:8000/live/multaka/multaka123/90.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://145.239.204.63:8000/live/multaka/multaka123/91.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://145.239.204.63:8000/live/multaka/multaka123/92.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://145.239.204.63:8000/live/multaka/multaka123/93.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://145.239.204.63:8000/live/multaka/multaka123/94.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://145.239.204.63:8000/live/multaka/multaka123/95.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://145.239.204.63:8000/live/multaka/multaka123/96.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://145.239.204.63:8000/live/multaka/multaka123/97.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://145.239.204.63:8000/live/multaka/multaka123/98.ts
+#EXTINF:-1,BEIN SPORTS NBA
+http://145.239.204.63:8000/live/multaka/multaka123/105.ts
+#EXTINF:-1,AR: BeoutQ Sport 1 HD
+http://145.239.204.63:8000/live/multaka/multaka123/106.ts
+#EXTINF:-1,AR: BeoutQ Sport 2 HD
+http://145.239.204.63:8000/live/multaka/multaka123/107.ts
+#EXTINF:-1,AR: BeoutQ Sport 3 HD
+http://145.239.204.63:8000/live/multaka/multaka123/108.ts
+#EXTINF:-1,AR: BeoutQ Sport 4 HD
+http://145.239.204.63:8000/live/multaka/multaka123/109.ts
+#EXTINF:-1,AR: BeoutQ Sport 5 HD
+http://145.239.204.63:8000/live/multaka/multaka123/110.ts
+#EXTINF:-1,AR: BeoutQ Sport 6 HD
+http://145.239.204.63:8000/live/multaka/multaka123/111.ts
+#EXTINF:-1,AR: BeoutQ Sport 7 HD
+http://145.239.204.63:8000/live/multaka/multaka123/112.ts
+#EXTINF:-1,Dubai Sports
+http://145.239.204.63:8000/live/multaka/multaka123/25.ts
+#EXTINF:-1,Arryadia
+http://145.239.204.63:8000/live/multaka/multaka123/154.ts
+#EXTINF:-1,Arrabiaa
+http://145.239.204.63:8000/live/multaka/multaka123/155.ts
+#EXTINF:-1,Adsport2
+http://145.239.204.63:8000/live/multaka/multaka123/114.ts
+#EXTINF:-1,Adsport1
+http://145.239.204.63:8000/live/multaka/multaka123/113.ts
+#EXTINF:-1,ABU DHABI SPORTS 2
+http://145.239.204.63:8000/live/multaka/multaka123/4.ts
+#EXTINF:-1,ABU DHABI SPORTS 1
+http://145.239.204.63:8000/live/multaka/multaka123/3.ts
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://145.239.204.63:8000/live/multaka/multaka123/141.ts
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://145.239.204.63:8000/live/multaka/multaka123/140.ts
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://145.239.204.63:8000/live/multaka/multaka123/139.ts
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://145.239.204.63:8000/live/multaka/multaka123/138.ts
+#EXTINF:-1,MBC-1-HD
+http://145.239.204.63:8000/live/multaka/multaka123/115.ts
+#EXTINF:-1,MBC-2-HD
+http://145.239.204.63:8000/live/multaka/multaka123/116.ts
+#EXTINF:-1,MBC-3-HD
+http://145.239.204.63:8000/live/multaka/multaka123/117.ts
+#EXTINF:-1,MBC-4-HD
+http://145.239.204.63:8000/live/multaka/multaka123/118.ts
+#EXTINF:-1,MBC-P-RAVIETY
+http://145.239.204.63:8000/live/multaka/multaka123/122.ts
+#EXTINF:-1,MBC-MAX-HD
+http://145.239.204.63:8000/live/multaka/multaka123/123.ts
+#EXTINF:-1,MBC-DRAMA-HD
+http://145.239.204.63:8000/live/multaka/multaka123/124.ts
+#EXTINF:-1,MBC-Bollywood-HD
+http://145.239.204.63:8000/live/multaka/multaka123/120.ts
+#EXTINF:-1,MBC-ACTION-HD
+http://145.239.204.63:8000/live/multaka/multaka123/121.ts
+#EXTINF:-1,MBC DRAMA Plus
+http://145.239.204.63:8000/live/multaka/multaka123/119.ts
+#EXTINF:-1,OSN-Movies-First
+http://145.239.204.63:8000/live/multaka/multaka123/133.ts
+#EXTINF:-1,OSN-MOVIES-HD
+http://145.239.204.63:8000/live/multaka/multaka123/132.ts
+#EXTINF:-1,OSN-MOVIES-AC
+http://145.239.204.63:8000/live/multaka/multaka123/134.ts
+#EXTINF:-1,OSN-Yahala-Cinema
+http://145.239.204.63:8000/live/multaka/multaka123/131.ts
+#EXTINF:-1,OSN Movies Kids
+http://145.239.204.63:8000/live/multaka/multaka123/130.ts
+#EXTINF:-1,ABU DHABI DRAMA
+http://145.239.204.63:8000/live/multaka/multaka123/28.ts
+#EXTINF:-1,Zee_Aflam
+http://145.239.204.63:8000/live/multaka/multaka123/126.ts
+#EXTINF:-1,Zee Alwan
+http://145.239.204.63:8000/live/multaka/multaka123/125.ts
+#EXTINF:-1,Tamazight
+http://145.239.204.63:8000/live/multaka/multaka123/158.ts
+#EXTINF:-1,Syrian TV
+http://145.239.204.63:8000/live/multaka/multaka123/20.ts
+#EXTINF:-1,SHARQIYA NEWS
+http://145.239.204.63:8000/live/multaka/multaka123/10.ts
+#EXTINF:-1,SEdu TV
+http://145.239.204.63:8000/live/multaka/multaka123/21.ts
+#EXTINF:-1,NourElsham TV
+http://145.239.204.63:8000/live/multaka/multaka123/22.ts
+#EXTINF:-1,MY-FILM-BOX-HD
+http://145.239.204.63:8000/live/multaka/multaka123/135.ts
+#EXTINF:-1,Melody Drama
+http://145.239.204.63:8000/live/multaka/multaka123/127.ts
+#EXTINF:-1,Medi1 TV
+http://145.239.204.63:8000/live/multaka/multaka123/151.ts
+#EXTINF:-1,Majid_Kids
+http://145.239.204.63:8000/live/multaka/multaka123/147.ts
+#EXTINF:-1,FOX-FAMILY-MOV
+http://145.239.204.63:8000/live/multaka/multaka123/136.ts
+#EXTINF:-1,FOX-ACTION-MOV
+http://145.239.204.63:8000/live/multaka/multaka123/137.ts
+#EXTINF:-1,Dubai Zaman
+http://145.239.204.63:8000/live/multaka/multaka123/14.ts
+#EXTINF:-1,Dubai Tv
+http://145.239.204.63:8000/live/multaka/multaka123/15.ts
+#EXTINF:-1,Dubai One
+http://145.239.204.63:8000/live/multaka/multaka123/24.ts
+#EXTINF:-1,Drama TV
+http://145.239.204.63:8000/live/multaka/multaka123/18.ts
+#EXTINF:-1,CN_Arabia
+http://145.239.204.63:8000/live/multaka/multaka123/148.ts
+#EXTINF:-1,Boomerang
+http://145.239.204.63:8000/live/multaka/multaka123/149.ts
+#EXTINF:-1,BEIN Series-HD2
+http://145.239.204.63:8000/live/multaka/multaka123/143.ts
+#EXTINF:-1,BEIN Series-HD1
+http://145.239.204.63:8000/live/multaka/multaka123/142.ts
+#EXTINF:-1,Baraem-HD
+http://145.239.204.63:8000/live/multaka/multaka123/150.ts
+#EXTINF:-1,B4u Plus
+http://145.239.204.63:8000/live/multaka/multaka123/160.ts
+#EXTINF:-1,B4u Aflam
+http://145.239.204.63:8000/live/multaka/multaka123/159.ts
+#EXTINF:-1,Assadissa
+http://145.239.204.63:8000/live/multaka/multaka123/157.ts
+#EXTINF:-1,ART-AFLAM-2
+http://145.239.204.63:8000/live/multaka/multaka123/129.ts
+#EXTINF:-1,ART-AFLAM-1
+http://145.239.204.63:8000/live/multaka/multaka123/128.ts
+#EXTINF:-1,Animal-Planet
+http://145.239.204.63:8000/live/multaka/multaka123/144.ts
+#EXTINF:-1,Al Maghribia
+http://145.239.204.63:8000/live/multaka/multaka123/156.ts
+#EXTINF:-1,AL jazeera english
+http://145.239.204.63:8000/live/multaka/multaka123/11.ts
+#EXTINF:-1,Al Jazeera Documentary
+http://145.239.204.63:8000/live/multaka/multaka123/16.ts
+#EXTINF:-1,AL JAZEERA
+http://145.239.204.63:8000/live/multaka/multaka123/12.ts
+#EXTINF:-1,Al Arabiya
+http://145.239.204.63:8000/live/multaka/multaka123/23.ts
+#EXTINF:-1,Al Aoula Laayoune
+http://145.239.204.63:8000/live/multaka/multaka123/152.ts
+#EXTINF:-1,Al Aoula Int'l
+http://145.239.204.63:8000/live/multaka/multaka123/153.ts
+#EXTINF:-1,AD_Nat_Geo
+http://145.239.204.63:8000/live/multaka/multaka123/145.ts
+#EXTINF:-1,2M Maroc
+http://145.239.204.63:8000/live/multaka/multaka123/17.ts
+
 #EXTINF:-1,24/7 Casados con Hijos
 http://tv.asplay.club:25461/marcol/marcol/9151
 #EXTINF:-1,24/7 No Toca Boton (CH)
