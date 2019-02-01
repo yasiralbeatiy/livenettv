@@ -29,34 +29,6 @@ http://145.239.204.63:8000/live/multaka/multaka123/97.ts
 http://145.239.204.63:8000/live/multaka/multaka123/98.ts
 #EXTINF:-1,BEIN SPORTS NBA
 http://145.239.204.63:8000/live/multaka/multaka123/105.ts
-#EXTINF:-1,AR: BeoutQ Sport 1 HD
-http://145.239.204.63:8000/live/multaka/multaka123/106.ts
-#EXTINF:-1,AR: BeoutQ Sport 2 HD
-http://145.239.204.63:8000/live/multaka/multaka123/107.ts
-#EXTINF:-1,AR: BeoutQ Sport 3 HD
-http://145.239.204.63:8000/live/multaka/multaka123/108.ts
-#EXTINF:-1,AR: BeoutQ Sport 4 HD
-http://145.239.204.63:8000/live/multaka/multaka123/109.ts
-#EXTINF:-1,AR: BeoutQ Sport 5 HD
-http://145.239.204.63:8000/live/multaka/multaka123/110.ts
-#EXTINF:-1,AR: BeoutQ Sport 6 HD
-http://145.239.204.63:8000/live/multaka/multaka123/111.ts
-#EXTINF:-1,AR: BeoutQ Sport 7 HD
-http://145.239.204.63:8000/live/multaka/multaka123/112.ts
-#EXTINF:-1,Dubai Sports
-http://145.239.204.63:8000/live/multaka/multaka123/25.ts
-#EXTINF:-1,Arryadia
-http://145.239.204.63:8000/live/multaka/multaka123/154.ts
-#EXTINF:-1,Arrabiaa
-http://145.239.204.63:8000/live/multaka/multaka123/155.ts
-#EXTINF:-1,Adsport2
-http://145.239.204.63:8000/live/multaka/multaka123/114.ts
-#EXTINF:-1,Adsport1
-http://145.239.204.63:8000/live/multaka/multaka123/113.ts
-#EXTINF:-1,ABU DHABI SPORTS 2
-http://145.239.204.63:8000/live/multaka/multaka123/4.ts
-#EXTINF:-1,ABU DHABI SPORTS 1
-http://145.239.204.63:8000/live/multaka/multaka123/3.ts
 #EXTINF:-1,BEIN MOVIES 4 HD
 http://145.239.204.63:8000/live/multaka/multaka123/141.ts
 #EXTINF:-1,BEIN MOVIES 3 HD
@@ -65,6 +37,19 @@ http://145.239.204.63:8000/live/multaka/multaka123/140.ts
 http://145.239.204.63:8000/live/multaka/multaka123/139.ts
 #EXTINF:-1,BEIN MOVIES 1 HD
 http://145.239.204.63:8000/live/multaka/multaka123/138.ts
+#EXTINF:-1,BEIN Series-HD2
+http://145.239.204.63:8000/live/multaka/multaka123/143.ts
+#EXTINF:-1,BEIN Series-HD1
+http://145.239.204.63:8000/live/multaka/multaka123/142.ts
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://145.239.204.63:8000/live/multaka/multaka123/141.ts
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://145.239.204.63:8000/live/multaka/multaka123/140.ts
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://145.239.204.63:8000/live/multaka/multaka123/139.ts
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://145.239.204.63:8000/live/multaka/multaka123/138.ts
+
 #EXTINF:-1,MBC-1-HD
 http://145.239.204.63:8000/live/multaka/multaka123/115.ts
 #EXTINF:-1,MBC-2-HD
