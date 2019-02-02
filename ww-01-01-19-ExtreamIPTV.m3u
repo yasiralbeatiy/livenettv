@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS MAX HD 1
-http://62.210.76.207:25461/live/jordan/iptv/230.ts
-#EXTINF:-1,beIN SPORTS MAX HD 2
-http://62.210.76.207:25461/live/jordan/iptv/231.ts
-#EXTINF:-1,beIN SPORTS HD1
-http://62.210.76.207:25461/live/jordan/iptv/232.ts
-#EXTINF:-1,beIN SPORTS HD2
-http://62.210.76.207:25461/live/jordan/iptv/233.ts
-#EXTINF:-1,beIN SPORTS HD3
-http://62.210.76.207:25461/live/jordan/iptv/234.ts
-#EXTINF:-1,beIN SPORTS HD4
-http://62.210.76.207:25461/live/jordan/iptv/235.ts
-#EXTINF:-1,beIN SPORTS HD5
-http://62.210.76.207:25461/live/jordan/iptv/236.ts
-#EXTINF:-1,beIN SPORTS HD6
-http://62.210.76.207:25461/live/jordan/iptv/237.ts
-#EXTINF:-1,beIN SPORTS HD7
-http://62.210.76.207:25461/live/jordan/iptv/238.ts
-#EXTINF:-1,beIN SPORTS HD8
-http://62.210.76.207:25461/live/jordan/iptv/239.ts
-#EXTINF:-1,beIN SPORTS HD9
-http://62.210.76.207:25461/live/jordan/iptv/240.ts
-#EXTINF:-1,beIN SPORTS HD12
-http://62.210.76.207:25461/live/jordan/iptv/243.ts
-#EXTINF:-1,beIN SPORTS HD11
-http://62.210.76.207:25461/live/jordan/iptv/242.ts
-#EXTINF:-1,beIN SPORTS HD10
-http://62.210.76.207:25461/live/jordan/iptv/241.ts
-#EXTINF:-1,beIN SPORTS HD
-http://62.210.76.207:25461/live/jordan/iptv/229.ts
-#EXTINF:-1,beIN SPORTS News HD
-http://62.210.76.207:25461/live/jordan/iptv/228.ts
 #EXTINF:-1,BEIN SPORTS 1new
 http://62.210.76.207:25461/live/jordan/iptv/493.ts
 #EXTINF:-1,BEIN SPORTS 2new
