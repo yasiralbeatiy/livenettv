@@ -1,4 +1,313 @@
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1,beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/1.ts
+#EXTINF:-1,beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/2.ts
+#EXTINF:-1,beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/3.ts
+#EXTINF:-1,beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/4.ts
+#EXTINF:-1,beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/5.ts
+#EXTINF:-1,beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/6.ts
+#EXTINF:-1,beIN Sports 7 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/7.ts
+#EXTINF:-1,beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/8.ts
+#EXTINF:-1,beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/9.ts
+#EXTINF:-1,beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/10.ts
+#EXTINF:-1,Turkish beIN Sports 1 (TR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/11.ts
+#EXTINF:-1,EuroSport 1 (FR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/12.ts
+#EXTINF:-1,EuroSport 2 (FR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/13.ts
+#EXTINF:-1,beIN Sports 1 HD (FR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/14.ts
+#EXTINF:-1,beIN Sports 2 HD (FR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/15.ts
+#EXTINF:-1,beIN Sports 3 HD (FR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/16.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/17.ts
+#EXTINF:-1,OSN AD Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/18.ts
+#EXTINF:-1,OSN AD Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/19.ts
+#EXTINF:-1,beIN Sports HD (ES)
+http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/20.ts
+#EXTINF:-1,Falcon Eye TV
+http://falconeyeiptv.sytes.net:1935/f1/f1live/chunklist_w265302484.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Falcon Family HD
+http://212.126.119.126:1935/f2/f2live/chunklist_w273664158.m3u8
+#EXTINF:-1,Dubai Sports (AR)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,US: RED BULL
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Real Madrid
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,TRT SPOR HD
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+#EXTINF:-1,KASS SPORTS 1 (AR)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1,A SPOR HD
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1,OSN WWE HD (AR)
+http://www.freeiptvdaily.net:8000/live/niwBBhXJoT/freeiptvdaily.tv/39.ts
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Dubai Sports (AR)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,SPORT TV 1
+https://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1,SPORT TV 2
+https://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://livebar.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://livebar.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 1
+https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1,SPORT TV 2
+https://vip7stream.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 2HD
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
+#EXTINF:-1,Supersport 2
+https://livebar.pw/lba/123/g7/ss2al.m3u8
+#EXTINF:-1,Supersport 3
+https://livebar.pw/lba/123/g5/albaniasport3.m3u8
+#EXTINF:-1,Supersport 4
+https://livebar.pw/lba/123/g7/super4sport.m3u8
+#EXTINF:-1,Supersport 2
+https://vip7stream.pw/lba/123/g7/ss2al.m3u8
+#EXTINF:-1,Supersport 3
+https://vip7stream.pw/lba/123/g5/albaniasport3.m3u8
+#EXTINF:-1,Supersport 4
+https://vip7stream.pw/lba/123/g7/super4sport.m3u8
+#EXTINF:-1,bein turkey 1 
+https://livebar.pw/lba/123/g7/beinsport1tur.m3u8
+#EXTINF:-1,bein turkey 2
+https://livebar.pw/lba/123/g6/turbein2sport.m3u8
+#EXTINF:-1,bein turkey 3
+https://livebar.pw/lba/123/g8/bein3turkey.m3u8
+#EXTINF:-1,bein turkey 1
+https://vip7stream.pw/lba/123/g7/beinsport1tur.m3u8
+#EXTINF:-1,bein turkey 2
+https://vip7stream.pw/lba/123/g6/turbein2sport.m3u8
+#EXTINF:-1,bein turkey 3
+https://vip7stream.pw/lba/123/g8/bein3turkey.m3u8
+#EXTINF:-1,bein turkey 3
+https://vip7stream.pw/lba/123/g9/rs3sk.m3u8
+#EXTINF:-1,Digi Sport 1
+https://livebar.pw/lba/123/g4/ds1ro.m3u8
+#EXTINF:-1,Digi Sport 2
+https://livebar.pw/lba/123/g1/digisport2ro.m3u8
+#EXTINF:-1,ARENA SPORT 1
+https://livebar.pw/lba/123/g7/arena1rs.m3u8
+#EXTINF:-1,ARENA SPORT 2
+https://livebar.pw/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1,ARENA SPORT 3
+https://livebar.pw/lba/123/g6/sportarena3rs.m3u8
+#EXTINF:-1,ARENA SPORT 4
+https://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1,ARENA SPORT 5
+https://livebar.pw/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1,ARENA SPORT 1
+https://vip7stream.pw/lba/123/g7/arena1rs.m3u8
+#EXTINF:-1,ARENA SPORT 2
+https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1,ARENA SPORT 3
+https://vip7stream.pw/lba/123/g6/sportarena3rs.m3u8
+#EXTINF:-1,ARENA SPORT 4
+https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1,ARENA SPORT 5
+https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1,sportklub 1
+https://livebar.pw/lba/123/g1/sportklub1rs.m3u8
+#EXTINF:-1,sportklub 2
+https://livebar.pw/lba/123/g3/sk2serbia.m3u8
+#EXTINF:-1,sportklub 3
+https://livebar.pw/lba/123/g9/rs3sk.m3u8
+#EXTINF:-1,sportklub 1
+https://vip7stream.pw/lba/123/g1/sportklub1rs.m3u8
+#EXTINF:-1,sportklub 2
+https://vip7stream.pw/lba/123/g3/sk2serbia.m3u8
+#EXTINF:-1,bt sport 1
+https://livebar.pw/lba/123/g2/ukbtsport1.m3u8
+#EXTINF:-1,bt sport 2
+https://livebar.pw/lba/123/g3/bt2.m3u8
+#EXTINF:-1,bt sport 3
+https://livebar.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1,BT SPORT ESPN
+https://livebar.pw/lba/123/g6/espnbt.m3u8
+#EXTINF:-1,bt sport 1
+https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
+#EXTINF:-1,bt sport 2
+https://vip7stream.pw/lba/123/g3/bt2.m3u8
+#EXTINF:-1,bt sport 3
+https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1,BT SPORT ESPN
+https://vip7stream.pw/lba/123/g6/espnbt.m3u8
+#EXTINF:-1,KAZSPORT 
+https://livebar.pw/lba/123/g2/qazsportkz.m3u8
+#EXTINF:-1,SETANTA SPORTS +
+https://livebar.pw/lba/123/g6/setantarus.m3u8
+#EXTINF:-1,SETANTA SPORTS +
+https://vip7stream.pw/lba/123/g6/setantarus.m3u8
+#EXTINF:-1,SETANTA SPORTS EURASIA
+https://livebar.pw/lba/123/g1/seteurasiaplus.m3u8
+#EXTINF:-1,SETANTA SPORTS EURASIA
+https://vip7stream.pw/lba/123/g1/seteurasiaplus.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+https://livebar.pw/lba/123/g6/footballsky.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+https://vip7stream.pw/lba/123/g6/footballsky.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+https://livebar.pw/lba/123/g5/skymainuk.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+https://vip7stream.pw/lba/123/g5/skymainuk.m3u8
+#EXTINF:-1,VIASAT FOOTBALL
+https://livebar.pw/lba/123/g1/sweviafootball.m3u8
+#EXTINF:-1,VIASAT PREMIUM
+https://livebar.pw/lba/123/g3/viasatpremiumsw.m3u8
+#EXTINF:-1,VIASAT PREMIUM
+https://vip7stream.pw/lba/123/g3/viasatpremiumsw.m3u8
+#EXTINF:-1,belarus-5
+https://livebar.pw/lba/123/g2/bel555.m3u8
+#EXTINF:-1,sport ukraine 1
+https://livebar.pw/lba/123/g5/sport1ukraine.m3u8
+#EXTINF:-1,sport ukraine 2
+https://185-8-178-140.livesports24.online/uasport2ua.m3u8
+#EXTINF:-1,rusfootball
+https://vip7stream.pw/lba/123/g1/rusfootball.m3u8
+#EXTINF:-1,Match
+https://livebar.pw/lba/123/g1/rusmatchtv.m3u8
+#EXTINF:-1,Match Fudbal 1
+https://livebar.pw/lba/123/g2/mfootball1.m3u8
+#EXTINF:-1,Match Fudbal 2
+https://livebar.pw/lba/123/g5/rumatchf2.m3u8
+#EXTINF:-1,Match Fudbal 3
+https://livebar.pw/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1,Match
+https://vip7stream.pw/lba/123/g1/rusmatchtv.m3u8
+#EXTINF:-1,Match Fudbal 1
+https://vip7stream.pw/lba/123/g2/mfootball1.m3u8
+#EXTINF:-1,Match Fudbal 2
+https://vip7stream.pw/lba/123/g5/rumatchf2.m3u8
+#EXTINF:-1,Match Fudbal 3
+https://vip7stream.pw/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1,mpremier
+https://livebar.pw/lba/123/g3/mpremier.m3u8
+#EXTINF:-1,Digi Sport 1
+https://vip7stream.pw/lba/123/g4/ds1ro.m3u8
+#EXTINF:-1,Digi Sport 2
+https://vip7stream.pw/lba/123/g1/digisport2ro.m3u8
+#EXTINF:-1,btsport 1
+https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
+#EXTINF:-1,btsport 2
+https://vip7stream.pw/lba/123/g3/bt2.m3u8
+#EXTINF:-1,btsport 3
+https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1,futbol-1-uk 
+https//livebar.pw/lba/123/g1/ukrfoot1.m3u8
+#EXTINF:-1,futbol-2-uk
+https://livebar.pw/lba/123/g2/football2ukraine.m3u8
+#EXTINF:-1,futbol-1-uk
+https://vip7stream.pw/lba/123/g1/ukrfoot1.m3u8
+#EXTINF:-1,futbol-2-uk
+https://vip7stream.pw/lba/123/g2/football2ukraine.m3u8
+#EXTINF:-1,TSN 1
+https://livebar.pw/lba/123/g9/ca1tsn.m3u8
+#EXTINF:-1,SETANTA SPORTS +
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1,SETANTA SPORTS EURASIA
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:0 group-title="AR: _",AR: ARRYADIA 
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
+http://144.76.182.50:25461/live/smash/smash/4.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 (1+) HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:0 group-title="ARG: Argentina",ARG: UMAG TV PUNTA ARENAS 
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS 
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+#EXTINF:0 group-title="IN: India",IN: DONBAS TV 
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW 
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 
+http://51.15.182.233/hls/sebn4.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME 
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+) 
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS 
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH 
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+) 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC 
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:0 group-title="US: United States",US: RED BULL TV (1+) 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+) 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="US: United States",US: SPORTS 
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK 
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smash Sports" tvg-logo="http://136.243.80.153/evotv%20icons/maltese/smash%20sports.png" group-title="Smash Communications",Smash Sports
+http://144.76.182.50:25461/live/smash/smash/4.ts
+
 #EXTINF:-1,TR:CEYLAN SINEMA 1
 http://wowstream.net:25461/live/samet5/5samet/957.m3u8
 #EXTINF:-1,TR:CEYLAN SINEMA 2
@@ -1053,7 +1362,7 @@ http://wowstream.net:25461/movie/samet5/5samet/2422.mkv
 http://wowstream.net:25461/movie/samet5/5samet/2421.mkv
 #EXTINF:-1,Dizi: Savasci
 http://wowstream.net:25461/movie/samet5/5samet/2420.mkv
-#EXTINF:-1,Dizi: Sen Anlat Karadeniz
+#EXTINF:-1,Dizi: Senlat Karadeniz
 http://wowstream.net:25461/movie/samet5/5samet/2419.mkv
 #EXTINF:-1,Dizi: Soz
 http://wowstream.net:25461/movie/samet5/5samet/2418.mkv
@@ -1063,7 +1372,7 @@ http://wowstream.net:25461/movie/samet5/5samet/2417.mkv
 http://wowstream.net:25461/movie/samet5/5samet/2416.mkv
 #EXTINF:-1,Dizi: Yeni Gelin
 http://wowstream.net:25461/movie/samet5/5samet/2415.mkv
-#EXTINF:-1,Dizi:gulperi
+
 http://wowstream.net:25461/movie/samet5/5samet/2414.mkv
 #EXTINF:-1,DE -- RTLplus Local
 http://wowstream.net:25461/live/samet5/5samet/2003.m3u8
