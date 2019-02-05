@@ -1,1396 +1,1154 @@
 #EXTM3U
 
-
-#EXTINF:-1,beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/1.ts
-#EXTINF:-1,beIN Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/2.ts
-#EXTINF:-1,beIN Sports 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/3.ts
-#EXTINF:-1,beIN Sports 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/4.ts
-#EXTINF:-1,beIN Sports 5 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/5.ts
-#EXTINF:-1,beIN Sports 6 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/6.ts
-#EXTINF:-1,beIN Sports 7 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/7.ts
-#EXTINF:-1,beIN Sports 8 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/8.ts
-#EXTINF:-1,beIN Sports 9 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/9.ts
-#EXTINF:-1,beIN Sports 10 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/10.ts
-#EXTINF:-1,Turkish beIN Sports 1 (TR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/11.ts
-#EXTINF:-1,EuroSport 1 (FR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/12.ts
-#EXTINF:-1,EuroSport 2 (FR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/13.ts
-#EXTINF:-1,beIN Sports 1 HD (FR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/14.ts
-#EXTINF:-1,beIN Sports 2 HD (FR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/15.ts
-#EXTINF:-1,beIN Sports 3 HD (FR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/16.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/17.ts
-#EXTINF:-1,OSN AD Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/18.ts
-#EXTINF:-1,OSN AD Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/19.ts
-#EXTINF:-1,beIN Sports HD (ES)
-http://www.freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/20.ts
-#EXTINF:-1,Falcon Eye TV
-http://falconeyeiptv.sytes.net:1935/f1/f1live/chunklist_w265302484.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Falcon Family HD
-http://212.126.119.126:1935/f2/f2live/chunklist_w273664158.m3u8
-#EXTINF:-1,Dubai Sports (AR)
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,US: RED BULL
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,Real Madrid
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,TRT SPOR HD
-https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
-#EXTINF:-1,KASS SPORTS 1 (AR)
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,A SPOR HD
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1,OSN WWE HD (AR)
-http://www.freeiptvdaily.net:8000/live/niwBBhXJoT/freeiptvdaily.tv/39.ts
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,Dubai Sports (AR)
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,SPORT TV 1
-https://livebar.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1,SPORT TV 2
-https://livebar.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1,SPORT TV 3
-https://livebar.pw/lba/123/g3/pt3sport.m3u8
-#EXTINF:-1,SPORT TV 4
-https://livebar.pw/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1,SPORT TV 5
-https://livebar.pw/lba/123/g9/ptsport5.m3u8
-#EXTINF:-1,SPORT TV 1
-https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1,SPORT TV 2
-https://vip7stream.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1,SPORT TV 3
-https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
-#EXTINF:-1,SPORT TV 4
-https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1,SPORT TV 5
-https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
-#EXTINF:-1,SPORT TV 2HD
-https://185-125-230-172.livesports24.online/portugalsport2.m3u8
-#EXTINF:-1,Supersport 2
-https://livebar.pw/lba/123/g7/ss2al.m3u8
-#EXTINF:-1,Supersport 3
-https://livebar.pw/lba/123/g5/albaniasport3.m3u8
-#EXTINF:-1,Supersport 4
-https://livebar.pw/lba/123/g7/super4sport.m3u8
-#EXTINF:-1,Supersport 2
-https://vip7stream.pw/lba/123/g7/ss2al.m3u8
-#EXTINF:-1,Supersport 3
-https://vip7stream.pw/lba/123/g5/albaniasport3.m3u8
-#EXTINF:-1,Supersport 4
-https://vip7stream.pw/lba/123/g7/super4sport.m3u8
-#EXTINF:-1,bein turkey 1 
-https://livebar.pw/lba/123/g7/beinsport1tur.m3u8
-#EXTINF:-1,bein turkey 2
-https://livebar.pw/lba/123/g6/turbein2sport.m3u8
-#EXTINF:-1,bein turkey 3
-https://livebar.pw/lba/123/g8/bein3turkey.m3u8
-#EXTINF:-1,bein turkey 1
-https://vip7stream.pw/lba/123/g7/beinsport1tur.m3u8
-#EXTINF:-1,bein turkey 2
-https://vip7stream.pw/lba/123/g6/turbein2sport.m3u8
-#EXTINF:-1,bein turkey 3
-https://vip7stream.pw/lba/123/g8/bein3turkey.m3u8
-#EXTINF:-1,bein turkey 3
-https://vip7stream.pw/lba/123/g9/rs3sk.m3u8
-#EXTINF:-1,Digi Sport 1
-https://livebar.pw/lba/123/g4/ds1ro.m3u8
-#EXTINF:-1,Digi Sport 2
-https://livebar.pw/lba/123/g1/digisport2ro.m3u8
-#EXTINF:-1,ARENA SPORT 1
-https://livebar.pw/lba/123/g7/arena1rs.m3u8
-#EXTINF:-1,ARENA SPORT 2
-https://livebar.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1,ARENA SPORT 3
-https://livebar.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1,ARENA SPORT 4
-https://livebar.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-https://livebar.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1,ARENA SPORT 1
-https://vip7stream.pw/lba/123/g7/arena1rs.m3u8
-#EXTINF:-1,ARENA SPORT 2
-https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1,ARENA SPORT 3
-https://vip7stream.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1,ARENA SPORT 4
-https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1,sportklub 1
-https://livebar.pw/lba/123/g1/sportklub1rs.m3u8
-#EXTINF:-1,sportklub 2
-https://livebar.pw/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1,sportklub 3
-https://livebar.pw/lba/123/g9/rs3sk.m3u8
-#EXTINF:-1,sportklub 1
-https://vip7stream.pw/lba/123/g1/sportklub1rs.m3u8
-#EXTINF:-1,sportklub 2
-https://vip7stream.pw/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1,bt sport 1
-https://livebar.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,bt sport 2
-https://livebar.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,bt sport 3
-https://livebar.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,BT SPORT ESPN
-https://livebar.pw/lba/123/g6/espnbt.m3u8
-#EXTINF:-1,bt sport 1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,bt sport 2
-https://vip7stream.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,bt sport 3
-https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,BT SPORT ESPN
-https://vip7stream.pw/lba/123/g6/espnbt.m3u8
-#EXTINF:-1,KAZSPORT 
-https://livebar.pw/lba/123/g2/qazsportkz.m3u8
-#EXTINF:-1,SETANTA SPORTS +
-https://livebar.pw/lba/123/g6/setantarus.m3u8
-#EXTINF:-1,SETANTA SPORTS +
-https://vip7stream.pw/lba/123/g6/setantarus.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
-https://livebar.pw/lba/123/g1/seteurasiaplus.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
-https://vip7stream.pw/lba/123/g1/seteurasiaplus.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-https://livebar.pw/lba/123/g6/footballsky.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-https://vip7stream.pw/lba/123/g6/footballsky.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-https://livebar.pw/lba/123/g5/skymainuk.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-https://vip7stream.pw/lba/123/g5/skymainuk.m3u8
-#EXTINF:-1,VIASAT FOOTBALL
-https://livebar.pw/lba/123/g1/sweviafootball.m3u8
-#EXTINF:-1,VIASAT PREMIUM
-https://livebar.pw/lba/123/g3/viasatpremiumsw.m3u8
-#EXTINF:-1,VIASAT PREMIUM
-https://vip7stream.pw/lba/123/g3/viasatpremiumsw.m3u8
-#EXTINF:-1,belarus-5
-https://livebar.pw/lba/123/g2/bel555.m3u8
-#EXTINF:-1,sport ukraine 1
-https://livebar.pw/lba/123/g5/sport1ukraine.m3u8
-#EXTINF:-1,sport ukraine 2
-https://185-8-178-140.livesports24.online/uasport2ua.m3u8
-#EXTINF:-1,rusfootball
-https://vip7stream.pw/lba/123/g1/rusfootball.m3u8
-#EXTINF:-1,Match
-https://livebar.pw/lba/123/g1/rusmatchtv.m3u8
-#EXTINF:-1,Match Fudbal 1
-https://livebar.pw/lba/123/g2/mfootball1.m3u8
-#EXTINF:-1,Match Fudbal 2
-https://livebar.pw/lba/123/g5/rumatchf2.m3u8
-#EXTINF:-1,Match Fudbal 3
-https://livebar.pw/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,Match
-https://vip7stream.pw/lba/123/g1/rusmatchtv.m3u8
-#EXTINF:-1,Match Fudbal 1
-https://vip7stream.pw/lba/123/g2/mfootball1.m3u8
-#EXTINF:-1,Match Fudbal 2
-https://vip7stream.pw/lba/123/g5/rumatchf2.m3u8
-#EXTINF:-1,Match Fudbal 3
-https://vip7stream.pw/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,mpremier
-https://livebar.pw/lba/123/g3/mpremier.m3u8
-#EXTINF:-1,Digi Sport 1
-https://vip7stream.pw/lba/123/g4/ds1ro.m3u8
-#EXTINF:-1,Digi Sport 2
-https://vip7stream.pw/lba/123/g1/digisport2ro.m3u8
-#EXTINF:-1,btsport 1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,btsport 2
-https://vip7stream.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,btsport 3
-https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,futbol-1-uk 
-https//livebar.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1,futbol-2-uk
-https://livebar.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1,futbol-1-uk
-https://vip7stream.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1,futbol-2-uk
-https://vip7stream.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1,TSN 1
-https://livebar.pw/lba/123/g9/ca1tsn.m3u8
-#EXTINF:-1,SETANTA SPORTS +
-http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
-http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:0 group-title="AR: _",AR: ARRYADIA 
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
-http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 (1+) HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAG TV PUNTA ARENAS 
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS 
-http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
-#EXTINF:0 group-title="IN: India",IN: DONBAS TV 
-http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW 
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 
-http://51.15.182.233/hls/sebn4.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME 
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+) 
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS 
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN 
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN 2 
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH 
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+) 
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH 
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
-#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC 
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (1+) 
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+) 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 group-title="US: United States",US: SPORTS 
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK 
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE 
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Smash Sports" tvg-logo="http://136.243.80.153/evotv%20icons/maltese/smash%20sports.png" group-title="Smash Communications",Smash Sports
-http://144.76.182.50:25461/live/smash/smash/4.ts
-
-#EXTINF:-1,TR:CEYLAN SINEMA 1
-http://wowstream.net:25461/live/samet5/5samet/957.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 2
-http://wowstream.net:25461/live/samet5/5samet/958.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 3
-http://wowstream.net:25461/live/samet5/5samet/959.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 4
-http://wowstream.net:25461/live/samet5/5samet/960.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 5
-http://wowstream.net:25461/live/samet5/5samet/961.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 6
-http://wowstream.net:25461/live/samet5/5samet/962.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 7
-http://wowstream.net:25461/live/samet5/5samet/963.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 8
-http://wowstream.net:25461/live/samet5/5samet/964.m3u8
-#EXTINF:-1,TR:CEYLAN SINEMA 9
-http://wowstream.net:25461/live/samet5/5samet/965.m3u8
-#EXTINF:-1,TR: beIN Movies Türk HD
-http://wowstream.net:25461/live/samet5/5samet/1327.m3u8
-#EXTINF:-1,TR:beIN Movies Premier HD
-http://wowstream.net:25461/live/samet5/5samet/1326.m3u8
-#EXTINF:-1,TR: beIN Movies Premier 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1325.m3u8
-#EXTINF:-1,TR:beIN Movies Stars HD
-http://wowstream.net:25461/live/samet5/5samet/1324.m3u8
-#EXTINF:-1,TR:beIN Movies Family HD
-http://wowstream.net:25461/live/samet5/5samet/1323.m3u8
-#EXTINF:-1,TR:beIN Movies Festival HD
-http://wowstream.net:25461/live/samet5/5samet/1322.m3u8
-#EXTINF:-1,TR:beIN Movies Comedy HD
-http://wowstream.net:25461/live/samet5/5samet/1321.m3u8
-#EXTINF:-1,TR:beIN Movies Oscars HD
-http://wowstream.net:25461/live/samet5/5samet/1320.m3u8
-#EXTINF:-1,TR:beIN Movies Action HD
-http://wowstream.net:25461/live/samet5/5samet/1319.m3u8
-#EXTINF:-1,TR:beIN Movies Action 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1318.m3u8
-#EXTINF:-1,TR:beIN Series Comedy HD
-http://wowstream.net:25461/live/samet5/5samet/1317.m3u8
-#EXTINF:-1,TR:beIN Series Drama HD
-http://wowstream.net:25461/live/samet5/5samet/1316.m3u8
-#EXTINF:-1,TR:beIN Series Sci-Fi HD
-http://wowstream.net:25461/live/samet5/5samet/1315.m3u8
-#EXTINF:-1,TR:beIN Series Vice HD
-http://wowstream.net:25461/live/samet5/5samet/1726.m3u8
-#EXTINF:-1,TR:beIN Box Office 1 HD
-http://wowstream.net:25461/live/samet5/5samet/1314.m3u8
-#EXTINF:-1,TR:beIN Box Office 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1727.m3u8
-#EXTINF:-1,TR:beIN Box Office 3 HD
-http://wowstream.net:25461/live/samet5/5samet/1313.m3u8
-#EXTINF:-1,(D-Smart) Dizi Smart Premium HD
-http://wowstream.net:25461/live/samet5/5samet/1309.m3u8
-#EXTINF:-1,(D-Smart) Movie Smart Action HD
-http://wowstream.net:25461/live/samet5/5samet/1310.m3u8
-#EXTINF:-1,(D-Smart) Movie Smart Family HD
-http://wowstream.net:25461/live/samet5/5samet/1312.m3u8
-#EXTINF:-1,(D-Smart) Movie Smart Fest HD
-http://wowstream.net:25461/live/samet5/5samet/1311.m3u8
-#EXTINF:-1,(Filbox) Sinema TV 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1301.m3u8
-#EXTINF:-1,(Filbox) Sinema TV 1001 HD
-http://wowstream.net:25461/live/samet5/5samet/1300.m3u8
-#EXTINF:-1,(Filbox) Sinema TV 1001 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1380.m3u8
-#EXTINF:-1,(Filbox) Sinema TV Aile HD
-http://wowstream.net:25461/live/samet5/5samet/1299.m3u8
-#EXTINF:-1,(Filbox) Sinema TV Aile 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1381.m3u8
-#EXTINF:-1,(Filbox) Sinema TV Aksiyon HD
-http://wowstream.net:25461/live/samet5/5samet/1298.m3u8
-#EXTINF:-1,FIL TV
-http://wowstream.net:25461/live/samet5/5samet/1604.m3u8
-#EXTINF:-1,(D-Smart) Movie Smart Classic HD
-http://wowstream.net:25461/live/samet5/5samet/2014.m3u8
-#EXTINF:-1,S Sony Channel Turkiye HD
-http://wowstream.net:25461/live/samet5/5samet/73.m3u8
-#EXTINF:-1,TRT 1 HD Local
-http://wowstream.net:25461/live/samet5/5samet/1.m3u8
-#EXTINF:-1,ATV HD Local
-http://wowstream.net:25461/live/samet5/5samet/2.m3u8
-#EXTINF:-1,STAR TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/3.m3u8
-#EXTINF:-1,SHOW TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/4.m3u8
-#EXTINF:-1,KANAL D HD Local
-http://wowstream.net:25461/live/samet5/5samet/5.m3u8
-#EXTINF:-1,FOX TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/6.m3u8
-#EXTINF:-1,TV 8 HD Local
-http://wowstream.net:25461/live/samet5/5samet/7.m3u8
-#EXTINF:-1,TV 8.5 HD Local
-http://wowstream.net:25461/live/samet5/5samet/12.m3u8
-#EXTINF:-1,A2 TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/11.m3u8
-#EXTINF:-1,KANAL 7 HD Local
-http://wowstream.net:25461/live/samet5/5samet/9.m3u8
-#EXTINF:-1,TV 360 HD Local
-http://wowstream.net:25461/live/samet5/5samet/13.m3u8
-#EXTINF:-1,ÜLKE TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/28.m3u8
-#EXTINF:-1,FLASH TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/14.m3u8
-#EXTINF:-1,BEYAZ TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/8.m3u8
-#EXTINF:-1,CNN TÜRK HD Local
-http://wowstream.net:25461/live/samet5/5samet/26.m3u8
-#EXTINF:-1,NTV HD Local
-http://wowstream.net:25461/live/samet5/5samet/25.m3u8
-#EXTINF:-1,KANAL 7 EU
-http://wowstream.net:25461/live/samet5/5samet/276.m3u8
-#EXTINF:-1,24 TV HD Local
-http://wowstream.net:25461/live/samet5/5samet/30.m3u8
-#EXTINF:-1,A Haber HD Local
-http://wowstream.net:25461/live/samet5/5samet/24.m3u8
-#EXTINF:-1,Bloomberg HT HD Local
-http://wowstream.net:25461/live/samet5/5samet/32.m3u8
-#EXTINF:-1,ULUSAL TV HD
-http://wowstream.net:25461/live/samet5/5samet/277.m3u8
-#EXTINF:-1,Halk TV HD
-http://wowstream.net:25461/live/samet5/5samet/281.m3u8
-#EXTINF:-1,KRT
-http://wowstream.net:25461/live/samet5/5samet/504.m3u8
-#EXTINF:-1,Tvnet HD Local
-http://wowstream.net:25461/live/samet5/5samet/29.m3u8
-#EXTINF:-1,TR:AKIT TV
-http://wowstream.net:25461/live/samet5/5samet/262.m3u8
-#EXTINF:-1,TRT HABER HD Local
-http://wowstream.net:25461/live/samet5/5samet/23.m3u8
-#EXTINF:-1,KANAL AVRUPA
-http://wowstream.net:25461/live/samet5/5samet/280.m3u8
-#EXTINF:-1,TRT 1 AVRUPA HD
-http://wowstream.net:25461/live/samet5/5samet/278.m3u8
-#EXTINF:-1,ATV -AVRUPA
-http://wowstream.net:25461/live/samet5/5samet/200.m3u8
-#EXTINF:-1,ARTI TV
-http://wowstream.net:25461/live/samet5/5samet/2028.m3u8
-#EXTINF:-1,TR:YOL TV HD
-http://wowstream.net:25461/live/samet5/5samet/2029.m3u8
-#EXTINF:-1,VATAN TV
-http://wowstream.net:25461/live/samet5/5samet/279.m3u8
-#EXTINF:-1,Semerkand TV HD
-http://wowstream.net:25461/live/samet5/5samet/283.m3u8
-#EXTINF:-1,SHOW Max HD
-http://wowstream.net:25461/live/samet5/5samet/15.m3u8
-#EXTINF:-1,TR LIG TV VIPS
-http://wowstream.net:25461/live/samet5/5samet/315.m3u8
-#EXTINF:-1,Teve 2 HD Local
-http://wowstream.net:25461/live/samet5/5samet/10.m3u8
-#EXTINF:-1,TRT TÜRK HD Local
-http://wowstream.net:25461/live/samet5/5samet/21.m3u8
-#EXTINF:-1,TGRT EU HD
-http://wowstream.net:25461/live/samet5/5samet/309.m3u8
-#EXTINF:-1,TGRT HABER HD Local
-http://wowstream.net:25461/live/samet5/5samet/374.m3u8
-#EXTINF:-1,Bengü TÜRK TV HD
-http://wowstream.net:25461/live/samet5/5samet/282.m3u8
-#EXTINF:-1,TV Em HD Local
-http://wowstream.net:25461/live/samet5/5samet/377.m3u8
-#EXTINF:-1,TV 8 INT
-http://wowstream.net:25461/live/samet5/5samet/117.m3u8
-#EXTINF:-1,A-PARA
-http://wowstream.net:25461/live/samet5/5samet/383.m3u8
-#EXTINF:-1,BARIS TV
-http://wowstream.net:25461/live/samet5/5samet/386.m3u8
-#EXTINF:-1,TR:CEM TV
-http://wowstream.net:25461/live/samet5/5samet/189.m3u8
-#EXTINF:-1,EKIN TV
-http://wowstream.net:25461/live/samet5/5samet/16.m3u8
-#EXTINF:-1,TRT 3 TBMM TV HD
-http://wowstream.net:25461/live/samet5/5samet/310.m3u8
-#EXTINF:-1,TRT DIYANET TV
-http://wowstream.net:25461/live/samet5/5samet/544.m3u8
-#EXTINF:-1,TLC Channel Türkiye HD Local
-http://wowstream.net:25461/live/samet5/5samet/1541.m3u8
-#EXTINF:-1,Disney Channel HD
-http://wowstream.net:25461/live/samet5/5samet/293.m3u8
-#EXTINF:-1,Disney Junior HD
-http://wowstream.net:25461/live/samet5/5samet/292.m3u8
-#EXTINF:-1,TRT Çoçuk HD
-http://wowstream.net:25461/live/samet5/5samet/297.m3u8
-#EXTINF:-1,Kidz / Animez TV
-http://wowstream.net:25461/live/samet5/5samet/288.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://wowstream.net:25461/live/samet5/5samet/294.m3u8
-#EXTINF:-1,Planet Çocuk HD
-http://wowstream.net:25461/live/samet5/5samet/289.m3u8
-#EXTINF:-1,Minika Çocuk HD
-http://wowstream.net:25461/live/samet5/5samet/290.m3u8
-#EXTINF:-1,Minika Go HD
-http://wowstream.net:25461/live/samet5/5samet/291.m3u8
-#EXTINF:-1,TRT Avaz HD Local
-http://wowstream.net:25461/live/samet5/5samet/1538.m3u8
-#EXTINF:-1,TEK RUMELI
-http://wowstream.net:25461/live/samet5/5samet/387.m3u8
-#EXTINF:-1,TV 4 HD Local
-http://wowstream.net:25461/live/samet5/5samet/1540.m3u8
-#EXTINF:-1,SHOW TÜRK
-http://wowstream.net:25461/live/samet5/5samet/385.m3u8
-#EXTINF:-1,TGRT BELGESEL
-http://wowstream.net:25461/live/samet5/5samet/218.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://wowstream.net:25461/live/samet5/5samet/217.m3u8
-#EXTINF:-1,YABAN TV
-http://wowstream.net:25461/live/samet5/5samet/216.m3u8
-#EXTINF:-1,KRAL 90 LAR TV
-http://cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8
-#EXTINF:-1,KRAL POP AKUSTIK TV
-http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
-#EXTINF:-1,KRAL POP PERFORMANS
-http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
-#EXTINF:-1,KRAL POP ASK
-http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
-#EXTINF:-1,KRAL POP KONSER TV
-http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
-#EXTINF:-1,TRT Müzik
-http://wowstream.net:25461/live/samet5/5samet/298.m3u8
-#EXTINF:-1,Kral Pop TV HD
-http://wowstream.net:25461/live/samet5/5samet/304.m3u8
-#EXTINF:-1,Kral TV HD
-http://wowstream.net:25461/live/samet5/5samet/305.m3u8
-#EXTINF:-1,Kral Word HD
-http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
-#EXTINF:-1,Number1 HD
-http://wowstream.net:25461/live/samet5/5samet/299.m3u8
-#EXTINF:-1,Dream Türk TV HD
-http://wowstream.net:25461/live/samet5/5samet/302.m3u8
-#EXTINF:-1,Dream TV HD
-http://wowstream.net:25461/live/samet5/5samet/301.m3u8
-#EXTINF:-1,Number1 Türk HD
-http://wowstream.net:25461/live/samet5/5samet/300.m3u8
-#EXTINF:-1,Power TV HD
-http://wowstream.net:25461/live/samet5/5samet/306.m3u8
-#EXTINF:-1,Power Turk TV HD
-http://wowstream.net:25461/live/samet5/5samet/307.m3u8
-#EXTINF:-1,TV 52 ORDU
-http://wowstream.net:25461/live/samet5/5samet/1608.m3u8
-#EXTINF:-1,ALTAS TV
-http://wowstream.net:25461/live/samet5/5samet/1699.m3u8
-#EXTINF:-1,TMB TV
-http://wowstream.net:25461/live/samet5/5samet/1700.m3u8
-#EXTINF:-1,SRT SIVAS
-http://wowstream.net:25461/live/samet5/5samet/1701.m3u8
-#EXTINF:-1,CAY TV
-http://wowstream.net:25461/live/samet5/5samet/1702.m3u8
-#EXTINF:-1,LALEGÜL TV
-http://wowstream.net:25461/live/samet5/5samet/1703.m3u8
-#EXTINF:-1,KANAL 43
-http://wowstream.net:25461/live/samet5/5samet/1704.m3u8
-#EXTINF:-1,KANAL 26
-http://wowstream.net:25461/live/samet5/5samet/1706.m3u8
-#EXTINF:-1,CAN TV
-http://wowstream.net:25461/live/samet5/5samet/1707.m3u8
-#EXTINF:-1,AKSU TV
-http://wowstream.net:25461/live/samet5/5samet/1708.m3u8
-#EXTINF:-1,HABER 61
-http://wowstream.net:25461/live/samet5/5samet/1709.m3u8
-#EXTINF:-1,ROMAN TV
-http://wowstream.net:25461/live/samet5/5samet/1710.m3u8
-#EXTINF:-1,EDIRNE TV
-http://wowstream.net:25461/live/samet5/5samet/1711.m3u8
-#EXTINF:-1,DÜZCE TV
-http://wowstream.net:25461/live/samet5/5samet/1712.m3u8
-#EXTINF:-1,RADYO HOME
-http://wowstream.net:25461/live/samet5/5samet/1713.m3u8
-#EXTINF:-1,ANTALYA VTV
-http://wowstream.net:25461/live/samet5/5samet/1609.m3u8
-#EXTINF:-1,TR:Tempo tv
-http://wowstream.net:25461/live/samet5/5samet/2030.m3u8
-#EXTINF:-1,HABER TÜRK HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1851.m3u8
-#EXTINF:-1,WM TV HD
-http://wowstream.net:25461/live/samet5/5samet/2443.m3u8
-#EXTINF:-1,(Digiturk) belN Sport 1HD
-http://wowstream.net:25461/live/samet5/5samet/1328.m3u8
-#EXTINF:-1,(Digiturk) belN Sport 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1329.m3u8
-#EXTINF:-1,(Digiturk) belN Sport 3 HD
-http://wowstream.net:25461/live/samet5/5samet/1330.m3u8
-#EXTINF:-1,(Digiturk) belN Sport 4 HD
-http://wowstream.net:25461/live/samet5/5samet/1331.m3u8
-#EXTINF:-1,belNSpor (DSMART RZV1)
-http://wowstream.net:25461/live/samet5/5samet/1652.m3u8
-#EXTINF:-1,(Digiturk) belN Sport Max 1 HD
-http://wowstream.net:25461/live/samet5/5samet/1332.m3u8
-#EXTINF:-1,(Digiturk) belN Sport Max 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1333.m3u8
-#EXTINF:-1,DIGITURK 1  TRA
-http://wowstream.net:25461/live/samet5/5samet/263.m3u8
-#EXTINF:-1,DIGITURK 2  TRA
-http://wowstream.net:25461/live/samet5/5samet/264.m3u8
-#EXTINF:-1,DIGITURK 3 TRA
-http://wowstream.net:25461/live/samet5/5samet/265.m3u8
-#EXTINF:-1,DIGITURK 4 TRA
-http://wowstream.net:25461/live/samet5/5samet/266.m3u8
-#EXTINF:-1,A Spor HD
-http://wowstream.net:25461/live/samet5/5samet/121.m3u8
-#EXTINF:-1,TRT Spor HD
-http://wowstream.net:25461/live/samet5/5samet/122.m3u8
-#EXTINF:-1,NTV Spor HD
-http://wowstream.net:25461/live/samet5/5samet/120.m3u8
-#EXTINF:-1,GS TV HD
-http://wowstream.net:25461/live/samet5/5samet/124.m3u8
-#EXTINF:-1,BJK TV HD
-http://wowstream.net:25461/live/samet5/5samet/125.m3u8
-#EXTINF:-1,FB TV HD
-http://wowstream.net:25461/live/samet5/5samet/123.m3u8
-#EXTINF:-1,BS TV HD
-http://wowstream.net:25461/live/samet5/5samet/317.m3u8
-#EXTINF:-1,(Tivibu) EUROSPORT HD
-http://wowstream.net:25461/live/samet5/5samet/1272.m3u8
-#EXTINF:-1,(Tivibu) EUROSPORT 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1271.m3u8
-#EXTINF:-1,(D-Smart) Spor Smart HD
-http://wowstream.net:25461/live/samet5/5samet/1270.m3u8
-#EXTINF:-1,(Tivibu) S-Sport HD
-http://wowstream.net:25461/live/samet5/5samet/1273.m3u8
-#EXTINF:-1,(Tivibu) Tivibu Spor 1 HD
-http://wowstream.net:25461/live/samet5/5samet/1278.m3u8
-#EXTINF:-1,(Tivibu) Tivibu Spor 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1277.m3u8
-#EXTINF:-1,(Tivibu) Tivibu Spor 4 HD
-http://wowstream.net:25461/live/samet5/5samet/1275.m3u8
-#EXTINF:-1,(Tivibu) Tivibu Spor 3 HD
-http://wowstream.net:25461/live/samet5/5samet/1276.m3u8
-#EXTINF:-1,TAY TV
-http://wowstream.net:25461/live/samet5/5samet/1274.m3u8
-#EXTINF:-1,Bein SPORT Haber TRA
-http://wowstream.net:25461/live/samet5/5samet/1269.m3u8
-#EXTINF:-1,DE -- Sky Sport Bundesliga 1 HD Local
-http://wowstream.net:25461/live/samet5/5samet/1910.m3u8
-#EXTINF:-1,DE -- Sky Sport Bundesliga 2 HD Local
-http://wowstream.net:25461/live/samet5/5samet/1909.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://wowstream.net:25461/live/samet5/5samet/414.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://wowstream.net:25461/live/samet5/5samet/422.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://wowstream.net:25461/live/samet5/5samet/421.m3u8
-#EXTINF:-1,(Tivibu) Da Vinci Learning HD
-http://wowstream.net:25461/live/samet5/5samet/1283.m3u8
-#EXTINF:-1,(Tivibu) Animal Planet HD
-http://wowstream.net:25461/live/samet5/5samet/1281.m3u8
-#EXTINF:-1,(Tivibu) Discovery Channel HD
-http://wowstream.net:25461/live/samet5/5samet/1287.m3u8
-#EXTINF:-1,(Tivibu) Discovery Science HD
-http://wowstream.net:25461/live/samet5/5samet/1285.m3u8
-#EXTINF:-1,(Tivibu) Discovery Showcase HD
-http://wowstream.net:25461/live/samet5/5samet/1286.m3u8
-#EXTINF:-1,(Tivibu) Discovery Turbo Xtra HD
-http://wowstream.net:25461/live/samet5/5samet/1282.m3u8
-#EXTINF:-1,TR:D MAX Belgesel
-http://wowstream.net:25461/live/samet5/5samet/1268.m3u8
-#EXTINF:-1,(Tivibu) Investigation Discovery HD
-http://wowstream.net:25461/live/samet5/5samet/1284.m3u8
-#EXTINF:-1,(Tivibu) Nat Geo People HD
-http://wowstream.net:25461/live/samet5/5samet/1289.m3u8
-#EXTINF:-1,(Tivibu) Nat Geo Wild HD
-http://wowstream.net:25461/live/samet5/5samet/1291.m3u8
-#EXTINF:-1,(Tivibu) National Geographic HD
-http://wowstream.net:25461/live/samet5/5samet/1290.m3u8
-#EXTINF:-1,(Digiturk) beIN GURME HD
-http://wowstream.net:25461/live/samet5/5samet/1335.m3u8
-#EXTINF:-1,(Digiturk) beIN IZ HD
-http://wowstream.net:25461/live/samet5/5samet/1336.m3u8
-#EXTINF:-1,ZUMBA-ZUMBA
-http://wowstream.net:25461/live/samet5/5samet/384.m3u8
-#EXTINF:-1,ZUMBA-ZUMBA-2
-http://wowstream.net:25461/live/samet5/5samet/208.m3u8
-#EXTINF:-1,ZUMBA-ZUMBA-3
-http://wowstream.net:25461/live/samet5/5samet/207.m3u8
-#EXTINF:-1,TRT 1 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1872.m3u8
-#EXTINF:-1,ATV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1871.m3u8
-#EXTINF:-1,STAR TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1870.m3u8
-#EXTINF:-1,KANAL D HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1868.m3u8
-#EXTINF:-1,SHOW TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1869.m3u8
-#EXTINF:-1,TV 8 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1866.m3u8
-#EXTINF:-1,FOX TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1867.m3u8
-#EXTINF:-1,KANAL 7 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1864.m3u8
-#EXTINF:-1,BEYAZ TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1865.m3u8
-#EXTINF:-1,TV 360 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1861.m3u8
-#EXTINF:-1,FLASH TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1836.m3u8
-#EXTINF:-1,A2 TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1862.m3u8
-#EXTINF:-1,Teve 2 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1863.m3u8
-#EXTINF:-1,ÜLKE TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1847.m3u8
-#EXTINF:-1,Bloomberg HT HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1845.m3u8
-#EXTINF:-1,TVT HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1833.m3u8
-#EXTINF:-1,TGRT Haber HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1846.m3u8
-#EXTINF:-1,A Haber HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1853.m3u8
-#EXTINF:-1,24 TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1848.m3u8
-#EXTINF:-1,CNN TÜRK HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1850.m3u8
-#EXTINF:-1,NTV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1852.m3u8
-#EXTINF:-1,Tvnet Haber HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1849.m3u8
-#EXTINF:-1,Yeşilçam 2 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1843.m3u8
-#EXTINF:-1,Yeşilçam HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1844.m3u8
-#EXTINF:-1,A SPOR HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1829.m3u8
-#EXTINF:-1,TRT SPOR HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1832.m3u8
-#EXTINF:-1,TELE 1
-http://wowstream.net:25461/live/samet5/5samet/1812.m3u8
-#EXTINF:-1,TRT Çoçuk HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1817.m3u8
-#EXTINF:-1,TRT Haber HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1854.m3u8
-#EXTINF:-1,TRT TÜRK HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1855.m3u8
-#EXTINF:-1,TRT 3 SPOR TRA
-http://wowstream.net:25461/live/samet5/5samet/1830.m3u8
-#EXTINF:-1,Sony Channel Turkiye HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1860.m3u8
-#EXTINF:-1,TLC Channel Türkiye HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1859.m3u8
-#EXTINF:-1,Lifetime Channel Türkiye HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1858.m3u8
-#EXTINF:-1,SHOW Max Channel Türkiye HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1857.m3u8
-#EXTINF:-1,Fashion HD 2
-http://wowstream.net:25461/live/samet5/5samet/268.m3u8
-#EXTINF:-1,Fashion Television Live (Europe)
-http://wowstream.net:25461/live/samet5/5samet/202.m3u8
-#EXTINF:-1,US:Fashion Television Live
-http://wowstream.net:25461/live/samet5/5samet/203.m3u8
-#EXTINF:-1,Fashion HD
-http://wowstream.net:25461/live/samet5/5samet/204.m3u8
-#EXTINF:-1,MTV 24 Music
-http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
-#EXTINF:-1,LOCA 1 HD
-http://wowstream.net:25461/live/samet5/5samet/1601.m3u8
-#EXTINF:-1,LOCA 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1602.m3u8
-#EXTINF:-1,LOCA 3 HD
-http://wowstream.net:25461/live/samet5/5samet/1603.m3u8
-#EXTINF:-1,Tjk TV HD
-http://wowstream.net:25461/live/samet5/5samet/316.m3u8
-#EXTINF:-1,DE: RTL HD
-http://wowstream.net:25461/live/samet5/5samet/487.m3u8
-#EXTINF:-1,DE: RTL II
-http://wowstream.net:25461/live/samet5/5samet/480.m3u8
-#EXTINF:-1,DE: Super RTL HD
-http://wowstream.net:25461/live/samet5/5samet/479.m3u8
-#EXTINF:-1,DE: Pro 7 HD
-http://wowstream.net:25461/live/samet5/5samet/486.m3u8
-#EXTINF:-1,DE: Sat 1 HD
-http://wowstream.net:25461/live/samet5/5samet/485.m3u8
-#EXTINF:-1,DE: VOX
-http://wowstream.net:25461/live/samet5/5samet/484.m3u8
-#EXTINF:-1,DE: Kabel 1  HD
-http://wowstream.net:25461/live/samet5/5samet/483.m3u8
-#EXTINF:-1,DE: Pro 7 Maxx HD
-http://wowstream.net:25461/live/samet5/5samet/476.m3u8
-#EXTINF:-1,DE:  DMAX HD
-http://wowstream.net:25461/live/samet5/5samet/475.m3u8
-#EXTINF:-1,DE: Pro7 Fun HD
-http://wowstream.net:25461/live/samet5/5samet/477.m3u8
-#EXTINF:-1,DE: PHOENIX HD
-http://wowstream.net:25461/live/samet5/5samet/474.m3u8
-#EXTINF:-1,DE: Das Erste
-http://wowstream.net:25461/live/samet5/5samet/456.m3u8
-#EXTINF:-1,DE:Das ERSTE HD Rzv
-http://wowstream.net:25461/live/samet5/5samet/2031.m3u8
-#EXTINF:-1,DE: ZDF HD
-http://wowstream.net:25461/live/samet5/5samet/455.m3u8
-#EXTINF:-1,DE:NTV HD
-http://wowstream.net:25461/live/samet5/5samet/453.m3u8
-#EXTINF:-1,DE | N24
-http://wowstream.net:25461/live/samet5/5samet/1786.m3u8
-#EXTINF:-1,DE:NDR HD
-http://wowstream.net:25461/live/samet5/5samet/454.m3u8
-#EXTINF:-1,DE: WDR HD
-http://wowstream.net:25461/live/samet5/5samet/472.m3u8
-#EXTINF:-1,DE: SWR BW
-http://wowstream.net:25461/live/samet5/5samet/481.m3u8
-#EXTINF:-1,DE: hr-fernsehen TV
-http://wowstream.net:25461/live/samet5/5samet/510.m3u8
-#EXTINF:-1,DE: Kabel 1 Doku HD
-http://wowstream.net:25461/live/samet5/5samet/457.m3u8
-#EXTINF:-1,DE: Arte HD
-http://wowstream.net:25461/live/samet5/5samet/447.m3u8
-#EXTINF:-1,DE: ZDF Info HD
-http://wowstream.net:25461/live/samet5/5samet/446.m3u8
-#EXTINF:-1,DE:ZDF NEO
-http://wowstream.net:25461/live/samet5/5samet/956.m3u8
-#EXTINF:-1,DE: FOX
-http://wowstream.net:25461/live/samet5/5samet/467.m3u8
-#EXTINF:-1,DE: Romance TV HD
-http://wowstream.net:25461/live/samet5/5samet/432.m3u8
-#EXTINF:-1,DE: Sixx
-http://wowstream.net:25461/live/samet5/5samet/459.m3u8
-#EXTINF:-1,DE: AXN HD
-http://wowstream.net:25461/live/samet5/5samet/466.m3u8
-#EXTINF:-1,DE: Zee one HD
-http://wowstream.net:25461/live/samet5/5samet/463.m3u8
-#EXTINF:-1,DE: Sony HD
-http://wowstream.net:25461/live/samet5/5samet/461.m3u8
-#EXTINF:-1,DE: RTL Passion
-http://wowstream.net:25461/live/samet5/5samet/468.m3u8
-#EXTINF:-1,DE: RTL NITRO HD
-http://wowstream.net:25461/live/samet5/5samet/471.m3u8
-#EXTINF:-1,DE: RTL Living HD
-http://wowstream.net:25461/live/samet5/5samet/469.m3u8
-#EXTINF:-1,DE: RTL Crime
-http://wowstream.net:25461/live/samet5/5samet/470.m3u8
-#EXTINF:-1,DE: VIVA / COMEDY CENTRAL HD
-http://wowstream.net:25461/live/samet5/5samet/429.m3u8
-#EXTINF:-1,DE: Universal Channel HD
-http://wowstream.net:25461/live/samet5/5samet/464.m3u8
-#EXTINF:-1,DE: Tele 5 tv HD
-http://wowstream.net:25461/live/samet5/5samet/465.m3u8
-#EXTINF:-1,DE: TLC HD
-http://wowstream.net:25461/live/samet5/5samet/462.m3u8
-#EXTINF:-1,DE: Heimat Kanal HD
-http://wowstream.net:25461/live/samet5/5samet/428.m3u8
-#EXTINF:-1,DE: Kinowelt TV HD
-http://wowstream.net:25461/live/samet5/5samet/430.m3u8
-#EXTINF:-1,DE: DISCOVERY CHANNEL HD
-http://wowstream.net:25461/live/samet5/5samet/450.m3u8
-#EXTINF:-1,DE: Nat Geo Wild
-http://wowstream.net:25461/live/samet5/5samet/449.m3u8
-#EXTINF:-1,DE: Animal Planet
-http://wowstream.net:25461/live/samet5/5samet/451.m3u8
-#EXTINF:-1,DE: History Channel
-http://wowstream.net:25461/live/samet5/5samet/448.m3u8
-#EXTINF:-1,DE: National Geographic
-http://wowstream.net:25461/live/samet5/5samet/452.m3u8
-#EXTINF:-1,DE:RTL PLUS
-http://wowstream.net:25461/live/samet5/5samet/460.m3u8
-#EXTINF:-1,DE: Sky Atlantic
-http://wowstream.net:25461/live/samet5/5samet/444.m3u8
-#EXTINF:-1,DE: Sky Cinema
-http://wowstream.net:25461/live/samet5/5samet/443.m3u8
-#EXTINF:-1,DE: Sky Cinema  1
-http://wowstream.net:25461/live/samet5/5samet/442.m3u8
-#EXTINF:-1,DE: Sky Cinema  24
-http://wowstream.net:25461/live/samet5/5samet/441.m3u8
-#EXTINF:-1,DE: Sky Cinema Action
-http://wowstream.net:25461/live/samet5/5samet/445.m3u8
-#EXTINF:-1,DE: Sky Cinema Comedy HD
-http://wowstream.net:25461/live/samet5/5samet/440.m3u8
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-http://wowstream.net:25461/live/samet5/5samet/436.m3u8
-#EXTINF:-1,De: Sky Cinema Hits
-http://wowstream.net:25461/live/samet5/5samet/439.m3u8
-#EXTINF:-1,DE: Sky Cinema Nostalgie HD
-http://wowstream.net:25461/live/samet5/5samet/437.m3u8
-#EXTINF:-1,DE: SYFY
-http://wowstream.net:25461/live/samet5/5samet/438.m3u8
-#EXTINF:-1,DE: Sky Krimi
-http://wowstream.net:25461/live/samet5/5samet/431.m3u8
-#EXTINF:-1,DE:13th Street HD
-http://wowstream.net:25461/live/samet5/5samet/381.m3u8
-#EXTINF:-1,DE: TNT Serie HD
-http://wowstream.net:25461/live/samet5/5samet/435.m3u8
-#EXTINF:-1,DE: TNT Film HD
-http://wowstream.net:25461/live/samet5/5samet/434.m3u8
-#EXTINF:-1,DE: TNT Comedy HD
-http://wowstream.net:25461/live/samet5/5samet/433.m3u8
-#EXTINF:-1,DE:SAT 1 GOLD
-http://wowstream.net:25461/live/samet5/5samet/388.m3u8
-#EXTINF:-1,DE :SERVUS TV HD
-http://wowstream.net:25461/live/samet5/5samet/1967.m3u8
-#EXTINF:-1,DISNEY CINEMAGIC
-http://wowstream.net:25461/live/samet5/5samet/506.m3u8
-#EXTINF:-1,DE: Disney Channel HD
-http://wowstream.net:25461/live/samet5/5samet/192.m3u8
-#EXTINF:-1,DE:Nickelodeon HD
-http://wowstream.net:25461/live/samet5/5samet/296.m3u8
-#EXTINF:-1,DE:CARTOON NETWORK
-http://wowstream.net:25461/live/samet5/5samet/508.m3u8
-#EXTINF:-1,DE:BOOMERANG
-http://wowstream.net:25461/live/samet5/5samet/509.m3u8
-#EXTINF:-1,DE: KIKA HD
-http://wowstream.net:25461/live/samet5/5samet/420.m3u8
-#EXTINF:-1,DE:DISNEY XD
-http://wowstream.net:25461/live/samet5/5samet/191.m3u8
-#EXTINF:-1,DE:Nick Jr. HD
-http://wowstream.net:25461/live/samet5/5samet/295.m3u8
-#EXTINF:-1,SKY SELECT (INFO)
-http://wowstream.net:25461/live/samet5/5samet/2456.m3u8
-#EXTINF:-1,SELECT 1 HD
-http://wowstream.net:25461/live/samet5/5samet/2455.m3u8
-#EXTINF:-1,SELECT 2 HD
-http://wowstream.net:25461/live/samet5/5samet/2454.m3u8
-#EXTINF:-1,SELECT 3 HD
-http://wowstream.net:25461/live/samet5/5samet/2453.m3u8
-#EXTINF:-1,SELECT 4 HD
-http://wowstream.net:25461/live/samet5/5samet/2452.m3u8
-#EXTINF:-1,SELECT 5 HD
-http://wowstream.net:25461/live/samet5/5samet/2451.m3u8
-#EXTINF:-1,SELECT 6 HD
-http://wowstream.net:25461/live/samet5/5samet/2450.m3u8
-#EXTINF:-1,SELECT 7 HD
-http://wowstream.net:25461/live/samet5/5samet/2449.m3u8
-#EXTINF:-1,SELECT 8 HD
-http://wowstream.net:25461/live/samet5/5samet/2448.m3u8
-#EXTINF:-1,SELECT 9 HD
-http://wowstream.net:25461/live/samet5/5samet/2447.m3u8
-#EXTINF:-1,SELECT 10 HD
-http://wowstream.net:25461/live/samet5/5samet/2446.m3u8
-#EXTINF:-1,SELECT 11 HD
-http://wowstream.net:25461/live/samet5/5samet/2445.m3u8
-#EXTINF:-1,SELECT 12 HD
-http://wowstream.net:25461/live/samet5/5samet/2444.m3u8
-#EXTINF:-1,DE: Film Club 1 HD
-http://wowstream.net:25461/live/samet5/5samet/427.m3u8
-#EXTINF:-1,DE: Film Club 2 HD
-http://wowstream.net:25461/live/samet5/5samet/426.m3u8
-#EXTINF:-1,DE: Film Club 3 HD
-http://wowstream.net:25461/live/samet5/5samet/425.m3u8
-#EXTINF:-1,DE: Film Club 4 HD
-http://wowstream.net:25461/live/samet5/5samet/424.m3u8
-#EXTINF:-1,DE: Film Club 5 HD
-http://wowstream.net:25461/live/samet5/5samet/423.m3u8
-#EXTINF:-1,DE:Rheinmain TV
-http://wowstream.net:25461/live/samet5/5samet/215.m3u8
-#EXTINF:-1,DE-TAGESSCHAU 24
-http://wowstream.net:25461/live/samet5/5samet/214.m3u8
-#EXTINF:-1,DE:Sky ONE HD
-http://wowstream.net:25461/live/samet5/5samet/1607.m3u8
-#EXTINF:-1,DE: Sky Arts HD Local
-http://wowstream.net:25461/live/samet5/5samet/1952.m3u8
-#EXTINF:-1,DE: A&E
-http://wowstream.net:25461/live/samet5/5samet/482.m3u8
-#EXTINF:-1,DE : QVC
-http://wowstream.net:25461/live/samet5/5samet/1945.m3u8
-#EXTINF:-1,DE : Welt (N24 HD Local
-http://wowstream.net:25461/live/samet5/5samet/1991.m3u8
-#EXTINF:-1,DE : 3sat HD Local
-http://wowstream.net:25461/live/samet5/5samet/1964.m3u8
-#EXTINF:-1,DE : Sixx HD Local
-http://wowstream.net:25461/live/samet5/5samet/1990.m3u8
-#EXTINF:-1,DE -- Sky Cinema   24 Local
-http://wowstream.net:25461/live/samet5/5samet/1959.m3u8
-#EXTINF:-1,DE -- Sky Cinema Action HD Local
-http://wowstream.net:25461/live/samet5/5samet/1958.m3u8
-#EXTINF:-1,DE -- Sky Cinema Comedy Local
-http://wowstream.net:25461/live/samet5/5samet/1954.m3u8
-#EXTINF:-1,DE -- Sky Krimi Local
-http://wowstream.net:25461/live/samet5/5samet/1951.m3u8
-#EXTINF:-1,DE -- SYFY HD Local
-http://wowstream.net:25461/live/samet5/5samet/1946.m3u8
-#EXTINF:-1,DE -- TNT Film (TCM) Local
-http://wowstream.net:25461/live/samet5/5samet/1949.m3u8
-#EXTINF:-1,DE -- TNT Serie HD Local
-http://wowstream.net:25461/live/samet5/5samet/1948.m3u8
-#EXTINF:-1,DE- DAZN BAR 1 HD
-http://wowstream.net:25461/live/samet5/5samet/1908.m3u8
-#EXTINF:-1,DE- DAZN BAR 2 HD
-http://wowstream.net:25461/live/samet5/5samet/1907.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://wowstream.net:25461/live/samet5/5samet/2466.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://wowstream.net:25461/live/samet5/5samet/2465.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://wowstream.net:25461/live/samet5/5samet/2464.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://wowstream.net:25461/live/samet5/5samet/2463.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://wowstream.net:25461/live/samet5/5samet/2462.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://wowstream.net:25461/live/samet5/5samet/2461.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://wowstream.net:25461/live/samet5/5samet/2460.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://wowstream.net:25461/live/samet5/5samet/2459.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-http://wowstream.net:25461/live/samet5/5samet/2458.m3u8
-#EXTINF:-1,DE: SKY BUNDESLIGA HD 10
-http://wowstream.net:25461/live/samet5/5samet/2457.m3u8
-#EXTINF:-1,MAGICBOX ANIMASYON HD
-http://wowstream.net:25461/live/samet5/5samet/190.m3u8
-#EXTINF:-1,Planet Mutfak HD
-http://wowstream.net:25461/live/samet5/5samet/284.m3u8
-#EXTINF:-1,Planet Türk HD
-http://wowstream.net:25461/live/samet5/5samet/286.m3u8
-#EXTINF:-1,72 Kogus
-http://1290922571.rsc.cdn77.org/movies/72-Kogus-2011.mp4/playlist.m3u8
-#EXTINF:-1,Cem Yilmaz
-http://1290922571.rsc.cdn77.org/movies/Cem-Yilmaz-2008.mp4/playlist.m3u8
-#EXTINF:-1,Hukumet Kadin 1
-http://1290922571.rsc.cdn77.org/movies/Hukumet-Kadin-2013.mp4/playlist.m3u8
-#EXTINF:-1,Hukumet Kadin 2
-http://1290922571.rsc.cdn77.org/moviesnew/tr/comedy/Hukumet-Kadin-2.mp4/playlist.m3u8
-#EXTINF:-1,Cem Yilmaz Soru Cevap
-http://1290922571.rsc.cdn77.org/movies/Cem-Yilmaz-Soru-Cevap-2010.mp4/playlist.m3u8
-#EXTINF:-1,Turkan
-http://1290922571.rsc.cdn77.org/movies/Turkan-2011.mp4/playlist.m3u8
-#EXTINF:-1,Accident Man
-http://wowstream.net:25461/movie/samet5/5samet/1653.mp4
-#EXTINF:-1,Auslöschung
-http://wowstream.net:25461/movie/samet5/5samet/1654.mkv
-#EXTINF:-1,Killer's Bodyguard
-http://wowstream.net:25461/movie/samet5/5samet/1655.mp4
-#EXTINF:-1,Criminal Squad
-http://wowstream.net:25461/movie/samet5/5samet/1656.mp4
-#EXTINF:-1,Daddys Home 2
-http://wowstream.net:25461/movie/samet5/5samet/1657.mp4
-#EXTINF:-1,Day Of The Dead Bloodline
-http://wowstream.net:25461/movie/samet5/5samet/1658.mp4
-#EXTINF:-1,First Kill
-http://wowstream.net:25461/movie/samet5/5samet/1660.mp4
-#EXTINF:-1,Flatliners
-http://wowstream.net:25461/movie/samet5/5samet/1661.mkv
-#EXTINF:-1,Game Night
-http://wowstream.net:25461/movie/samet5/5samet/1662.mp4
-#EXTINF:-1,Geostorm
-http://wowstream.net:25461/movie/samet5/5samet/1663.mp4
-#EXTINF:-1,Girls Trip
-http://wowstream.net:25461/movie/samet5/5samet/1664.mp4
-#EXTINF:-1,Jigsaw
-http://wowstream.net:25461/movie/samet5/5samet/1665.mp4
-#EXTINF:-1,Logan
-http://wowstream.net:25461/movie/samet5/5samet/1666.mp4
-#EXTINF:-1,Mother
-http://wowstream.net:25461/movie/samet5/5samet/1667.mp4
-#EXTINF:-1,Overdrive
-http://wowstream.net:25461/movie/samet5/5samet/1668.mp4
-#EXTINF:-1,Pfad Der Rache
-http://wowstream.net:25461/movie/samet5/5samet/1669.mp4
-#EXTINF:-1,Reset
-http://wowstream.net:25461/movie/samet5/5samet/1670.mkv
-#EXTINF:-1,Shape of Water
-http://wowstream.net:25461/movie/samet5/5samet/1671.mp4
-#EXTINF:-1,The Commuter
-http://wowstream.net:25461/movie/samet5/5samet/1672.mkv
-#EXTINF:-1,The Foreigner
-http://wowstream.net:25461/movie/samet5/5samet/1673.mkv
-#EXTINF:-1,When We First Meti
-http://wowstream.net:25461/movie/samet5/5samet/1674.mkv
-#EXTINF:-1,Woody Woodpicker
-http://wowstream.net:25461/movie/samet5/5samet/1675.mkv
-#EXTINF:-1,Wunder
-http://wowstream.net:25461/movie/samet5/5samet/1676.mp4
-#EXTINF:-1,Boston
-http://wowstream.net:25461/movie/samet5/5samet/1697.mp4
-#EXTINF:-1,Pacific Rim 2
-http://wowstream.net:25461/movie/samet5/5samet/1778.mkv
-#EXTINF:-1,The Last Key
-http://wowstream.net:25461/movie/samet5/5samet/1779.mkv
-#EXTINF:-1,Paddington 2
-http://wowstream.net:25461/movie/samet5/5samet/1780.mp4
-#EXTINF:-1,Die Auserwählten in der Todeszone
-http://wowstream.net:25461/movie/samet5/5samet/1781.mkv
-#EXTINF:-1,Black Panther
-http://wowstream.net:25461/movie/samet5/5samet/1791.avi
-#EXTINF:-1,Fifty Shades of Grey 3  Befreite Lust
-http://wowstream.net:25461/movie/samet5/5samet/1792.mkv
-#EXTINF:-1,Mord im Orient-Express (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1793.mkv
-#EXTINF:-1,Ready Player One (2018)
-http://wowstream.net:25461/movie/samet5/5samet/1796.mkv
-#EXTINF:-1,Tag der Entscheidung (2017).
-http://wowstream.net:25461/movie/samet5/5samet/1797.mkv
-#EXTINF:-1,Justice League (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1810.mkv
-#EXTINF:-1,Yol Ayrımı
-http://wowstream.net:25461/movie/samet5/5samet/1689.mkv
-#EXTINF:-1,Kardesim Benim 2
-http://wowstream.net:25461/movie/samet5/5samet/1698.mp4
-#EXTINF:-1,Bordo Bereliler Suriye (2017)
-http://178.254.21.38:80/vod?movieId=783&uid=1629&deviceUser=dehexsel&devicePass=uCh7K7iG74ty
-#EXTINF:-1,Aylav yu tuu 2017
-http://wowstream.net:25461/movie/samet5/5samet/1343.mp4
-#EXTINF:-1,Agustos böcekleri ve karincalar (2016)
-http://wowstream.net:25461/movie/samet5/5samet/1344.mp4
-#EXTINF:-1,Ask Uykusu (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1345.mkv
-#EXTINF:-1,Bir Nefes Yeter (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1347.mp4
-#EXTINF:-1,Baba Mirası (2016)
-http://wowstream.net:25461/movie/samet5/5samet/1346.mp4
-#EXTINF:-1,Cingoz Recai 2017
-http://wowstream.net:25461/movie/samet5/5samet/1348.avi
-#EXTINF:-1,Deli Ask (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1349.MP4
-#EXTINF:-1,Dört Köse (2017)
-http://178.254.21.38:80/vod?movieId=786&uid=1629&deviceUser=dehexsel&devicePass=uCh7K7iG74ty
-#EXTINF:-1,Göçebe (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1351.avi
-#EXTINF:-1,Hep Yek 2 (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1352.mp4
-#EXTINF:-1,Kasap havasi (2015)
-http://wowstream.net:25461/movie/samet5/5samet/1353.avi
-#EXTINF:-1,Kolonya Cumhuriyeti (2017)
-/home/xtreamcodes/iptv_xtream_codes/movies/Kolonya%20Cumhuriyeti%20(2017).mp4
-#EXTINF:-1,Kötü Çocuk (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1355.mp4
-#EXTINF:-1,Memleket (2016)
-http://wowstream.net:25461/movie/samet5/5samet/1356.mp4
-#EXTINF:-1,Olanlar Oldu 2017
-http://wowstream.net:25461/movie/samet5/5samet/1358.mp4
-#EXTINF:-1,Mezarci (2016)
-http://wowstream.net:25461/movie/samet5/5samet/1357.mp4
-#EXTINF:-1,Parayı Bulduk (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1359.mp4
-#EXTINF:-1,Recep İvedik 5
-http://178.254.21.38:80/vod?movieId=582&uid=1629&deviceUser=dehexsel&devicePass=uCh7K7iG74ty
-#EXTINF:-1,Poyraz Karayel Küresel Sermaye (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1360.mp4
-#EXTINF:-1,Seni Gidi Seni (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1363.mp4
-#EXTINF:-1,Salur Kazan Zoraki Kahraman 2017
-http://wowstream.net:25461/movie/samet5/5samet/1362.mp4
-#EXTINF:-1,Sonsuz Ask (2017)
-http://178.254.21.38:80/vod?movieId=796&uid=1629&deviceUser=dehexsel&devicePass=uCh7K7iG74ty
-#EXTINF:-1,Tatli Seyler (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1366.mp4
-#EXTINF:-1,Tatlim Tatlim (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1365.mp4
-#EXTINF:-1,Ver Kaç (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1367.avi
-#EXTINF:-1,Vezir Parmagi 2017
-http://178.254.21.38:80/vod?movieId=617&uid=1629&deviceUser=dehexsel&devicePass=uCh7K7iG74ty
-#EXTINF:-1,Yeni baslayanlar için hayatta kalma sanati (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1369.avi
-#EXTINF:-1,Yol Arkadasim (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1370.avi
-#EXTINF:-1,Öteki Taraf (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1372.mkv
-#EXTINF:-1,Şansımı Seveyim (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1373.avi
-#EXTINF:-1,Çalgi Çengi Ikimiz (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1371.mkv
-#EXTINF:-1,Maide'nin Altın Günü
-http://wowstream.net:25461/movie/samet5/5samet/1787.mp4
-#EXTINF:-1,Acı Tatlı Ekşi
-http://wowstream.net:25461/movie/samet5/5samet/1788.mkv
-#EXTINF:-1,Ayla (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1800.mkv
-#EXTINF:-1,Deliha 2
-http://wowstream.net:25461/movie/samet5/5samet/1804.mkv
-#EXTINF:-1,Çam Yarması (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1805.mp4
-#EXTINF:-1,İlk Öpücük (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1806.mp4
-#EXTINF:-1,Baş Belası (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1807.mp4
-#EXTINF:-1,Aile Arasinda (2017)
-http://wowstream.net:25461/movie/samet5/5samet/2015.avi
-#EXTINF:-1,Olmaz Boyle Sey 2017
-http://wowstream.net:25461/movie/samet5/5samet/2017.avi
-#EXTINF:-1,Arif V 216 2018
-http://wowstream.net:25461/movie/samet5/5samet/2018.mkv
-#EXTINF:-1,Sen Kiminle Dans Ediyorsun 2017
-http://wowstream.net:25461/movie/samet5/5samet/2020.avi
-#EXTINF:-1,Ketenpere (2017)
-http://wowstream.net:25461/movie/samet5/5samet/2023.mkv
-#EXTINF:-1,Mutluluk Zamani (2017)
-http://wowstream.net:25461/movie/samet5/5samet/2026.mkv
-#EXTINF:-1,Çocuklar Sana Emanet (2018)
-http://wowstream.net:25461/movie/samet5/5samet/2024.mkv
-#EXTINF:-1,BAHTIYAR BAHTIKARA 2017
-http://wowstream.net:25461/movie/samet5/5samet/2025.mkv
-#EXTINF:-1,İstikamet Aşk (2017)
-http://wowstream.net:25461/movie/samet5/5samet/1384.mkv
-#EXTINF:-1,Ice Age 5
-http://wowstream.net:25461/movie/samet5/5samet/1679.mp4
-#EXTINF:-1,Şirinler
-http://wowstream.net:25461/movie/samet5/5samet/1383.mkv
-#EXTINF:-1,Ballerina
-http://wowstream.net:25461/movie/samet5/5samet/1684.mkv
-#EXTINF:-1,Peter Rabbit Full Episodes
-http://wowstream.net:25461/movie/samet5/5samet/1692.mp4
-#EXTINF:-1,Ferdinand
-http://wowstream.net:25461/movie/samet5/5samet/1659.mp4
-#EXTINF:-1,CARS 3 2017
-http://wowstream.net:25461/movie/samet5/5samet/1790.mkv
-#EXTINF:-1,Power Rangers
-http://wowstream.net:25461/movie/samet5/5samet/2019.mp4
-#EXTINF:-1,Lego Filmi
-http://wowstream.net:25461/movie/samet5/5samet/2021.avi
-#EXTINF:-1,NILOYA 1
-http://wowstream.net:25461/movie/samet5/5samet/2400.mkv
-#EXTINF:-1,NILOYA 2
-http://wowstream.net:25461/movie/samet5/5samet/2401.mkv
-#EXTINF:-1,NILOYA 3
-http://wowstream.net:25461/movie/samet5/5samet/2402.mkv
-#EXTINF:-1,NILOYA 4
-http://wowstream.net:25461/movie/samet5/5samet/2403.mkv
-#EXTINF:-1,NILOYA 5
-http://wowstream.net:25461/movie/samet5/5samet/2404.mkv
-#EXTINF:-1,NILOYA 6
-http://wowstream.net:25461/movie/samet5/5samet/2405.mkv
-#EXTINF:-1,CUKUR
-http://wowstream.net:25461/movie/samet5/5samet/1728.mkv
-#EXTINF:-1,Eskiya Dunyaya Hukumdar Olmaz
-http://wowstream.net:25461/movie/samet5/5samet/1730.mkv
-#EXTINF:-1,Mehmet bir cihan fatihi DIZI
-http://wowstream.net:25461/movie/samet5/5samet/1731.mp4
-#EXTINF:-1,Dirilis Ertugrul
-http://wowstream.net:25461/movie/samet5/5samet/1732.mp4
-#EXTINF:-1,Payitaht Abdulhamid
-http://wowstream.net:25461/movie/samet5/5samet/1733.mkv
-#EXTINF:-1,Cocuklar Duymasin
-http://wowstream.net:25461/movie/samet5/5samet/1768.mp4
-#EXTINF:-1,Aslan Ailem
-http://wowstream.net:25461/movie/samet5/5samet/1771.mp4
-#EXTINF:-1,Bizim Hikaye
-http://wowstream.net:25461/movie/samet5/5samet/1770.mp4
-#EXTINF:-1,Tr Dizi:Cennetin G
-http://wowstream.net:25461/movie/samet5/5samet/1769.mp4
-#EXTINF:-1,8 GUN
-http://wowstream.net:25461/movie/samet5/5samet/1767.mp4
-#EXTINF:-1,Dolunay
-http://wowstream.net:25461/movie/samet5/5samet/1766.mp4
-#EXTINF:-1,Hayat Sirlari
-http://wowstream.net:25461/movie/samet5/5samet/1765.mp4
-#EXTINF:-1,isimsizler
-http://wowstream.net:25461/movie/samet5/5samet/1764.mp4
-#EXTINF:-1,Kadin
-http://wowstream.net:25461/movie/samet5/5samet/1763.mp4
-#EXTINF:-1,Tr Dizi:Alija
-http://wowstream.net:25461/movie/samet5/5samet/1762.mp4
-#EXTINF:-1,Tr Dizi:Babamin Gunahlari
-http://wowstream.net:25461/movie/samet5/5samet/1761.mp4
-#EXTINF:-1,Tr Dizi:Dostlar Mahallesi
-http://wowstream.net:25461/movie/samet5/5samet/1760.mp4
-#EXTINF:-1,Tr Dizi:kizlarim Icin
-http://wowstream.net:25461/movie/samet5/5samet/1759.mp4
-#EXTINF:-1,Tr Dizi: Guluzar
-http://wowstream.net:25461/movie/samet5/5samet/1758.mp4
-#EXTINF:-1,Tr Dizi:yuvamdaki Dusman
-http://wowstream.net:25461/movie/samet5/5samet/1757.mp4
-#EXTINF:-1,Tr:sen Anlat Karadeniz
-http://wowstream.net:25461/movie/samet5/5samet/1756.mp4
-#EXTINF:-1,Tr Dizi:kalp Atisi
-http://wowstream.net:25461/movie/samet5/5samet/1755.mp4
-#EXTINF:-1,Tr Dizi:kanatsiz Kuslar
-http://wowstream.net:25461/movie/samet5/5samet/1754.mp4
-#EXTINF:-1,Dizi: Bahtiyar Olmez
-http://wowstream.net:25461/movie/samet5/5samet/1753.mp4
-#EXTINF:-1,Dizi: Kalk Gidelim
-http://wowstream.net:25461/movie/samet5/5samet/1752.mp4
-#EXTINF:-1,Arka Sokaklar
-http://wowstream.net:25461/movie/samet5/5samet/1772.mp4
-#EXTINF:-1,Tr:Savasci
-http://wowstream.net:25461/movie/samet5/5samet/1773.mp4
-#EXTINF:-1,Vatanim Sensin
-http://wowstream.net:25461/movie/samet5/5samet/1774.mp4
-#EXTINF:-1,Tr Dizi:Ask Ve Mavi
-http://wowstream.net:25461/movie/samet5/5samet/1751.mp4
-#EXTINF:-1,Tr Dizi:siyah Beyaz Ask
-http://wowstream.net:25461/movie/samet5/5samet/1740.mp4
-#EXTINF:-1,Tr Dizi:Ver Eliniask
-http://wowstream.net:25461/movie/samet5/5samet/1735.mp4
-#EXTINF:-1,Fazilet Hanim Ve Kizlari
-http://wowstream.net:25461/movie/samet5/5samet/1775.mp4
-#EXTINF:-1,Tr Dizi:Istanbullu Gelin
-http://wowstream.net:25461/movie/samet5/5samet/1750.mp4
-#EXTINF:-1,Tr Dizi:Kalbimdeki Deniz
-http://wowstream.net:25461/movie/samet5/5samet/1749.mp4
-#EXTINF:-1,Tr Dizi:Kirgin Cicekler
-http://wowstream.net:25461/movie/samet5/5samet/1748.mp4
-#EXTINF:-1,Tr Dizi:Kayitdisi
-http://wowstream.net:25461/movie/samet5/5samet/1747.mp4
-#EXTINF:-1,Tr Dizi:Klavye Delikanlilari
-http://wowstream.net:25461/movie/samet5/5samet/1746.mp4
-#EXTINF:-1,Tr Dizi:Meryem
-http://wowstream.net:25461/movie/samet5/5samet/1745.mp4
-#EXTINF:-1,Tr Dizi:no 309
-http://wowstream.net:25461/movie/samet5/5samet/1744.mp4
-#EXTINF:-1,Tr Dizi:Seven Ne Yapmaz
-http://wowstream.net:25461/movie/samet5/5samet/1743.mp4
-#EXTINF:-1,Tr Dizi:Sevkat Yerimdar
-http://wowstream.net:25461/movie/samet5/5samet/1742.mp4
-#EXTINF:-1,DIZI: ZEHRA
-http://wowstream.net:25461/movie/samet5/5samet/1741.mp4
-#EXTINF:-1,Tr Dizi:siyah Inci
-http://wowstream.net:25461/movie/samet5/5samet/1739.mp4
-#EXTINF:-1,Tr Dizi:tutsak
-http://wowstream.net:25461/movie/samet5/5samet/1738.mp4
-#EXTINF:-1,Tr Dizi:Ufak Tefek Cinayetler
-http://wowstream.net:25461/movie/samet5/5samet/1737.mp4
-#EXTINF:-1,Tr Dizi:Yuz Yuze
-http://wowstream.net:25461/movie/samet5/5samet/1736.mp4
-#EXTINF:-1,Tr Dizi:Yalaza
-http://wowstream.net:25461/movie/samet5/5samet/1734.mp4
-#EXTINF:-1,BORU
-http://wowstream.net:25461/movie/samet5/5samet/1776.mp4
-#EXTINF:-1,Tr Dizi:Soz
-http://wowstream.net:25461/movie/samet5/5samet/1777.mp4
-#EXTINF:-1,Jet Sosyete
-http://wowstream.net:25461/movie/samet5/5samet/1782.mp4
-#EXTINF:-1,MEHMETCİK KUT'UL AMARE
-http://wowstream.net:25461/movie/samet5/5samet/1783.mp4
-#EXTINF:-1,Dizi: Abdulhamid
-http://wowstream.net:25461/movie/samet5/5samet/2442.mkv
-#EXTINF:-1,Dizi: Arka Sokaklar
-http://wowstream.net:25461/movie/samet5/5samet/2441.mkv
-#EXTINF:-1,Dizi: Ask Ve Mavi
-http://wowstream.net:25461/movie/samet5/5samet/2440.mkv
-#EXTINF:-1,Dizi: Avlu sezon finali
-http://wowstream.net:25461/movie/samet5/5samet/2439.mp4
-#EXTINF:-1,Dizi: Bir Deli Ruzgar
-http://wowstream.net:25461/movie/samet5/5samet/2438.mkv
-#EXTINF:-1,Dizi: Bir Zamnlar Cukurova
-http://wowstream.net:25461/movie/samet5/5samet/2436.mkv
-#EXTINF:-1,Dizi: Bizim Hikaye
-http://wowstream.net:25461/movie/samet5/5samet/2435.mkv
-#EXTINF:-1,Dizi: Cocuklar Duymasin
-http://wowstream.net:25461/movie/samet5/5samet/2434.mkv
-#EXTINF:-1,Dizi: Cukur
-http://wowstream.net:25461/movie/samet5/5samet/2433.mkv
-#EXTINF:-1,Dizi: Dirilis Ertugrul
-http://wowstream.net:25461/movie/samet5/5samet/2432.mkv
-#EXTINF:-1,Dizi: Egenin Hamsisi
-http://wowstream.net:25461/movie/samet5/5samet/2431.mkv
-#EXTINF:-1,Dizi: Elimi Birakma
-http://wowstream.net:25461/movie/samet5/5samet/2430.mkv
-#EXTINF:-1,Dizi: Erkenci Kus
-http://wowstream.net:25461/movie/samet5/5samet/2429.mkv
-#EXTINF:-1,Dizi: Eskiya Dunyaya Hukumdar Olmaz
-http://wowstream.net:25461/movie/samet5/5samet/2428.mkv
-#EXTINF:-1,Dizi: Evkat Yerimdar
-http://wowstream.net:25461/movie/samet5/5samet/2427.mkv
-#EXTINF:-1,Dizi: Istanbullu Gelin
-http://wowstream.net:25461/movie/samet5/5samet/2426.mkv
-#EXTINF:-1,Dizi: Kadin
-http://wowstream.net:25461/movie/samet5/5samet/2425.mkv
-#EXTINF:-1,Dizi: Keske Hic Buyumeseydik
-http://wowstream.net:25461/movie/samet5/5samet/2424.mkv
-#EXTINF:-1,Dizi: Kizim
-http://wowstream.net:25461/movie/samet5/5samet/2423.mkv
-#EXTINF:-1,Dizi: Koskoca Yalanlar
-http://wowstream.net:25461/movie/samet5/5samet/2422.mkv
-#EXTINF:-1,Dizi: Nefes Nefese
-http://wowstream.net:25461/movie/samet5/5samet/2421.mkv
-#EXTINF:-1,Dizi: Savasci
-http://wowstream.net:25461/movie/samet5/5samet/2420.mkv
-#EXTINF:-1,Dizi: Senlat Karadeniz
-http://wowstream.net:25461/movie/samet5/5samet/2419.mkv
-#EXTINF:-1,Dizi: Soz
-http://wowstream.net:25461/movie/samet5/5samet/2418.mkv
-#EXTINF:-1,Dizi: Ufak Tefek Cinayetler
-http://wowstream.net:25461/movie/samet5/5samet/2417.mkv
-#EXTINF:-1,Dizi: Yasak Elma
-http://wowstream.net:25461/movie/samet5/5samet/2416.mkv
-#EXTINF:-1,Dizi: Yeni Gelin
-http://wowstream.net:25461/movie/samet5/5samet/2415.mkv
-
-http://wowstream.net:25461/movie/samet5/5samet/2414.mkv
-#EXTINF:-1,DE -- RTLplus Local
-http://wowstream.net:25461/live/samet5/5samet/2003.m3u8
-#EXTINF:-1,TRT Avaz HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1856.m3u8
-#EXTINF:-1,Planet Çocuk HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1814.m3u8
-#EXTINF:-1,Power Türk TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1828.m3u8
-#EXTINF:-1,Number1 Türk HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1825.m3u8
-#EXTINF:-1,Number1 HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1826.m3u8
-#EXTINF:-1,NR 1 Aşk HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1824.m3u8
-#EXTINF:-1,Fil TV HD TRA
-http://wowstream.net:25461/live/samet5/5samet/1834.m3u8
-#EXTINF:-1,Dream Türk TV TRA
-http://wowstream.net:25461/live/samet5/5samet/1819.m3u8
-#EXTINF:-1,Dream TV TRA
-http://wowstream.net:25461/live/samet5/5samet/1818.m3u8
+#EXTINF:-1,=== BEIN SPORTS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12639
+#EXTINF:-1,BEIN SPORT NEWS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1664
+#EXTINF:-1,BEIN SPORT HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/9733
+#EXTINF:-1,BEIN SPORT NBA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11176
+#EXTINF:-1,Bein Sports HD1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22969
+#EXTINF:-1,Bein Sports HD2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22967
+#EXTINF:-1,Bein Sports HD3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22966
+#EXTINF:-1,Bein Sports HD4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22965
+#EXTINF:-1,Bein Sports HD5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22964
+#EXTINF:-1,Bein Sports HD6
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22963
+#EXTINF:-1,Bein Sports HD7
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22962
+#EXTINF:-1,Bein Sports HD8
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22961
+#EXTINF:-1,Bein Sports HD9
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22960
+#EXTINF:-1,Bein Sports HD10
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22968
+#EXTINF:-1,Bein Sports SD1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22979
+#EXTINF:-1,Bein Sports SD2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22978
+#EXTINF:-1,Bein Sports SD3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22977
+#EXTINF:-1,Bein Sports SD4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22976
+#EXTINF:-1,Bein Sports SD5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22975
+#EXTINF:-1,Bein Sports SD6
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22974
+#EXTINF:-1,Bein Sports SD7
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22973
+#EXTINF:-1,Bein Sports SD8
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22972
+#EXTINF:-1,Bein Sports SD9
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22971
+#EXTINF:-1,Bein Sports SD10
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22970
+#EXTINF:-1,FULLHD: Bein Sports 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28103
+#EXTINF:-1,FULLHD: Bein Sports 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28102
+#EXTINF:-1,FULLHD: Bein Sports 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28101
+#EXTINF:-1,FULLHD: Bein Sports 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28100
+#EXTINF:-1,FULLHD: Bein Sports 5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28099
+#EXTINF:-1,FULLHD: Bein Sports 6
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28098
+#EXTINF:-1,FULLHD: Bein Sports 7
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28097
+#EXTINF:-1,FULLHD: Bein Sports 8
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28096
+#EXTINF:-1,FULLHD: Bein Sports 9
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28095
+#EXTINF:-1,FULLHD: Bein Sports 10
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/28094
+#EXTINF:-1,Dawri 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19545
+#EXTINF:-1,Dawri 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19544
+#EXTINF:-1,Dawri 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19543
+#EXTINF:-1,Dawri 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19542
+#EXTINF:-1,KSA 1 SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/14368
+#EXTINF:-1,KSA 2 SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/15020
+#EXTINF:-1,KSA SPORT +1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20002
+#EXTINF:-1,KSA SPORT +2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20003
+#EXTINF:-1,ALFAJER 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29353
+#EXTINF:-1,ALFAJER 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29352
+#EXTINF:-1,ALFAJER 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29351
+#EXTINF:-1,ALFAJER 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29350
+#EXTINF:-1,ALFAJER 5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29349
+#EXTINF:-1,======WORLD SPORT===============
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19804
+#EXTINF:-1,SPORT: AFN Sports 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20766
+#EXTINF:-1,SPORT: AFN Sports 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20765
+#EXTINF:-1,SPORT: Box Nation (UK)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20764
+#EXTINF:-1,SPORT: BOX NATION HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20763
+#EXTINF:-1,SPORT: BT Sport 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20787
+#EXTINF:-1,SPORT: BT Sport 2 FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20789
+#EXTINF:-1,SPORT: BT Sport 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20786
+#EXTINF:-1,SPORT: BT Sport 3 FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20788
+#EXTINF:-1,SPORT: BT Sport 3 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20785
+#EXTINF:-1,SPORT: BT Sport ESPN FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20784
+#EXTINF:-1,SPORT: BT Sport ESPN HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20783
+#EXTINF:-1,SPORT: BT Sport Extra 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20782
+#EXTINF:-1,SPORT: BT Sport Extra 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20781
+#EXTINF:-1,SPORT: BT Sport Extra 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20780
+#EXTINF:-1,SPORT: BT Sport Extra 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20779
+#EXTINF:-1,SPORT: BT Sport Extra 5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20778
+#EXTINF:-1,SPORT: Chelsea TV HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20762
+#EXTINF:-1,SPORT: EirSport 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20761
+#EXTINF:-1,SPORT: EirSport 2 FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20760
+#EXTINF:-1,SPORT: EirSport 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20759
+#EXTINF:-1,SPORT: Eleven FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20758
+#EXTINF:-1,SPORT: Eleven Sports 1 (Belgium NL)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20757
+#EXTINF:-1,SPORT: Eleven Sports 1 (UK)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20756
+#EXTINF:-1,SPORT: Eleven Sports 2 (Belgium NL)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20755
+#EXTINF:-1,SPORT: Eleven Sports 2 (UK)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20754
+#EXTINF:-1,SPORT: Eleven Sports 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20753
+#EXTINF:-1,SPORT: Eleven Sports 3 (Belgium NL)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20752
+#EXTINF:-1,SPORT: Eleven Sports 3 (Poland)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20751
+#EXTINF:-1,SPORT: Eleven Sports 4 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20750
+#EXTINF:-1,SPORT: ELEVEN SPORTS HD (US)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20749
+#EXTINF:-1,SPORT: Eurosport 1 FHD (UK)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20748
+#EXTINF:-1,SPORT: Eurosport 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20747
+#EXTINF:-1,SPORT: Eurosport 2 FHD (UK)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20746
+#EXTINF:-1,SPORT: Eurosport 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20745
+#EXTINF:-1,SPORT: Flow Sports 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20744
+#EXTINF:-1,SPORT: Fox Sports 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20790
+#EXTINF:-1,SPORT: Futbol 1 HD (UKR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20743
+#EXTINF:-1,SPORT: Futbol 2 FHD (UKR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20742
+#EXTINF:-1,SPORT: GOLF FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20741
+#EXTINF:-1,SPORT: GOLF HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20740
+#EXTINF:-1,SPORT: KBS SPORTS (KOR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20739
+#EXTINF:-1,SPORT: Liverpool FC TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20738
+#EXTINF:-1,SPORT: Manchester United FC FHD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20737
+#EXTINF:-1,SPORT: Manchester United FC HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20736
+#EXTINF:-1,SPORT: MBC SPORTS (KOR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20735
+#EXTINF:-1,SPORT: PPTV SPORTS (THAI)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20734
+#EXTINF:-1,SPORT: Premium Sport
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20733
+#EXTINF:-1,SPORT: RMC Sport 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20732
+#EXTINF:-1,SPORT: RMC Sport 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20731
+#EXTINF:-1,SPORT: RMC Sport 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20730
+#EXTINF:-1,SPORT: RMC Sport 5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20729
+#EXTINF:-1,SPORT: SBS GOLF (KOR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20728
+#EXTINF:-1,SPORT: SBS SPORTS (KOR)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20727
+#EXTINF:-1,SPORT: Sky Net Sports 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20726
+#EXTINF:-1,SPORT: Sky Sports Action HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20777
+#EXTINF:-1,SPORT: Sky Sports Arena HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20776
+#EXTINF:-1,SPORT: Sky Sports Cricket HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20775
+#EXTINF:-1,SPORT: Sky Sports F1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20774
+#EXTINF:-1,SPORT: Sky Sports Football HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20773
+#EXTINF:-1,SPORT: Sky Sports Golf HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20772
+#EXTINF:-1,SPORT: Sky Sports Main Event HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20771
+#EXTINF:-1,SPORT: Sky Sports Mix HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20770
+#EXTINF:-1,SPORT: Sky Sports News HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20769
+#EXTINF:-1,SPORT: Sky Sports Premier League HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20768
+#EXTINF:-1,SPORT: Sky Sports The Open HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20767
+#EXTINF:-1,SPORT: SKYNET SPORTS 1 (MY)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20725
+#EXTINF:-1,SPORT: SKYNET SPORTS 2 (MY)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20724
+#EXTINF:-1,SPORT: SKYNET SPORTS 3 (MY)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20723
+#EXTINF:-1,SPORT: SKYNET SPORTS 4 (MY)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20722
+#EXTINF:-1,SPORT: SKYNET SPORTS 5 (MY)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20721
+#EXTINF:-1,SPORT: SPORT ENCORE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20720
+#EXTINF:-1,SPORT: Sport TV1 (PT)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20719
+#EXTINF:-1,SPORT: Sport TV2 (PT)
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20718
+#EXTINF:-1,SPORT: Star Sports 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20717
+#EXTINF:-1,SPORT: STAR SPORTS SELECT 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20716
+#EXTINF:-1,SPORT: STAR SPORTS SELECT 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20715
+#EXTINF:-1,SPORT: TELECOM Sport 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20714
+#EXTINF:-1,SPORT: UK SkyNet Sports 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20713
+#EXTINF:-1,SPORT: UK SkyNet Sports 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20712
+#EXTINF:-1,SPORT: UK SkyNet Sports 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20711
+#EXTINF:-1,SPORT: UK SkyNet Sports 6
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20710
+#EXTINF:-1,SPORT: Willow HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20709
+#EXTINF:-1,=== OSN CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12640
+#EXTINF:-1,Osn Animal planet HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26657
+#EXTINF:-1,Osn BBC Fisrt HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26679
+#EXTINF:-1,Osn Baby HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26666
+#EXTINF:-1,Osn Discovery HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26655
+#EXTINF:-1,Osn Discovery Science HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26656
+#EXTINF:-1,Osn Disney
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26690
+#EXTINF:-1,Osn Disney Junior HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26671
+#EXTINF:-1,Osn DocuBox HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26639
+#EXTINF:-1,Osn E! Entertainment HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26640
+#EXTINF:-1,Osn FOX HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26642
+#EXTINF:-1,Osn FX HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26641
+#EXTINF:-1,Osn Fight Box HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26638
+#EXTINF:-1,Osn Film Box HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26637
+#EXTINF:-1,Osn  FAST AND FUN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26636
+#EXTINF:-1,Osn First Movies 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26688
+#EXTINF:-1,Osn First Movies HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26689
+#EXTINF:-1,Osn Fix Foxi HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26667
+#EXTINF:-1,Osn Food HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26675
+#EXTINF:-1,Osn Fox Action Movies HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26644
+#EXTINF:-1,Osn Fox Crime  HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26646
+#EXTINF:-1,Osn Fox Family Movies HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26643
+#EXTINF:-1,Osn Fox Life HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26648
+#EXTINF:-1,Osn Fox Movies HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26645
+#EXTINF:-1,Osn Fox Rewayat HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26647
+#EXTINF:-1,Osn Gulli Arabie HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26668
+#EXTINF:-1,Osn History HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26654
+#EXTINF:-1,Osn Kids Zone  HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26669
+#EXTINF:-1,Osn  Laab Wa Jad
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29344
+#EXTINF:-1,Osn Living HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26678
+#EXTINF:-1,Osn Movies
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26691
+#EXTINF:-1,Osn Movies  2h
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26682
+#EXTINF:-1,Osn Movies Action HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26687
+#EXTINF:-1,Osn Movies Action HD 2h
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26686
+#EXTINF:-1,Osn Movies Comedy HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26683
+#EXTINF:-1,Osn Movies Thriller 2h HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26684
+#EXTINF:-1,Osn Movies Thriller HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26685
+#EXTINF:-1,Osn My Cinema HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26680
+#EXTINF:-1,Osn Nat Geo Kids
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/25618
+#EXTINF:-1,Osn Nat Geo People HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26658
+#EXTINF:-1,Osn Nat Geo Wild HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26660
+#EXTINF:-1,Osn National Geographic HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26659
+#EXTINF:-1,Osn Planet Earth HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26653
+#EXTINF:-1,Osn SYFY HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26674
+#EXTINF:-1,Osn Series Comedy HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26681
+#EXTINF:-1,Osn Sport 1 Action
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26652
+#EXTINF:-1,Osn Sport 2 Action
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26651
+#EXTINF:-1,Osn Star Movies HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26677
+#EXTINF:-1,Osn Star World HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26676
+#EXTINF:-1,Osn WOW Sports  HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26650
+#EXTINF:-1,Osn WWE HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26649
+#EXTINF:-1,=== BEIN MOVIES ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12617
+#EXTINF:-1,BEIN MOVIES PREMIERE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1438
+#EXTINF:-1,BEIN MOVIES ACTION
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1439
+#EXTINF:-1,BEIN MOVIES DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1440
+#EXTINF:-1,BEIN MOVIES FAMILY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1441
+#EXTINF:-1,BEIN AMC HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11177
+#EXTINF:-1,BEIN BABY TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11916
+#EXTINF:-1,BEIN BOOMERANG
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11369
+#EXTINF:-1,BEIN Baraem
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11915
+#EXTINF:-1,BEIN CBC REALLITY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29348
+#EXTINF:-1,BEIN D KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29347
+#EXTINF:-1,BEIN D LIFE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29345
+#EXTINF:-1,BEIN DMAX
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7813
+#EXTINF:-1,BEIN DRAMA 1HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11022
+#EXTINF:-1,BEIN DREAM WORKS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/9113
+#EXTINF:-1,BEIN FOX MOVIES
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11178
+#EXTINF:-1,BEIN Fatafeat
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11487
+#EXTINF:-1,BEIN GOURMET
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5454
+#EXTINF:-1,BEIN JEEM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11914
+#EXTINF:-1,BEIN NAT GEO PEOPLE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11907
+#EXTINF:-1,BEIN SERIES 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4329
+#EXTINF:-1,BEIN SERIES 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11905
+#EXTINF:-1,BEIN STAR MOVIES
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11906
+#EXTINF:-1,BEIN Star World
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11913
+#EXTINF:-1,BEIN TCM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29346
+#EXTINF:-1,Bein Box Office 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29279
+#EXTINF:-1,Bein Box Office 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29280
+#EXTINF:-1,=== UK CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12647
+#EXTINF:-1,UK.ANIMAL PLANET
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12843
+#EXTINF:-1,UK.BABY TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12842
+#EXTINF:-1,UK.BBC 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12841
+#EXTINF:-1,UK.BBC 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12840
+#EXTINF:-1,UK.BBC 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12839
+#EXTINF:-1,UK.BBC 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12838
+#EXTINF:-1,UK.BBC NEWS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12837
+#EXTINF:-1,UK.BT SPORT 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12836
+#EXTINF:-1,UK.BT SPORT 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12835
+#EXTINF:-1,UK.BT SPORT ESPN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12834
+#EXTINF:-1,UK.CBS ACTION
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12832
+#EXTINF:-1,UK.CBS DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12831
+#EXTINF:-1,UK.CBS REALITY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12830
+#EXTINF:-1,UK.CHANNEL 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12829
+#EXTINF:-1,UK.CHANNEL 5
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12828
+#EXTINF:-1,UK.CHELSEA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12827
+#EXTINF:-1,UK.CNN US
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12826
+#EXTINF:-1,UK.COMEDY CENTRAL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12825
+#EXTINF:-1,UK.COMEDY XTRA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12824
+#EXTINF:-1,UK.Cbeeies
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/13291
+#EXTINF:-1,UK.DISCOVERY CHANNEL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12823
+#EXTINF:-1,UK.DISCOVERY HISTORY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12822
+#EXTINF:-1,UK.DISCOVERY HOME&HEALTH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12821
+#EXTINF:-1,UK.DISCOVERY SCIENCE CHANNEL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12820
+#EXTINF:-1,UK.DISCOVERY TURBO
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12819
+#EXTINF:-1,UK.DISNEY CHANNEL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12818
+#EXTINF:-1,UK.DISNEY JUNIOR
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12817
+#EXTINF:-1,UK.DISNEY JUNIOR HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12816
+#EXTINF:-1,UK.DISNEY XD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12815
+#EXTINF:-1,UK.EUROSPORT 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12813
+#EXTINF:-1,UK.EUROSPORT 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12812
+#EXTINF:-1,UK.FOX
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12811
+#EXTINF:-1,UK.GOLD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12810
+#EXTINF:-1,UK.HOME
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12809
+#EXTINF:-1,UK.INVESTIGATION DISCOVERY IRELAND
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12808
+#EXTINF:-1,UK.ITV1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12807
+#EXTINF:-1,UK.ITV2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12806
+#EXTINF:-1,UK.ITV3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12805
+#EXTINF:-1,UK.ITV4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12804
+#EXTINF:-1,UK.LFC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12803
+#EXTINF:-1,UK.LIFETIME
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12802
+#EXTINF:-1,UK.MTV DANCE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12801
+#EXTINF:-1,UK.MTV HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12800
+#EXTINF:-1,UK.MTV HITS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12799
+#EXTINF:-1,UK.MTV MUSIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12798
+#EXTINF:-1,UK.MUTV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12797
+#EXTINF:-1,UK.NATIONAL GEOGRAPHIC HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12796
+#EXTINF:-1,UK.NICK JR
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12795
+#EXTINF:-1,UK.NICKTOONS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12794
+#EXTINF:-1,UK.PICK
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12793
+#EXTINF:-1,UK.PREMIER SPORTS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12792
+#EXTINF:-1,UK.RACING
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12791
+#EXTINF:-1,UK.SKY 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12790
+#EXTINF:-1,UK.SKY 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12789
+#EXTINF:-1,UK.SKY ACTION
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12788
+#EXTINF:-1,UK.SKY ATLANTIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12787
+#EXTINF:-1,UK.SKY COMEDY MOVIE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12786
+#EXTINF:-1,UK.SKY DISNEY MOVIE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12785
+#EXTINF:-1,UK.SKY MOVIES GREATS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12784
+#EXTINF:-1,UK.SKY MOVIES PREMIERE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12783
+#EXTINF:-1,UK.SKY NEWS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12782
+#EXTINF:-1,UK.SKY SCFI HORROR
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12781
+#EXTINF:-1,UK.SKY SPORTS ACTION
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12780
+#EXTINF:-1,UK.SKY SPORTS MIX
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12779
+#EXTINF:-1,UK.SKY SPORTS DARTS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12778
+#EXTINF:-1,UK.SKY SPORTS CRICKET
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12777
+#EXTINF:-1,UK.SKY SPORTS GOULF
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12776
+#EXTINF:-1,UK.SKY SPORTS F1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12775
+#EXTINF:-1,UK.SKY SPORTS NEWS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12774
+#EXTINF:-1,UK.SKY THRILLER
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12773
+#EXTINF:-1,UK.TCM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12772
+#EXTINF:-1,UK.TLC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12771
+#EXTINF:-1,UK.TRAVEL CHANNEL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12770
+#EXTINF:-1,UK.UTV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12769
+#EXTINF:-1,=== KURDISH ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12638
+#EXTINF:-1,KRD.4 Chira
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26623
+#EXTINF:-1,KRD.ARTI TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20597
+#EXTINF:-1,KRD.ARYEN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20596
+#EXTINF:-1,KRD.Biaban Sport
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20595
+#EXTINF:-1,KRD.Cihan TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20591
+#EXTINF:-1,KRD.Cira TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20594
+#EXTINF:-1,KRD.DUNELA Documentary
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26625
+#EXTINF:-1,KRD.ECHOSTAR KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26626
+#EXTINF:-1,KRD.EZIDXAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26628
+#EXTINF:-1,KRD.EchoStar Music
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26627
+#EXTINF:-1,KRD.GEM KURD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20592
+#EXTINF:-1,KRD.Gali Kurdistan
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20590
+#EXTINF:-1,KRD.Gk Sport
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20589
+#EXTINF:-1,KRD.ISHTAR TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20588
+#EXTINF:-1,KRD.K24 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20586
+#EXTINF:-1,KRD.KANAL 4
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20587
+#EXTINF:-1,KRD.KNN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20584
+#EXTINF:-1,KRD.KOREK TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20583
+#EXTINF:-1,KRD.KTV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20582
+#EXTINF:-1,KRD.KURDMAX HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20581
+#EXTINF:-1,KRD.Kurd Max Pep
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20585
+#EXTINF:-1,KRD.Kurdistan
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20580
+#EXTINF:-1,KRD.Kurdmax
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20579
+#EXTINF:-1,KRD.MINBIJ TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20578
+#EXTINF:-1,KRD.Med Music
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20577
+#EXTINF:-1,KRD.Medya Haber
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20576
+#EXTINF:-1,KRD.NEWRUZ TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20575
+#EXTINF:-1,KRD.NEWS CHANNEL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20574
+#EXTINF:-1,KRD.Net TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20573
+#EXTINF:-1,KRD.Nrt 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20572
+#EXTINF:-1,KRD.Nrt HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20571
+#EXTINF:-1,KRD.PELISTANK TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20570
+#EXTINF:-1,KRD.QAMISHLO TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20569
+#EXTINF:-1,KRD.REGA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20568
+#EXTINF:-1,KRD.ROJAVA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20567
+#EXTINF:-1,KRD.RONAHIT TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20566
+#EXTINF:-1,KRD.RUDAW TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20565
+#EXTINF:-1,KRD.Rega
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20593
+#EXTINF:-1,KRD.STERK TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20564
+#EXTINF:-1,KRD.Sahar TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20563
+#EXTINF:-1,KRD.Speda tv
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20562
+#EXTINF:-1,KRD.TRT KURDI
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20561
+#EXTINF:-1,KRD.TV 10
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20560
+#EXTINF:-1,KRD.Vin TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20559
+#EXTINF:-1,KRD.Waar TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20558
+#EXTINF:-1,KRD.Zagros
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20557
+#EXTINF:-1,KRD.Zagros TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20556
+#EXTINF:-1,krd.DUNELA BABY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26624
+#EXTINF:-1,=== MYHD CHANEELS===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12618
+#EXTINF:-1,MY CINMA HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4990
+#EXTINF:-1,MY FILMBOX
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7647
+#EXTINF:-1,MY FIX FOXI
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7017
+#EXTINF:-1,MY  FOX
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11484
+#EXTINF:-1,MY FOX ACTION
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4141
+#EXTINF:-1,MY FOX CRIME
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16232
+#EXTINF:-1,MY FOX FAMILY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3142
+#EXTINF:-1,MY FOX LIFE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16554
+#EXTINF:-1,MY FX HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4906
+#EXTINF:-1,MY FilmBox Arthouse
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11483
+#EXTINF:-1,MY  Fox Movies
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11481
+#EXTINF:-1,MY Fox Rewayat
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12767
+#EXTINF:-1,MY Gulli Arabic
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11909
+#EXTINF:-1,MY Wow Sport HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7646
+#EXTINF:-1,MY PLANET EARTH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16555
+#EXTINF:-1,SEEVII ALAOULA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2874
+#EXTINF:-1,SEEVII Prime 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2873
+#EXTINF:-1,SEEVII DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2872
+#EXTINF:-1,=== YAHALA OSN ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12619
+#EXTINF:-1,Osn  YaHala HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26673
+#EXTINF:-1,Osn YAHALA1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26672
+#EXTINF:-1,OSN YaHala Cinema
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11439
+#EXTINF:-1,=== ALFA OSN ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12620
+#EXTINF:-1,Orbit Cinema1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26663
+#EXTINF:-1,Orbit Cinema2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26662
+#EXTINF:-1,Orbit Musalsalat HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26665
+#EXTINF:-1,Orbit Music Now
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26661
+#EXTINF:-1,Osn Alyum HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/26664
+#EXTINF:-1,=== ROTANA ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12621
+#EXTINF:-1,ROTANA AFLAM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1475
+#EXTINF:-1,ROTANA AFLAM HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3017
+#EXTINF:-1,ROTANA CINEMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1476
+#EXTINF:-1,ROTANA CINEMA HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3016
+#EXTINF:-1,ROTANA CLASSIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1477
+#EXTINF:-1,ROTANA CLASSIC HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3028
+#EXTINF:-1,ROTANA CLIP
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1481
+#EXTINF:-1,ROTANA MUSIKA HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3015
+#EXTINF:-1,ROTANA KHALIJIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1478
+#EXTINF:-1,ROTANA KHALIJIYAH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3014
+#EXTINF:-1,ROTANA DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1479
+#EXTINF:-1,ROTANA DRAMA HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3264
+#EXTINF:-1,ROTANA MUSIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1480
+#EXTINF:-1,Rotana-FM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11952
+#EXTINF:-1,=== KIDS CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12622
+#EXTINF:-1,AJYAL KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3719
+#EXTINF:-1,AL MAJD KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1630
+#EXTINF:-1,BARAEEM EUROPA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1708
+#EXTINF:-1,BARAEEM HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3814
+#EXTINF:-1,BEIN JUNIOR KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4508
+#EXTINF:-1,JEEM KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1707
+#EXTINF:-1,KARAMEESH KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1644
+#EXTINF:-1,KOKy KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1642
+#EXTINF:-1,MICKEY CHANNEL KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1649
+#EXTINF:-1,SPACE TOON KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1641
+#EXTINF:-1,TOYOR AL JANAH KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1648
+#EXTINF:-1,TOYOR BABY KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5026
+#EXTINF:-1,=== NEWS CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12623
+#EXTINF:-1,AL ARABIYA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1540
+#EXTINF:-1,AL ARABIYA AL HADATH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1541
+#EXTINF:-1,Al ARABY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7783
+#EXTINF:-1,AL EKHBARIYA SYRIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1572
+#EXTINF:-1,AL JAZEERA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1597
+#EXTINF:-1,AL JAZEERA ENGLISH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1598
+#EXTINF:-1,AL JAZEERA MUBASHER
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1595
+#EXTINF:-1,AL JAZEERA DOCUMENTARY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1596
+#EXTINF:-1,AL MANAR TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1537
+#EXTINF:-1,BBC ARABIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1600
+#EXTINF:-1,FRANCE 24
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7748
+#EXTINF:-1,DW TV ARABIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1539
+#EXTINF:-1,CNBC Arabic
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/25616
+#EXTINF:-1,CGTN ARABIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/25617
+#EXTINF:-1,=== SAUDIA ARABIA ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12624
+#EXTINF:-1,SBC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/15019
+#EXTINF:-1,SAUDI 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1576
+#EXTINF:-1,SAUDI AL IKHBARIYA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3584
+#EXTINF:-1,SAUDI RIYADHIYAH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3583
+#EXTINF:-1,=== ISLAMI CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12625
+#EXTINF:-1,AL MAJD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1629
+#EXTINF:-1,AL MAJD EDUCATIONAL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5903
+#EXTINF:-1,AL MAJD HADITH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5902
+#EXTINF:-1,AL MAJD QURAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1631
+#EXTINF:-1,MAKKAH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1736
+#EXTINF:-1,AL AFASY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3589
+#EXTINF:-1,SAUDI QURAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1579
+#EXTINF:-1,AL RAHMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1721
+#EXTINF:-1,IQRAA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1560
+#EXTINF:-1,=== AL EMARAT ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12626
+#EXTINF:-1,ABU DHABI
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1546
+#EXTINF:-1,ABU DHABI DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1547
+#EXTINF:-1,ABU DHABI NAT GEO
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1550
+#EXTINF:-1,AD EMARAT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1739
+#EXTINF:-1,AD SPORT 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2763
+#EXTINF:-1,AD SPORT 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2762
+#EXTINF:-1,AD SPORT 3 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2684
+#EXTINF:-1,AD SPORT 4 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2682
+#EXTINF:-1,AD SPORT 5 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2683
+#EXTINF:-1,AL KASS 1 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1436
+#EXTINF:-1,AL KASS 2 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1437
+#EXTINF:-1,AL KASS 3 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2407
+#EXTINF:-1,AL KASS 4 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2408
+#EXTINF:-1,AL KASS 5 HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2409
+#EXTINF:-1,AL RAI KUWAIT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2758
+#EXTINF:-1,BAHRAIN INTERNATIONAL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/21019
+#EXTINF:-1,BAHRAIN QURAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/21020
+#EXTINF:-1,BAHRAIN SPORTS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/21017
+#EXTINF:-1,BAHRAIN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/21018
+#EXTINF:-1,DUBAI AL OULLA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1561
+#EXTINF:-1,DUBAI DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1562
+#EXTINF:-1,DUBAI NOOR
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1565
+#EXTINF:-1,DUBAI ONE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1564
+#EXTINF:-1,DUBAI SAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1566
+#EXTINF:-1,DUBAI SPORT 3
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1567
+#EXTINF:-1,DUBAI ZAMAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1563
+#EXTINF:-1,KUWAIT TV 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1544
+#EXTINF:-1,OMAN RIYADHIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1589
+#EXTINF:-1,OMAN THAKAFIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1590
+#EXTINF:-1,OMAN TV 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1588
+#EXTINF:-1,QATAR TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1559
+#EXTINF:-1,QUEST ARABIYA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7856
+#EXTINF:-1,=== YEMEN CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12627
+#EXTINF:-1,YEMEN BELQEES
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7744
+#EXTINF:-1,Yemen SHABAB
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7746
+#EXTINF:-1,=== JORDAN ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12628
+#EXTINF:-1,PNC Drama
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/20018
+#EXTINF:-1,Amman
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12752
+#EXTINF:-1,JORDAN HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11156
+#EXTINF:-1,JORDAN SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1638
+#EXTINF:-1,JORDAN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1637
+#EXTINF:-1,JORDAN Noor
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12747
+#EXTINF:-1,ROYA HD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11157
+#EXTINF:-1,RO`YA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1636
+#EXTINF:-1,Zweina Baladna
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/13215
+#EXTINF:-1,MAMLAKA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/29298
+#EXTINF:-1,=== PALESTINE  ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12629
+#EXTINF:-1,AJYAL TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5528
+#EXTINF:-1,AL AQSA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3720
+#EXTINF:-1,AL FAJER
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/6751
+#EXTINF:-1,ALSalam
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12766
+#EXTINF:-1,Al Quds TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22981
+#EXTINF:-1,Al-Falastiniah
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12746
+#EXTINF:-1,Awdeh
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12745
+#EXTINF:-1,Bet Lahem
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19495
+#EXTINF:-1,HALA PALESTINE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4951
+#EXTINF:-1,Musawa TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12630
+#EXTINF:-1,PALESTINE  LIVE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1534
+#EXTINF:-1,PALESTINE TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1533
+#EXTINF:-1,Palestine Kofiya
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/18753
+#EXTINF:-1,Palestine Today
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/22980
+#EXTINF:-1,=== IRAQ CHANNELS ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12631
+#EXTINF:-1,AFAQ TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19599
+#EXTINF:-1,AL BAGHDADIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1608
+#EXTINF:-1,AL HURRA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1607
+#EXTINF:-1,AL MAWSLEYA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5526
+#EXTINF:-1,AL RASHEED
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2735
+#EXTINF:-1,AL SHARQIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1730
+#EXTINF:-1,AL SHARQIA NEWS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2755
+#EXTINF:-1,AL3HAD TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16252
+#EXTINF:-1,ALBAEENAH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/27046
+#EXTINF:-1,ALGHADEER
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5739
+#EXTINF:-1,ANB IRAQ
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3711
+#EXTINF:-1,ALRAFIDAIN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16253
+#EXTINF:-1,AlANBAR
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5738
+#EXTINF:-1,Alforat TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19589
+#EXTINF:-1,BELADI TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19588
+#EXTINF:-1,DIJLA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5725
+#EXTINF:-1,HONA BAGHDAD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5524
+#EXTINF:-1,IRAQ SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7770
+#EXTINF:-1,IRAQ TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5740
+#EXTINF:-1,Iraqi News
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19587
+#EXTINF:-1,Karbala TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5498
+#EXTINF:-1,Music Alhanen
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16251
+#EXTINF:-1,Music Alremas
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16250
+#EXTINF:-1,SAMARRA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5523
+#EXTINF:-1,SUMARIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5741
+#EXTINF:-1,TOYOR AL IRAQ KIDS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5027
+#EXTINF:-1,WESAL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1733
+#EXTINF:-1,=== LIBYA ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12632
+#EXTINF:-1,LIBYA 218
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19992
+#EXTINF:-1,LIBYA 24
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19993
+#EXTINF:-1,LIBYA  AL MOSTAQBAL
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19996
+#EXTINF:-1,LIBYA AL RASMIA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19998
+#EXTINF:-1,LIBYA ALHADATH
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19991
+#EXTINF:-1,LIBYA ALYOUM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1632
+#EXTINF:-1,LIBYA  Al Ahrar
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19994
+#EXTINF:-1,LIBYA ELWATAN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1634
+#EXTINF:-1,LIBYA  Panorama
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19997
+#EXTINF:-1,LIBYA Almarah
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19995
+#EXTINF:-1,LIBYA TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1633
+#EXTINF:-1,=== EGYPT ===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12633
+#EXTINF:-1,AL AHLY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2756
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2757
+#EXTINF:-1,AL HAYAT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2829
+#EXTINF:-1,AL HAYAT 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1754
+#EXTINF:-1,AL HAYAT MUSALSALAT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1755
+#EXTINF:-1,AL NAHAR DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1592
+#EXTINF:-1,AL QAHERA WA AL NAS 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4482
+#EXTINF:-1,AL QAHERA WA AL NAS 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2457
+#EXTINF:-1,CAIRO CINEMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2732
+#EXTINF:-1,CAIRO DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2731
+#EXTINF:-1,CBC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1624
+#EXTINF:-1,CBC DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1771
+#EXTINF:-1,CBC EXTRA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1627
+#EXTINF:-1,CBC SOFRA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1717
+#EXTINF:-1,CIMA ALI BABA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2734
+#EXTINF:-1,DMC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4450
+#EXTINF:-1,DMC DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/4451
+#EXTINF:-1,DMC SPORTS
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3265
+#EXTINF:-1,MEKAMELEEN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2727
+#EXTINF:-1,MELODY CINEMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/11999
+#EXTINF:-1,NILE CINEMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1609
+#EXTINF:-1,NILE COMEDY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1612
+#EXTINF:-1,NILE FAMILY
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1610
+#EXTINF:-1,NILE LIFE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1613
+#EXTINF:-1,NILE SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1614
+#EXTINF:-1,ON DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7015
+#EXTINF:-1,ON E
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/8125
+#EXTINF:-1,ON TV SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1741
+#EXTINF:-1,PANORAMA DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1528
+#EXTINF:-1,PANORAMA DRAMA 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1772
+#EXTINF:-1,PANORAMA FILM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1529
+#EXTINF:-1,PANORAMA FOOD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/3109
+#EXTINF:-1,SADA EL BALAD
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1756
+#EXTINF:-1,SADA EL BALAD 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5670
+#EXTINF:-1,SADA EL BALAD DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/5671
+#EXTINF:-1,SHA3BYAT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/19600
+#EXTINF:-1,STAR CINEMA 1
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1727
+#EXTINF:-1,STAR CINEMA 2
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1726
+#EXTINF:-1,TEN
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/7014
+#EXTINF:-1,TOKTOK AFLAM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/2728
+#EXTINF:-1,===SUDAN CHANNELS===
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/12634
+#EXTINF:-1,SUDAN 24
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16257
+#EXTINF:-1,SUDAN ALKHARTOUM
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16260
+#EXTINF:-1,SUDAN BLUE NILE
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16262
+#EXTINF:-1,SUDAN DRAMA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16254
+#EXTINF:-1,SUDAN Dabanga
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16264
+#EXTINF:-1,SUDAN MUSIC
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16256
+#EXTINF:-1,SUDAN Monwaat
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16255
+#EXTINF:-1,SUDAN Om Dorman
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16261
+#EXTINF:-1,SUDAN SHOROUK
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16263
+#EXTINF:-1,SUDAN SPORT
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16258
+#EXTINF:-1,SUDAN TAYBA
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1742
+#EXTINF:-1,SUDAN TV
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/1731
+#EXTINF:-1,Sudan Knowledge
+http://turboipmedia.com:2082/manaf.hussain/hVfUHuen6v/16259
