@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/OEazuVXA6O/9484AMKnUh/1.ts
+
 #EXTINF:-1,beIN Sports 2 HD (AR)
 http://www.freeiptvdaily.net:8000/live/OEazuVXA6O/9484AMKnUh/2.ts
 #EXTINF:-1,beIN Sports 3 HD (AR)
@@ -877,6 +876,10 @@ http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1931.ts
 #EXTINF:-1,OSN Disney Channel
 http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1927.ts
 #EXTINF:-1,OSN Disney Junior
+
+
+
+
 http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1926.ts
 #EXTINF:-1,OSN Disney XD
 http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1925.ts
