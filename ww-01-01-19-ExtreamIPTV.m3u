@@ -1,6 +1,746 @@
 #EXTM3U
-
-
+#EXTINF:-1,Bein Sport 1 FR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/294
+#EXTINF:-1,Bein Sport 2 FR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/293
+#EXTINF:-1,Bein Sport 3 FR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/292
+#EXTINF:-1,Bein Sport 4 AR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/291
+#EXTINF:-1,Bein Sport 5
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/290
+#EXTINF:-1,Bein Sport 6
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/289
+#EXTINF:-1,Bein Sport 7 AR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/288
+#EXTINF:-1,Bein Sport 8
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/287
+#EXTINF:-1,Bein Sport 9 AR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/286
+#EXTINF:-1,Bein Sport 10
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/285
+#EXTINF:-1,[TR] Bein Sport Haber HD
+http://aiptv.pro:8000/owm/owm/6900
+#EXTINF:-1,[ TR ] BEINSPORT HABER
+http://aiptv.pro:8000/owm/owm/7748
+#EXTINF:-1,[TR]BEINMOVIES-FAMILY-HD
+http://aiptv.pro:8000/owm/owm/3502
+#EXTINF:-1,[TR]BEINMOVIES-COMEDY-HD
+http://aiptv.pro:8000/owm/owm/3503
+#EXTINF:-1,[TR]BEINMOVIES-ACTION
+http://aiptv.pro:8000/owm/owm/3504
+#EXTINF:-1,[AR]BEINSPOR-NEWS-HD
+http://aiptv.pro:8000/owm/owm/13
+#EXTINF:-1,[AR]BEINSPOR-1-HD
+http://aiptv.pro:8000/owm/owm/39
+#EXTINF:-1,[AR]BEINSPOR-2-HD
+http://aiptv.pro:8000/owm/owm/40
+#EXTINF:-1,[AR]BEINSPOR-3-HD
+http://aiptv.pro:8000/owm/owm/41
+#EXTINF:-1,[AR]BEINSPOR-4-HD
+http://aiptv.pro:8000/owm/owm/42
+#EXTINF:-1,[AR]BEINSPOR-5-HD
+http://aiptv.pro:8000/owm/owm/43
+#EXTINF:-1,[AR]BEINSPOR-6-HD
+http://aiptv.pro:8000/owm/owm/44
+#EXTINF:-1,[AR]BEINSPOR-7-HD
+http://aiptv.pro:8000/owm/owm/45
+#EXTINF:-1,[AR]BEINSPOR-8-HD
+http://aiptv.pro:8000/owm/owm/46
+#EXTINF:-1,[AR]BEINSPOR-9-HD
+http://aiptv.pro:8000/owm/owm/47
+#EXTINF:-1,[AR]BEINSPOR-10-HD
+http://aiptv.pro:8000/owm/owm/48
+#EXTINF:-1,[AR]BEINSPOR-11-HD
+http://aiptv.pro:8000/owm/owm/49
+#EXTINF:-1,[AR]BEINSPOR-12-HD
+http://aiptv.pro:8000/owm/owm/50
+#EXTINF:-1,[AR]BEIN-MOVIES-4
+http://aiptv.pro:8000/owm/owm/262
+#EXTINF:-1,[AR]BEIN-MOVIES-3
+http://aiptv.pro:8000/owm/owm/238
+#EXTINF:-1,[AR]BEIN-MOVIES-2
+http://aiptv.pro:8000/owm/owm/237
+#EXTINF:-1,[AR]BEIN-MOVIES-1
+http://aiptv.pro:8000/owm/owm/236
+#EXTINF:-1,[AR] Bein Sport HD
+http://aiptv.pro:8000/owm/owm/3497
+#EXTINF:-1,[Vip] Bein Sport 1 SD 480p
+http://aiptv.pro:8000/owm/owm/15058
+#EXTINF:-1,[Vip] Bein Sport Max 1 HD 720p
+http://aiptv.pro:8000/owm/owm/6122
+#EXTINF:-1,[Vip] Bein Sport Max 2 HD 720p
+http://aiptv.pro:8000/owm/owm/6123
+#EXTINF:-1,[Vip] Bein Sport Max 1 HD 1080p
+http://aiptv.pro:8000/owm/owm/15563
+#EXTINF:-1,[Vip] Bein Sport Max 2 HD 1080p
+http://aiptv.pro:8000/owm/owm/15564
+#EXTINF:-1,[Vip]BEINSPORT-1-HD
+http://aiptv.pro:8000/owm/owm/2761
+#EXTINF:-1,[Vip]BEINSPORT-2-HD
+http://aiptv.pro:8000/owm/owm/2763
+#EXTINF:-1,[Vip]BEINSPORT-3-HD
+http://aiptv.pro:8000/owm/owm/2764
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-1-HD
+http://aiptv.pro:8000/owm/owm/5648
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-2-HD
+http://aiptv.pro:8000/owm/owm/5649
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-3-HD
+http://aiptv.pro:8000/owm/owm/5650
+#EXTINF:-1,[Vip]BEIN-IZ
+http://aiptv.pro:8000/owm/owm/2864
+#EXTINF:-1,[ VIP ] BEINSPOR 1 HD [AR]
+http://aiptv.pro:8000/owm/owm/927
+#EXTINF:-1,[ VIP ] BEINSPOR 2 HD [AR]
+http://aiptv.pro:8000/owm/owm/928
+#EXTINF:-1,[ VIP ] BEINSPOR 3 HD [AR]
+http://aiptv.pro:8000/owm/owm/929
+#EXTINF:-1,[ VIP ] BEINSPOR 4 HD [AR]
+http://aiptv.pro:8000/owm/owm/930
+#EXTINF:-1,[ VIP ] BEINSPOR 5 HD [AR]
+http://aiptv.pro:8000/owm/owm/931
+#EXTINF:-1,[ VIP ] BEINSPOR 6 HD [AR]
+http://aiptv.pro:8000/owm/owm/932
+#EXTINF:-1,[ VIP ] BEINSPOR 7 HD [AR]
+http://aiptv.pro:8000/owm/owm/933
+#EXTINF:-1,[ VIP ] BEINSPOR 8 HD [AR]
+http://aiptv.pro:8000/owm/owm/934
+#EXTINF:-1,[ VIP ] BEINSPOR 9 HD [AR]
+http://aiptv.pro:8000/owm/owm/935
+#EXTINF:-1,[ VIP ] BEINSPOR 10 HD [AR]
+http://aiptv.pro:8000/owm/owm/936
+#EXTINF:-1,[ VIP ] BEINSPOR 11 HD [AR]
+http://aiptv.pro:8000/owm/owm/937
+#EXTINF:-1,[ VIP ] BEINSPOR 12 HD [AR]
+http://aiptv.pro:8000/owm/owm/938
+#EXTINF:-1,[AR] Bein Nat Geo Wild HD
+http://aiptv.pro:8000/owm/owm/5677
+#EXTINF:-1,[AR] Bein Animal Planet HD
+http://aiptv.pro:8000/owm/owm/960
+#EXTINF:-1,[AR] BEIN FOX MOVIES TV HD
+http://aiptv.pro:8000/owm/owm/8329
+#EXTINF:-1,[Vip]BEINMOVIES-TURK(DIGITURK)
+http://aiptv.pro:8000/owm/owm/2911
+#EXTINF:-1,[VIP]BEINMOVIES STARS HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6126
+#EXTINF:-1,[VIP]BEINMOVIES FAMILY HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6125
+#EXTINF:-1,[VIP]BEINMOVIES ACTION(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6124
+#EXTINF:-1,[VIP]beIN MOVIES ACTION 2 HD ( Bein Media )
+http://aiptv.pro:8000/owm/owm/5799
+#EXTINF:-1,[VIP]BEIN MOVIES FESTIVAL HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6129
+#EXTINF:-1,[VIP]BEIN MOViES PREMiER HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6127
+#EXTINF:-1,[VIP]beIN MOVIES PREMIER 2 HD (Bein Media)
+http://aiptv.pro:8000/owm/owm/5800
+#EXTINF:-1,[VIP]BEIN MOViES  COMEDY HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6128
+#EXTINF:-1,[VIP]beIN Series Vice HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6136
+#EXTINF:-1,[VIP]beIN Series Sci-Fi HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6137
+#EXTINF:-1,[VIP]beIN Series Comedy HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6134
+#EXTINF:-1,[VIP] beIN Series Drama HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6135
+#EXTINF:-1,[FR] BEIN SPORT 1 HD
+http://aiptv.pro:8000/owm/owm/10367
+#EXTINF:-1,[FR] BEIN SPORT 2 HD
+http://aiptv.pro:8000/owm/owm/10366
+#EXTINF:-1,[FR] BEIN SPORT 3 HD
+http://aiptv.pro:8000/owm/owm/10365
+#EXTINF:-1,[FR] BEIN SPORT MAX 10
+http://aiptv.pro:8000/owm/owm/10358
+#EXTINF:-1,[FR] BEIN SPORT MAX 4
+http://aiptv.pro:8000/owm/owm/10364
+#EXTINF:-1,[FR] BEIN SPORT MAX 5
+http://aiptv.pro:8000/owm/owm/10363
+#EXTINF:-1,[FR] BEIN SPORT MAX 6
+http://aiptv.pro:8000/owm/owm/10362
+#EXTINF:-1,[FR] BEIN SPORT MAX 7
+http://aiptv.pro:8000/owm/owm/10361
+#EXTINF:-1,[FR] BEIN SPORT MAX 8
+http://aiptv.pro:8000/owm/owm/10360
+#EXTINF:-1,[FR] BEIN SPORT MAX 9
+http://aiptv.pro:8000/owm/owm/10359
+#EXTINF:-1,[US] BEIN SPORTS
+http://aiptv.pro:8000/owm/owm/10519
+#EXTINF:-1,[ES] BEIN SPORTS
+http://aiptv.pro:8000/owm/owm/11031
+#EXTINF:-1,[ES] BEIN SPORTS LaLiga
+http://aiptv.pro:8000/owm/owm/11032
+#EXTINF:-1,[ES]BEIN-SPORT
+http://aiptv.pro:8000/owm/owm/1998
+#EXTINF:-1,[ES]BEIN-SPORT-LIGA-HD
+http://aiptv.pro:8000/owm/owm/206
+#EXTINF:-1,[TR]BEINMOVIES ACTION HD
+http://aiptv.pro:8000/owm/owm/10201
+#EXTINF:-1,[Vip]BEINSPORT-4-HD
+http://aiptv.pro:8000/owm/owm/2765
+#EXTINF:-1,[VIP]BEIN BOXOFICE 1 HD
+http://aiptv.pro:8000/owm/owm/10232
+#EXTINF:-1,[VIP]BEIN BOXOFICE 2 HD
+http://aiptv.pro:8000/owm/owm/10233
+#EXTINF:-1,[VIP]BEIN BOXOFICE 3 HD
+http://aiptv.pro:8000/owm/owm/10234
+#EXTINF:-1,[AR] BEIN SERIES 1
+http://aiptv.pro:8000/owm/owm/8330
+#EXTINF:-1,[AR] BEIN GOURMET
+http://aiptv.pro:8000/owm/owm/11166
+#EXTINF:-1,BEIN_4K
+http://uni-iptv.com:8000/magdi3/magdi3/33321
+#EXTINF:-1,BEIN_SPORT_1_HD
+http://uni-iptv.com:8000/magdi3/magdi3/858
+#EXTINF:-1,BEIN_SPORT_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/859
+#EXTINF:-1,BEIN_SPORT_3_HD
+http://uni-iptv.com:8000/magdi3/magdi3/860
+#EXTINF:-1,BEIN_SPORT_4_HD
+http://uni-iptv.com:8000/magdi3/magdi3/861
+#EXTINF:-1,BEIN_SPORT_5_HD
+http://uni-iptv.com:8000/magdi3/magdi3/862
+#EXTINF:-1,BEIN_SPORT_6_HD
+http://uni-iptv.com:8000/magdi3/magdi3/863
+#EXTINF:-1,BEIN_SPORT_7_HD
+http://uni-iptv.com:8000/magdi3/magdi3/864
+#EXTINF:-1,BEIN_SPORT_8_HD
+http://uni-iptv.com:8000/magdi3/magdi3/865
+#EXTINF:-1,BEIN_SPORT_9_HD
+http://uni-iptv.com:8000/magdi3/magdi3/866
+#EXTINF:-1,BEIN_SPORT_10_HD
+http://uni-iptv.com:8000/magdi3/magdi3/867
+#EXTINF:-1,BEIN_SPORT_11_HD
+http://uni-iptv.com:8000/magdi3/magdi3/3026
+#EXTINF:-1,BEIN_SPORT_12_HD
+http://uni-iptv.com:8000/magdi3/magdi3/3027
+#EXTINF:-1,BEIN_SPORT_13_HD
+http://uni-iptv.com:8000/magdi3/magdi3/13
+#EXTINF:-1,BEIN_SPORT_14_HD
+http://uni-iptv.com:8000/magdi3/magdi3/14
+#EXTINF:-1,BEIN_SPORT_15_HD
+http://uni-iptv.com:8000/magdi3/magdi3/15
+#EXTINF:-1,BEIN_SPORT_16_HD
+http://uni-iptv.com:8000/magdi3/magdi3/19978
+#EXTINF:-1,BEIN_SPORT_17_HD
+http://uni-iptv.com:8000/magdi3/magdi3/19979
+#EXTINF:-1,bein_Sports_SD1
+http://uni-iptv.com:8000/magdi3/magdi3/1003
+#EXTINF:-1,bein_Sports_SD2
+http://uni-iptv.com:8000/magdi3/magdi3/1004
+#EXTINF:-1,bein_Sports_SD3
+http://uni-iptv.com:8000/magdi3/magdi3/1005
+#EXTINF:-1,bein_Sports_SD4
+http://uni-iptv.com:8000/magdi3/magdi3/1006
+#EXTINF:-1,bein_Sports_SD5
+http://uni-iptv.com:8000/magdi3/magdi3/1007
+#EXTINF:-1,bein_Sports_SD6
+http://uni-iptv.com:8000/magdi3/magdi3/1008
+#EXTINF:-1,bein_Sports_SD7
+http://uni-iptv.com:8000/magdi3/magdi3/1009
+#EXTINF:-1,bein_Sports_SD8
+http://uni-iptv.com:8000/magdi3/magdi3/1010
+#EXTINF:-1,bein_Sports_SD9
+http://uni-iptv.com:8000/magdi3/magdi3/1011
+#EXTINF:-1,bein_Sports_SD10
+http://uni-iptv.com:8000/magdi3/magdi3/1012
+#EXTINF:-1,bein_Sports_SD11
+http://uni-iptv.com:8000/magdi3/magdi3/3028
+#EXTINF:-1,bein_Sports_SD12
+http://uni-iptv.com:8000/magdi3/magdi3/3029
+#EXTINF:-1,BeINsport_HD1_Low
+http://uni-iptv.com:8000/magdi3/magdi3/16
+#EXTINF:-1,BeINsport_HD2_Low
+http://uni-iptv.com:8000/magdi3/magdi3/17
+#EXTINF:-1,BeINsport_HD3_Low
+http://uni-iptv.com:8000/magdi3/magdi3/18
+#EXTINF:-1,BeINsport_HD4_Low
+http://uni-iptv.com:8000/magdi3/magdi3/19
+#EXTINF:-1,BeINsport_HD5_Low
+http://uni-iptv.com:8000/magdi3/magdi3/20
+#EXTINF:-1,BeINsport_HD6_Low
+http://uni-iptv.com:8000/magdi3/magdi3/21
+#EXTINF:-1,BeINsport_HD7_Low
+http://uni-iptv.com:8000/magdi3/magdi3/22
+#EXTINF:-1,BeINsport_HD8_Low
+http://uni-iptv.com:8000/magdi3/magdi3/23
+#EXTINF:-1,BeINsport_HD9_Low
+http://uni-iptv.com:8000/magdi3/magdi3/24
+#EXTINF:-1,BeINsport_HD10_Low
+http://uni-iptv.com:8000/magdi3/magdi3/25
+#EXTINF:-1,BEIN_SPORT_1_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3111
+#EXTINF:-1,BEIN_SPORT_2_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3110
+#EXTINF:-1,BEIN_SPORT_3_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3109
+#EXTINF:-1,BEIN_SPORT_4_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3108
+#EXTINF:-1,BEIN_SPORT_5_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3107
+#EXTINF:-1,BEIN_SPORT_6_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3106
+#EXTINF:-1,BEIN_SPORT_7_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3105
+#EXTINF:-1,BEIN_SPORT_8_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3104
+#EXTINF:-1,BEIN_SPORT_9_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3103
+#EXTINF:-1,BEIN_SPORT_10_HD_1080p
+http://uni-iptv.com:8000/magdi3/magdi3/3102
+#EXTINF:-1,BEIN_SPORT_1_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5544
+#EXTINF:-1,BEIN_SPORT_2_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5543
+#EXTINF:-1,BEIN_SPORT_3_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5542
+#EXTINF:-1,BEIN_SPORT_4_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5541
+#EXTINF:-1,BEIN_SPORT_5_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5540
+#EXTINF:-1,BEIN_SPORT_6_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5539
+#EXTINF:-1,BEIN_SPORT_7_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5538
+#EXTINF:-1,BEIN_SPORT_8_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5537
+#EXTINF:-1,BEIN_SPORT_9_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5536
+#EXTINF:-1,BEIN_SPORT_10_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5535
+#EXTINF:-1,BEIN_SPORT_11_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5534
+#EXTINF:-1,BEIN_SPORT_12_H265
+http://uni-iptv.com:8000/magdi3/magdi3/5533
+#EXTINF:-1,Bein_sport_1
+http://uni-iptv.com:8000/magdi3/magdi3/165
+#EXTINF:-1,Bein_sport_2
+http://uni-iptv.com:8000/magdi3/magdi3/167
+#EXTINF:-1,Bein_sport_3
+http://uni-iptv.com:8000/magdi3/magdi3/168
+#EXTINF:-1,Bein_sport_4
+http://uni-iptv.com:8000/magdi3/magdi3/169
+#EXTINF:-1,Bein_sport_5
+http://uni-iptv.com:8000/magdi3/magdi3/170
+#EXTINF:-1,Bein_sport_6
+http://uni-iptv.com:8000/magdi3/magdi3/171
+#EXTINF:-1,Bein_sport_7
+http://uni-iptv.com:8000/magdi3/magdi3/172
+#EXTINF:-1,Bein_sport_8
+http://uni-iptv.com:8000/magdi3/magdi3/173
+#EXTINF:-1,Bein_sport_9
+http://uni-iptv.com:8000/magdi3/magdi3/174
+#EXTINF:-1,Bein_sport_10
+http://uni-iptv.com:8000/magdi3/magdi3/166
+#EXTINF:-1,BEIN_SPORTS_1_HD
+http://uni-iptv.com:8000/magdi3/magdi3/1
+#EXTINF:-1,BEIN_SPORTS_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2
+#EXTINF:-1,BEIN_SPORTS_3_HD
+http://uni-iptv.com:8000/magdi3/magdi3/3
+#EXTINF:-1,BEIN_SPORTS_4_HD
+http://uni-iptv.com:8000/magdi3/magdi3/4
+#EXTINF:-1,BEIN_SPORTS_5_HD
+http://uni-iptv.com:8000/magdi3/magdi3/5
+#EXTINF:-1,BEIN_SPORTS_6_HD
+http://uni-iptv.com:8000/magdi3/magdi3/6
+#EXTINF:-1,BEIN_SPORTS_7_HD
+http://uni-iptv.com:8000/magdi3/magdi3/7
+#EXTINF:-1,BEIN_SPORTS_8_HD
+http://uni-iptv.com:8000/magdi3/magdi3/8
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://uni-iptv.com:8000/magdi3/magdi3/9
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://uni-iptv.com:8000/magdi3/magdi3/10
+#EXTINF:-1,BEIN_SPORTS_11_HD
+http://uni-iptv.com:8000/magdi3/magdi3/11
+#EXTINF:-1,BEIN_SPORTS_12_HD
+http://uni-iptv.com:8000/magdi3/magdi3/12
+#EXTINF:-1,BEIN_SPORTS
+http://uni-iptv.com:8000/magdi3/magdi3/5593
+#EXTINF:-1,BEIN_SPORTS_NEWS
+http://uni-iptv.com:8000/magdi3/magdi3/2219
+#EXTINF:-1,BEIN_MAX_1_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2203
+#EXTINF:-1,BEIN_MAX_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2204
+#EXTINF:-1,BEIN_MAX_3_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2205
+#EXTINF:-1,BEIN_MAX_4_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2206
+#EXTINF:-1,BEIN_MAX_1_SD
+http://uni-iptv.com:8000/magdi3/magdi3/2207
+#EXTINF:-1,BEIN_MAX_2_SD
+http://uni-iptv.com:8000/magdi3/magdi3/2208
+#EXTINF:-1,BEIN_MAX_3_SD
+http://uni-iptv.com:8000/magdi3/magdi3/2209
+#EXTINF:-1,BEIN_MAX_4_SD
+http://uni-iptv.com:8000/magdi3/magdi3/2210
+#EXTINF:-1,BEIN_MAX_1_low
+http://uni-iptv.com:8000/magdi3/magdi3/2211
+#EXTINF:-1,BEIN_MAX_2_low
+http://uni-iptv.com:8000/magdi3/magdi3/2212
+#EXTINF:-1,BEIN_MAX_3_low
+http://uni-iptv.com:8000/magdi3/magdi3/2213
+#EXTINF:-1,BEIN_MAX_4_low
+http://uni-iptv.com:8000/magdi3/magdi3/2214
+#EXTINF:-1,BEIN_MOVIES_1
+http://uni-iptv.com:8000/magdi3/magdi3/868
+#EXTINF:-1,BEIN_MOVIES_2
+http://uni-iptv.com:8000/magdi3/magdi3/869
+#EXTINF:-1,BEIN_MOVIES_3
+http://uni-iptv.com:8000/magdi3/magdi3/1998
+#EXTINF:-1,BEIN_MOVIES_4
+http://uni-iptv.com:8000/magdi3/magdi3/2107
+#EXTINF:-1,BEIN_Amc
+http://uni-iptv.com:8000/magdi3/magdi3/3083
+#EXTINF:-1,BEIN_BABY
+http://uni-iptv.com:8000/magdi3/magdi3/2727
+#EXTINF:-1,BEIN_BABY_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6653
+#EXTINF:-1,BEIN_BARAAEM
+http://uni-iptv.com:8000/magdi3/magdi3/2108
+#EXTINF:-1,BEIN_BARAAEM_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6872
+#EXTINF:-1,BEIN_Boomerang
+http://uni-iptv.com:8000/magdi3/magdi3/3046
+#EXTINF:-1,BEIN_Boomerang_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6652
+#EXTINF:-1,BEIN_Boomerang_(Backup_2)
+http://uni-iptv.com:8000/magdi3/magdi3/33388
+#EXTINF:-1,BEIN_BBC_Earth
+http://uni-iptv.com:8000/magdi3/magdi3/19748
+#EXTINF:-1,BEIN_Box_Office_1
+http://uni-iptv.com:8000/magdi3/magdi3/8132
+#EXTINF:-1,BEIN_Cartoon_Network_Arabic
+http://uni-iptv.com:8000/magdi3/magdi3/26290
+#EXTINF:-1,BEIN_Cbeebies
+http://uni-iptv.com:8000/magdi3/magdi3/4004
+#EXTINF:-1,BEIN_CBS_Reality
+http://uni-iptv.com:8000/magdi3/magdi3/19449
+#EXTINF:-1,BEIN_D_Kids
+http://uni-iptv.com:8000/magdi3/magdi3/6655
+#EXTINF:-1,BEIN_D_Kids_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6873
+#EXTINF:-1,BEIN_Discovery_Life
+http://uni-iptv.com:8000/magdi3/magdi3/3589
+#EXTINF:-1,BEIN_Discovery_MAX
+http://uni-iptv.com:8000/magdi3/magdi3/3044
+#EXTINF:-1,BEIN_Discovery_MAX_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/8533
+#EXTINF:-1,BEIN_Drama
+http://uni-iptv.com:8000/magdi3/magdi3/6654
+#EXTINF:-1,BEIN_Drama_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/7752
+#EXTINF:-1,BEIN_DreamWorks
+http://uni-iptv.com:8000/magdi3/magdi3/3318
+#EXTINF:-1,BEIN_DTX
+http://uni-iptv.com:8000/magdi3/magdi3/3667
+#EXTINF:-1,BEIN_Extreme_Sports
+http://uni-iptv.com:8000/magdi3/magdi3/8622
+#EXTINF:-1,BEIN_Fatafeat
+http://uni-iptv.com:8000/magdi3/magdi3/2442
+#EXTINF:-1,BEIN_Fatafeat_Backup
+http://uni-iptv.com:8000/magdi3/magdi3/5483
+#EXTINF:-1,BEIN_Fine_Living
+http://uni-iptv.com:8000/magdi3/magdi3/33478
+#EXTINF:-1,BEIN_Food_Network
+http://uni-iptv.com:8000/magdi3/magdi3/2728
+#EXTINF:-1,BEIN_Food_Network_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/31954
+#EXTINF:-1,BEIN_Fox
+http://uni-iptv.com:8000/magdi3/magdi3/3232
+#EXTINF:-1,BEIN_Fox_Crime
+http://uni-iptv.com:8000/magdi3/magdi3/8506
+#EXTINF:-1,BEIN_Fox_Life
+http://uni-iptv.com:8000/magdi3/magdi3/8507
+#EXTINF:-1,BEIN_Fox_Movies
+http://uni-iptv.com:8000/magdi3/magdi3/3042
+#EXTINF:-1,BEIN_Fox_Rewayat
+http://uni-iptv.com:8000/magdi3/magdi3/8133
+#EXTINF:-1,BEIN_Gourmet
+http://uni-iptv.com:8000/magdi3/magdi3/3666
+#EXTINF:-1,BEIN_Gourmet_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/8532
+#EXTINF:-1,BEIN_HGTV
+http://uni-iptv.com:8000/magdi3/magdi3/3447
+#EXTINF:-1,BEIN_JEEM
+http://uni-iptv.com:8000/magdi3/magdi3/2572
+#EXTINF:-1,BEIN_JEEM_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6871
+#EXTINF:-1,BEIN_JUNIOR
+http://uni-iptv.com:8000/magdi3/magdi3/2610
+#EXTINF:-1,BEIN_Motrovesion
+http://uni-iptv.com:8000/magdi3/magdi3/3445
+#EXTINF:-1,BEIN_NBA
+http://uni-iptv.com:8000/magdi3/magdi3/3084
+#EXTINF:-1,BEIN_Series
+http://uni-iptv.com:8000/magdi3/magdi3/3043
+#EXTINF:-1,BEIN_Series_2
+http://uni-iptv.com:8000/magdi3/magdi3/6995
+#EXTINF:-1,BEIN_TCM
+http://uni-iptv.com:8000/magdi3/magdi3/3233
+#EXTINF:-1,BEIN_Travel_HD
+http://uni-iptv.com:8000/magdi3/magdi3/3045
+#EXTINF:-1,PH:BEIN_SPORTS_1_HD
+http://uni-iptv.com:8000/magdi3/magdi3/31993
+#EXTINF:-1,PH:BEIN_SPORTS_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/31992
+#EXTINF:-1,PH:BEIN_SPORTS_3_HD
+http://uni-iptv.com:8000/magdi3/magdi3/31991
+#EXTINF:-1,TR:BEIN_Box_Office_1
+http://uni-iptv.com:8000/magdi3/magdi3/775
+#EXTINF:-1,TR:BEIN_Box_Office_2
+http://uni-iptv.com:8000/magdi3/magdi3/812
+#EXTINF:-1,TR:BEIN_Box_Office_3
+http://uni-iptv.com:8000/magdi3/magdi3/813
+#EXTINF:-1,TR:BEIN_Box_Office-1
+http://uni-iptv.com:8000/magdi3/magdi3/1724
+#EXTINF:-1,TR:BEIN_Box_Office-2
+http://uni-iptv.com:8000/magdi3/magdi3/1725
+#EXTINF:-1,TR:BEIN_Box_Office-3
+http://uni-iptv.com:8000/magdi3/magdi3/1726
+#EXTINF:-1,TR:BEIN_GURME
+http://uni-iptv.com:8000/magdi3/magdi3/778
+#EXTINF:-1,TR:BEIN_HABER_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33474
+#EXTINF:-1,TR:BEIN_IZ_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33473
+#EXTINF:-1,TR:BEIN_Movies_Action_1_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33470
+#EXTINF:-1,TR:BEIN_Movies_Action_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33471
+#EXTINF:-1,TR:BEIN_Movies_Comedy_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33469
+#EXTINF:-1,TR:BEIN_Movies_Family_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33468
+#EXTINF:-1,TR:BEIN_Movies_Festival_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33467
+#EXTINF:-1,TR:BEIN_Movies_Premier_2_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33466
+#EXTINF:-1,TR:BEIN_Movies_Premier_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33465
+#EXTINF:-1,TR:BEIN_Movies_Premiere
+http://uni-iptv.com:8000/magdi3/magdi3/769
+#EXTINF:-1,TR:BEIN_Movies_Stars_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33464
+#EXTINF:-1,TR:BEIN_Movies_Turk
+http://uni-iptv.com:8000/magdi3/magdi3/776
+#EXTINF:-1,TR:BEIN_Movies_Turk_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33463
+#EXTINF:-1,TR:BEIN_Series_Comedy_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33462
+#EXTINF:-1,TR:BEIN_Series_Drama_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33461
+#EXTINF:-1,TR:BEIN_Series_Sci-Fi_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33460
+#EXTINF:-1,TR:BEIN_Series_Vice_HD
+http://uni-iptv.com:8000/magdi3/magdi3/33459
+#EXTINF:-1,TR:Bein_Sport_1
+http://uni-iptv.com:8000/magdi3/magdi3/568
+#EXTINF:-1,TR:Bein_Sport_2
+http://uni-iptv.com:8000/magdi3/magdi3/840
+#EXTINF:-1,TR:Bein_Sport_3
+http://uni-iptv.com:8000/magdi3/magdi3/841
+#EXTINF:-1,FR:BeinSport_1
+http://uni-iptv.com:8000/magdi3/magdi3/980
+#EXTINF:-1,FR:BeinSport_2
+http://uni-iptv.com:8000/magdi3/magdi3/981
+#EXTINF:-1,FR:BeinSport_3
+http://uni-iptv.com:8000/magdi3/magdi3/982
+#EXTINF:-1,FR:BeinSport_MAX_10
+http://uni-iptv.com:8000/magdi3/magdi3/7748
+#EXTINF:-1,FR:BeinSport_MAX_4
+http://uni-iptv.com:8000/magdi3/magdi3/983
+#EXTINF:-1,FR:BeinSport_MAX_5
+http://uni-iptv.com:8000/magdi3/magdi3/984
+#EXTINF:-1,FR:BeinSport_MAX_6
+http://uni-iptv.com:8000/magdi3/magdi3/985
+#EXTINF:-1,FR:BeinSport_MAX_7
+http://uni-iptv.com:8000/magdi3/magdi3/986
+#EXTINF:-1,FR:BeinSport_MAX_8
+http://uni-iptv.com:8000/magdi3/magdi3/987
+#EXTINF:-1,FR:BeinSport_MAX_9
+http://uni-iptv.com:8000/magdi3/magdi3/7749
+#EXTINF:-1,MALAYSIA:BEIN_SPORTS
+http://uni-iptv.com:8000/magdi3/magdi3/31904
+#EXTINF:-1,USA:Bein_Sports_USA
+http://uni-iptv.com:8000/magdi3/magdi3/3333
+#EXTINF:-1,ES:Bein_Sports_HD
+http://uni-iptv.com:8000/magdi3/magdi3/2584
+#EXTINF:-1,ES:Bein_Sports_La_Liga
+http://uni-iptv.com:8000/magdi3/magdi3/2586
+#EXTINF:-1,[TR] Bein Sport Haber HD
+http://aiptv.pro:8000/owm/owm/6900
+#EXTINF:-1,[ TR ] BEINSPORT HABER
+http://aiptv.pro:8000/owm/owm/7748
+#EXTINF:-1,[TR]BEINMOVIES-FAMILY-HD
+http://aiptv.pro:8000/owm/owm/3502
+#EXTINF:-1,[TR]BEINMOVIES-COMEDY-HD
+http://aiptv.pro:8000/owm/owm/3503
+#EXTINF:-1,[TR]BEINMOVIES-ACTION
+http://aiptv.pro:8000/owm/owm/3504
+#EXTINF:-1,[AR]BEINSPOR-NEWS-HD
+http://aiptv.pro:8000/owm/owm/13
+#EXTINF:-1,[AR]BEINSPOR-1-HD
+http://aiptv.pro:8000/owm/owm/39
+#EXTINF:-1,[AR]BEINSPOR-2-HD
+http://aiptv.pro:8000/owm/owm/40
+#EXTINF:-1,[AR]BEINSPOR-3-HD
+http://aiptv.pro:8000/owm/owm/41
+#EXTINF:-1,[AR]BEINSPOR-4-HD
+http://aiptv.pro:8000/owm/owm/42
+#EXTINF:-1,[AR]BEINSPOR-5-HD
+http://aiptv.pro:8000/owm/owm/43
+#EXTINF:-1,[AR]BEINSPOR-6-HD
+http://aiptv.pro:8000/owm/owm/44
+#EXTINF:-1,[AR]BEINSPOR-7-HD
+http://aiptv.pro:8000/owm/owm/45
+#EXTINF:-1,[AR]BEINSPOR-8-HD
+http://aiptv.pro:8000/owm/owm/46
+#EXTINF:-1,[AR]BEINSPOR-9-HD
+http://aiptv.pro:8000/owm/owm/47
+#EXTINF:-1,[AR]BEINSPOR-10-HD
+http://aiptv.pro:8000/owm/owm/48
+#EXTINF:-1,[AR]BEINSPOR-11-HD
+http://aiptv.pro:8000/owm/owm/49
+#EXTINF:-1,[AR]BEINSPOR-12-HD
+http://aiptv.pro:8000/owm/owm/50
+#EXTINF:-1,[AR]BEIN-MOVIES-4
+http://aiptv.pro:8000/owm/owm/262
+#EXTINF:-1,[AR]BEIN-MOVIES-3
+http://aiptv.pro:8000/owm/owm/238
+#EXTINF:-1,[AR]BEIN-MOVIES-2
+http://aiptv.pro:8000/owm/owm/237
+#EXTINF:-1,[AR]BEIN-MOVIES-1
+http://aiptv.pro:8000/owm/owm/236
+#EXTINF:-1,[AR] Bein Sport HD
+http://aiptv.pro:8000/owm/owm/3497
+#EXTINF:-1,[Vip] Bein Sport 1 SD 480p
+http://aiptv.pro:8000/owm/owm/15058
+#EXTINF:-1,[Vip] Bein Sport Max 1 HD 720p
+http://aiptv.pro:8000/owm/owm/6122
+#EXTINF:-1,[Vip] Bein Sport Max 2 HD 720p
+http://aiptv.pro:8000/owm/owm/6123
+#EXTINF:-1,[Vip] Bein Sport Max 1 HD 1080p
+http://aiptv.pro:8000/owm/owm/15563
+#EXTINF:-1,[Vip] Bein Sport Max 2 HD 1080p
+http://aiptv.pro:8000/owm/owm/15564
+#EXTINF:-1,[Vip]BEINSPORT-1-HD
+http://aiptv.pro:8000/owm/owm/2761
+#EXTINF:-1,[Vip]BEINSPORT-2-HD
+http://aiptv.pro:8000/owm/owm/2763
+#EXTINF:-1,[Vip]BEINSPORT-3-HD
+http://aiptv.pro:8000/owm/owm/2764
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-1-HD
+http://aiptv.pro:8000/owm/owm/5648
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-2-HD
+http://aiptv.pro:8000/owm/owm/5649
+#EXTINF:-1,[VIP]BEIN-BOXOFFICE-3-HD
+http://aiptv.pro:8000/owm/owm/5650
+#EXTINF:-1,[Vip]BEIN-IZ
+http://aiptv.pro:8000/owm/owm/2864
+#EXTINF:-1,[ VIP ] BEINSPOR 1 HD [AR]
+http://aiptv.pro:8000/owm/owm/927
+#EXTINF:-1,[ VIP ] BEINSPOR 2 HD [AR]
+http://aiptv.pro:8000/owm/owm/928
+#EXTINF:-1,[ VIP ] BEINSPOR 3 HD [AR]
+http://aiptv.pro:8000/owm/owm/929
+#EXTINF:-1,[ VIP ] BEINSPOR 4 HD [AR]
+http://aiptv.pro:8000/owm/owm/930
+#EXTINF:-1,[ VIP ] BEINSPOR 5 HD [AR]
+http://aiptv.pro:8000/owm/owm/931
+#EXTINF:-1,[ VIP ] BEINSPOR 6 HD [AR]
+http://aiptv.pro:8000/owm/owm/932
+#EXTINF:-1,[ VIP ] BEINSPOR 7 HD [AR]
+http://aiptv.pro:8000/owm/owm/933
+#EXTINF:-1,[ VIP ] BEINSPOR 8 HD [AR]
+http://aiptv.pro:8000/owm/owm/934
+#EXTINF:-1,[ VIP ] BEINSPOR 9 HD [AR]
+http://aiptv.pro:8000/owm/owm/935
+#EXTINF:-1,[ VIP ] BEINSPOR 10 HD [AR]
+http://aiptv.pro:8000/owm/owm/936
+#EXTINF:-1,[ VIP ] BEINSPOR 11 HD [AR]
+http://aiptv.pro:8000/owm/owm/937
+#EXTINF:-1,[ VIP ] BEINSPOR 12 HD [AR]
+http://aiptv.pro:8000/owm/owm/938
+#EXTINF:-1,[AR] Bein Nat Geo Wild HD
+http://aiptv.pro:8000/owm/owm/5677
+#EXTINF:-1,[AR] Bein Animal Planet HD
+http://aiptv.pro:8000/owm/owm/960
+#EXTINF:-1,[AR] BEIN FOX MOVIES TV HD
+http://aiptv.pro:8000/owm/owm/8329
+#EXTINF:-1,[Vip]BEINMOVIES-TURK(DIGITURK)
+http://aiptv.pro:8000/owm/owm/2911
+#EXTINF:-1,[VIP]BEINMOVIES STARS HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6126
+#EXTINF:-1,[VIP]BEINMOVIES FAMILY HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6125
+#EXTINF:-1,[VIP]BEINMOVIES ACTION(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6124
+#EXTINF:-1,[VIP]beIN MOVIES ACTION 2 HD ( Bein Media )
+http://aiptv.pro:8000/owm/owm/5799
+#EXTINF:-1,[VIP]BEIN MOVIES FESTIVAL HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6129
+#EXTINF:-1,[VIP]BEIN MOViES PREMiER HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6127
+#EXTINF:-1,[VIP]beIN MOVIES PREMIER 2 HD (Bein Media)
+http://aiptv.pro:8000/owm/owm/5800
+#EXTINF:-1,[VIP]BEIN MOViES  COMEDY HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6128
+#EXTINF:-1,[VIP]beIN Series Vice HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6136
+#EXTINF:-1,[VIP]beIN Series Sci-Fi HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6137
+#EXTINF:-1,[VIP]beIN Series Comedy HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6134
+#EXTINF:-1,[VIP] beIN Series Drama HD(beIN Media Group)
+http://aiptv.pro:8000/owm/owm/6135
+#EXTINF:-1,[FR] BEIN SPORT 1 HD
+http://aiptv.pro:8000/owm/owm/10367
+#EXTINF:-1,[FR] BEIN SPORT 2 HD
+http://aiptv.pro:8000/owm/owm/10366
+#EXTINF:-1,[FR] BEIN SPORT 3 HD
+http://aiptv.pro:8000/owm/owm/10365
+#EXTINF:-1,[FR] BEIN SPORT MAX 10
+http://aiptv.pro:8000/owm/owm/10358
+#EXTINF:-1,[FR] BEIN SPORT MAX 4
+http://aiptv.pro:8000/owm/owm/10364
+#EXTINF:-1,[FR] BEIN SPORT MAX 5
+http://aiptv.pro:8000/owm/owm/10363
+#EXTINF:-1,[FR] BEIN SPORT MAX 6
+http://aiptv.pro:8000/owm/owm/10362
+#EXTINF:-1,[FR] BEIN SPORT MAX 7
+http://aiptv.pro:8000/owm/owm/10361
+#EXTINF:-1,[FR] BEIN SPORT MAX 8
+http://aiptv.pro:8000/owm/owm/10360
+#EXTINF:-1,[FR] BEIN SPORT MAX 9
+http://aiptv.pro:8000/owm/owm/10359
+#EXTINF:-1,[US] BEIN SPORTS
+http://aiptv.pro:8000/owm/owm/10519
+#EXTINF:-1,[ES] BEIN SPORTS
+http://aiptv.pro:8000/owm/owm/11031
+#EXTINF:-1,[ES] BEIN SPORTS LaLiga
+http://aiptv.pro:8000/owm/owm/11032
+#EXTINF:-1,[ES]BEIN-SPORT
+http://aiptv.pro:8000/owm/owm/1998
+#EXTINF:-1,[ES]BEIN-SPORT-LIGA-HD
+http://aiptv.pro:8000/owm/owm/206
+#EXTINF:-1,[TR]BEINMOVIES ACTION HD
+http://aiptv.pro:8000/owm/owm/10201
+#EXTINF:-1,[Vip]BEINSPORT-4-HD
+http://aiptv.pro:8000/owm/owm/2765
+#EXTINF:-1,[VIP]BEIN BOXOFICE 1 HD
+http://aiptv.pro:8000/owm/owm/10232
+#EXTINF:-1,[VIP]BEIN BOXOFICE 2 HD
+http://aiptv.pro:8000/owm/owm/10233
+#EXTINF:-1,[VIP]BEIN BOXOFICE 3 HD
+http://aiptv.pro:8000/owm/owm/10234
+#EXTINF:-1,[AR] BEIN SERIES 1
+http://aiptv.pro:8000/owm/owm/8330
+#EXTINF:-1,[AR] BEIN GOURMET
+http://aiptv.pro:8000/owm/owm/11166
 #EXTINF:-1,FR: beIN SPORTS FR 1 HD
 http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/561.ts
 #EXTINF:-1,FR: beIN SPORTS FR 2 HD
@@ -29,90 +769,6 @@ http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/214.ts
 http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/215.ts
 #EXTINF:-1,BEIN SPORT 9 HD
 http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/216.ts
-#EXTINF:-1,FR: beIN SPORTS FR 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/561.ts
-#EXTINF:-1,FR: beIN SPORTS FR 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/562.ts
-#EXTINF:-1,FR__beIN SPORTS FR 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/563.ts
-#EXTINF:-1,BEIN SPORT 10
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/506.ts
-#EXTINF:-1,===== BEINSPORT=====
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/1317.ts
-#EXTINF:-1,BEIN SPORT 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/208.ts
-#EXTINF:-1,BEIN SPORT 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/209.ts
-#EXTINF:-1,BEIN SPORT 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/210.ts
-#EXTINF:-1,BEIN SPORT 4 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/211.ts
-#EXTINF:-1,BEIN SPORT 5 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/212.ts
-#EXTINF:-1,BEIN SPORT 6 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/213.ts
-#EXTINF:-1,BEIN SPORT 7 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/214.ts
-#EXTINF:-1,BEIN SPORT 8 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/215.ts
-#EXTINF:-1,BEIN SPORT 9 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/216.ts
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/375
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/376
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37774
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37783
-#EXTINF:-1,AR:beIN SPORT 11 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37784
-#EXTINF:-1,AR:beIN SPORT 12 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37785
-#EXTINF:-1,AR:beIN SPORT 2 HD.
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37775
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37776
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37777
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37778
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37779
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37780
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37781
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37782
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/375
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/376
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37774
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37783
-#EXTINF:-1,AR:beIN SPORT 11 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37784
-#EXTINF:-1,AR:beIN SPORT 12 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37785
-#EXTINF:-1,AR:beIN SPORT 2 HD.
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37775
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37776
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37777
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37778
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37779
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37780
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37781
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://izgemma.ddns.net:8000/Vaz_Test/vOc2Ol1fw7/37782
 #EXTINF:-1,FR: BEIN SPORT 1 --WWW.IPMAGTV.COM
 http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/6.ts
 #EXTINF:-1,FR: BEIN SPORT 2 --WWW.IPMAGTV.COM
@@ -131,374 +787,1158 @@ http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/4.ts
 http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/5.ts
 #EXTINF:-1,AR: BEIN SPORT 6 --WWW.IPMAGTV.COM
 http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/484.ts
-#EXTINF:-1,FR: beIN SPORTS FR 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/561.ts
-#EXTINF:-1,FR: beIN SPORTS FR 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/562.ts
-#EXTINF:-1,FR__beIN SPORTS FR 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/563.ts
-#EXTINF:-1,BEIN SPORT 10
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/506.ts
-#EXTINF:-1,===== BEINSPORT=====
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/1317.ts
-#EXTINF:-1,BEIN SPORT 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/208.ts
-#EXTINF:-1,BEIN SPORT 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/209.ts
-#EXTINF:-1,BEIN SPORT 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/210.ts
-#EXTINF:-1,BEIN SPORT 4 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/211.ts
-#EXTINF:-1,BEIN SPORT 5 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/212.ts
-#EXTINF:-1,BEIN SPORT 6 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/213.ts
-#EXTINF:-1,BEIN SPORT 7 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/214.ts
-#EXTINF:-1,BEIN SPORT 8 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/215.ts
-#EXTINF:-1,BEIN SPORT 9 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/216.ts
-#EXTINF:-1,FR: BEIN SPORT 1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/6.ts
-#EXTINF:-1,FR: BEIN SPORT 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/7.ts
-#EXTINF:-1,FR: BEIN SPORT 3 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/8.ts
-#EXTINF:-1,AR: BEIN SPORT 1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/1.ts
-#EXTINF:-1,AR: BEIN SPORT 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/2.ts
-#EXTINF:-1,AR: BEIN SPORT 3 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/3.ts
-#EXTINF:-1,AR: BEIN SPORT 4 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/4.ts
-#EXTINF:-1,AR: BEIN SPORT 5 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/5.ts
-#EXTINF:-1,AR: BEIN SPORT 6 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/484.ts
-#EXTINF:-1,FR: beIN SPORTS FR 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/561.ts
-#EXTINF:-1,FR: beIN SPORTS FR 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/562.ts
-#EXTINF:-1,FR__beIN SPORTS FR 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/563.ts
-#EXTINF:-1,BEIN SPORT 10
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/506.ts
-#EXTINF:-1,===== BEINSPORT=====
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/1317.ts
-#EXTINF:-1,BEIN SPORT 1 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/208.ts
-#EXTINF:-1,BEIN SPORT 2 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/209.ts
-#EXTINF:-1,BEIN SPORT 3 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/210.ts
-#EXTINF:-1,BEIN SPORT 4 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/211.ts
-#EXTINF:-1,BEIN SPORT 5 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/212.ts
-#EXTINF:-1,BEIN SPORT 6 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/213.ts
-#EXTINF:-1,BEIN SPORT 7 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/214.ts
-#EXTINF:-1,BEIN SPORT 8 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/215.ts
-#EXTINF:-1,BEIN SPORT 9 HD
-http://xtrastv.pointto.us:8000/live/tele7web/JBlFEKdUSS/216.ts
-#EXTINF:-1,bein france 1
-http://51.15.161.236:25461/live/allchannels/all_pannels/143.ts
-#EXTINF:-1,bein france 2
-http://51.15.161.236:25461/live/allchannels/all_pannels/144.ts
-#EXTINF:-1,bein france 3
-http://51.15.161.236:25461/live/allchannels/all_pannels/145.ts
-#EXTINF:-1,beINSport 1 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/161.ts
-#EXTINF:-1,beINSport 2 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/162.ts
-#EXTINF:-1,beINSport 3 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/163.ts
-#EXTINF:-1,beINSport 4 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/164.ts
-#EXTINF:-1,beINSport 5 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/165.ts
-#EXTINF:-1,beINSport 6 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/166.ts
-#EXTINF:-1,beINSport 7 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/167.ts
-#EXTINF:-1,beINSport 8 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/168.ts
-#EXTINF:-1,beINSport 9 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/169.ts
-#EXTINF:-1,beINSport 10 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/170.ts
-#EXTINF:-1,beINSport 11 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/171.ts
-#EXTINF:-1,beINSport 12 HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/172.ts
-#EXTINF:-1,BEin Sports EPL 1
-http://51.15.161.236:25461/live/allchannels/all_pannels/893.ts
-#EXTINF:-1,BEin Sports EPL 2
-http://51.15.161.236:25461/live/allchannels/all_pannels/894.ts
-#EXTINF:-1,BEin Sports EPL 3
-http://51.15.161.236:25461/live/allchannels/all_pannels/895.ts
-#EXTINF:-1,BEin Sports EPL 4
-http://51.15.161.236:25461/live/allchannels/all_pannels/896.ts
-#EXTINF:-1,BEin Football 1
-http://51.15.161.236:25461/live/allchannels/all_pannels/2309.ts
-#EXTINF:-1,BEin Football 2
-http://51.15.161.236:25461/live/allchannels/all_pannels/2310.ts
-#EXTINF:-1,BEin Football 3
-http://51.15.161.236:25461/live/allchannels/all_pannels/2311.ts
-#EXTINF:-1,BeIN Sport 1 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/52.ts
-#EXTINF:-1,BeIN SPORTS 2 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/53.ts
-#EXTINF:-1,BeIN SPORTS 3 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/54.ts
-#EXTINF:-1,BeIN SPORTS 4 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/55.ts
-#EXTINF:-1,BeIN SPORTS 5 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/56.ts
-#EXTINF:-1,BeIN SPORTS 6 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/57.ts
-#EXTINF:-1,BeIN SPORTS 7 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/58.ts
-#EXTINF:-1,BeIN SPORTS 8 HD (AR).
-http://51.15.3.71:8000/live/meris/meris/59.ts
-#EXTINF:-1,BeIN Sorts 9 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/60.ts
-#EXTINF:-1,BeIN SPORTS 10 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/61.ts
-#EXTINF:-1,BeIN Sport 1 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/52.ts
-#EXTINF:-1,BeIN SPORTS 2 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/53.ts
-#EXTINF:-1,BeIN SPORTS 3 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/54.ts
-#EXTINF:-1,BeIN SPORTS 4 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/55.ts
-#EXTINF:-1,BeIN SPORTS 5 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/56.ts
-#EXTINF:-1,BeIN SPORTS 6 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/57.ts
-#EXTINF:-1,BeIN SPORTS 7 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/58.ts
-#EXTINF:-1,BeIN SPORTS 8 HD (AR).
-http://51.15.3.71:8000/live/meris/meris/59.ts
-#EXTINF:-1,BeIN Sorts 9 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/60.ts
-#EXTINF:-1,BeIN SPORTS 10 HD (AR)
-http://51.15.3.71:8000/live/meris/meris/61.ts
-#EXTINF:-1,beIN Sport 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/80.ts
-#EXTINF:-1,beIN Sport 10 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/71.ts
-#EXTINF:-1,beIN Sport 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/79.ts
-#EXTINF:-1,beIN Sport 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/78.ts
-#EXTINF:-1,beIN Sport 4 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/77.ts
-#EXTINF:-1,beIN Sport 5 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/76.ts
-#EXTINF:-1,beIN Sport 6 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/75.ts
-#EXTINF:-1,beIN Sport 7 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/74.ts
-#EXTINF:-1,BeIN Sport 8 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/73.ts
-#EXTINF:-1,beIN Sport 9 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/72.ts
-#EXTINF:-1,beIN Sport 11 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2859.ts
-#EXTINF:-1,beIN Sport 12 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2858.ts
-#EXTINF:-1,beIN Sport 13 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2857.ts
-#EXTINF:-1,beIN Sport 14 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2856.ts
-#EXTINF:-1,beIN Sport 15 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2855.ts
-#EXTINF:-1,beIN Junior
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/272.ts
-#EXTINF:-1,BeIN Gourmet
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1952.ts
-#EXTINF:-1,beIN Movies 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1953.ts
-#EXTINF:-1,beIN Movies 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1957.ts
-#EXTINF:-1,beIN Movies 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1956.ts
-#EXTINF:-1,beIN Movies 4 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1955.ts
-#EXTINF:-1,beIN Series 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1954.ts
-#EXTINF:-1,beIN Sport 1 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1999.ts
-#EXTINF:-1,beIN Sport 10 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1990.ts
-#EXTINF:-1,beIN Sport 2 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1998.ts
-#EXTINF:-1,beIN Sport 3 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1997.ts
-#EXTINF:-1,beIN Sport 4 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1996.ts
-#EXTINF:-1,beIN Sport 5 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1995.ts
-#EXTINF:-1,beIN Sport 6 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1994.ts
-#EXTINF:-1,beIN Sport 7 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1993.ts
-#EXTINF:-1,BeIN Sport 8 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1992.ts
-#EXTINF:-1,beIN Sport 9 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1991.ts
-#EXTINF:-1,FR:BeIN Sport 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2472.ts
-#EXTINF:-1,FR:BeIN Sport 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2471.ts
-#EXTINF:-1,FR:BeIN Sport 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2470.ts
-#EXTINF:-1,BEIN_SPORT_HD_1
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2901.ts
-#EXTINF:-1,BEIN_SPORT_HD_2
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2900.ts
-#EXTINF:-1,BEIN_SPORT_HD_3
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2899.ts
-#EXTINF:-1,BEIN_SPORT_HD_4
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2898.ts
-#EXTINF:-1,BEIN_SPORT_HD_5
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2897.ts
-#EXTINF:-1,BEIN_SPORT_HD_6
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2896.ts
-#EXTINF:-1,BEIN_SPORT_HD_7
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2895.ts
-#EXTINF:-1,BEIN_SPORT_HD_8
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2894.ts
-#EXTINF:-1,Spanish-beIN LaLiga 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3438.ts
-#EXTINF:-1,Spanish-beIN LaLiga 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3437.ts
-#EXTINF:-1,Spanish-beIN LaLiga HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3439.ts
-#EXTINF:-1,Spanish-Bein Max 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3441.ts
-#EXTINF:-1,Spanish-Bein Max 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3442.ts
-#EXTINF:-1,Spanish-Bein Sports HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3444.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3489.ts
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3491.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3490.ts
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3492.ts
-#EXTINF:-1,beIN Sport 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/80.ts
-#EXTINF:-1,beIN Sport 10 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/71.ts
-#EXTINF:-1,beIN Sport 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/79.ts
-#EXTINF:-1,beIN Sport 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/78.ts
-#EXTINF:-1,beIN Sport 4 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/77.ts
-#EXTINF:-1,beIN Sport 5 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/76.ts
-#EXTINF:-1,beIN Sport 6 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/75.ts
-#EXTINF:-1,beIN Sport 7 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/74.ts
-#EXTINF:-1,BeIN Sport 8 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/73.ts
-#EXTINF:-1,beIN Sport 9 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/72.ts
-#EXTINF:-1,beIN Sport 11 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2859.ts
-#EXTINF:-1,beIN Sport 12 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2858.ts
-#EXTINF:-1,beIN Sport 13 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2857.ts
-#EXTINF:-1,beIN Sport 14 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2856.ts
-#EXTINF:-1,beIN Sport 15 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2855.ts
-#EXTINF:-1,beIN Junior
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/272.ts
-#EXTINF:-1,BeIN Gourmet
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1952.ts
-#EXTINF:-1,beIN Movies 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1953.ts
-#EXTINF:-1,beIN Movies 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1957.ts
-#EXTINF:-1,beIN Movies 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1956.ts
-#EXTINF:-1,beIN Movies 4 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1955.ts
-#EXTINF:-1,beIN Series 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1954.ts
-#EXTINF:-1,beIN Sport 1 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1999.ts
-#EXTINF:-1,beIN Sport 10 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1990.ts
-#EXTINF:-1,beIN Sport 2 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1998.ts
-#EXTINF:-1,beIN Sport 3 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1997.ts
-#EXTINF:-1,beIN Sport 4 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1996.ts
-#EXTINF:-1,beIN Sport 5 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1995.ts
-#EXTINF:-1,beIN Sport 6 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1994.ts
-#EXTINF:-1,beIN Sport 7 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1993.ts
-#EXTINF:-1,BeIN Sport 8 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1992.ts
-#EXTINF:-1,beIN Sport 9 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/1991.ts
-#EXTINF:-1,FR:BeIN Sport 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2472.ts
-#EXTINF:-1,FR:BeIN Sport 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2471.ts
-#EXTINF:-1,FR:BeIN Sport 3 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2470.ts
-#EXTINF:-1,BEIN_SPORT_HD_1
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2901.ts
-#EXTINF:-1,BEIN_SPORT_HD_2
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2900.ts
-#EXTINF:-1,BEIN_SPORT_HD_3
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2899.ts
-#EXTINF:-1,BEIN_SPORT_HD_4
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2898.ts
-#EXTINF:-1,BEIN_SPORT_HD_5
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2897.ts
-#EXTINF:-1,BEIN_SPORT_HD_6
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2896.ts
-#EXTINF:-1,BEIN_SPORT_HD_7
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2895.ts
-#EXTINF:-1,BEIN_SPORT_HD_8
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2894.ts
-#EXTINF:-1,Spanish-beIN LaLiga 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3438.ts
-#EXTINF:-1,Spanish-beIN LaLiga 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3437.ts
-#EXTINF:-1,Spanish-beIN LaLiga HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3439.ts
-#EXTINF:-1,Spanish-Bein Max 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3441.ts
-#EXTINF:-1,Spanish-Bein Max 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3442.ts
-#EXTINF:-1,Spanish-Bein Sports HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3444.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3489.ts
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3491.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3490.ts
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/3492.ts
+#EXTINF:-1,USA | BEIN Sports HD 1080P-
+http://x.mytvxweb.me:25461/john/john/27376
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 1 HD
+http://x.mytvxweb.me:25461/john/john/283281
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 2 HD
+http://x.mytvxweb.me:25461/john/john/283280
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 3 | UHD
+http://x.mytvxweb.me:25461/john/john/283279
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 4 | UHD
+http://x.mytvxweb.me:25461/john/john/283278
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 5 | UHD
+http://x.mytvxweb.me:25461/john/john/283277
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 6 | UHD
+http://x.mytvxweb.me:25461/john/john/283276
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 7 | UHD
+http://x.mytvxweb.me:25461/john/john/283275
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 8 | UHD
+http://x.mytvxweb.me:25461/john/john/283274
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 9 | UHD
+http://x.mytvxweb.me:25461/john/john/283273
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 10 | UHD
+http://x.mytvxweb.me:25461/john/john/283272
+#EXTINF:-1,ES | beIN La Liga123 HD-
+http://x.mytvxweb.me:25461/john/john/11815
+#EXTINF:-1,ES | beIN Max 1 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11814
+#EXTINF:-1,ES | beIN Max 2 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11816
+#EXTINF:-1,ES | beIN Max 3 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11818
+#EXTINF:-1,ES | beIN Max 4 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11819
+#EXTINF:-1,ES | beIN Max 5 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11820
+#EXTINF:-1,ES | beIN Max 6 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11821
+#EXTINF:-1,ES | beIN Max 7 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11822
+#EXTINF:-1,ES | Bein Sports HD-
+http://x.mytvxweb.me:25461/john/john/1225
+#EXTINF:-1,ES | BEIN LALIGA3 (event only)
+http://x.mytvxweb.me:25461/john/john/283298
+#EXTINF:-1,ES | BEIN LALIGA2 (event only)
+http://x.mytvxweb.me:25461/john/john/283299
+#EXTINF:-1,ES | BEIN LALIGA1 (event only)
+http://x.mytvxweb.me:25461/john/john/283300
+#EXTINF:-1,ES | BEINLALIGA8
+http://x.mytvxweb.me:25461/john/john/283312
+#EXTINF:-1,ES | BEINLALIGA7
+http://x.mytvxweb.me:25461/john/john/283313
+#EXTINF:-1,ES | BEINLALIGA6
+http://x.mytvxweb.me:25461/john/john/283314
+#EXTINF:-1,ES | BEINLALIGA5
+http://x.mytvxweb.me:25461/john/john/283315
+#EXTINF:-1,ES | BEINLALIGA4
+http://x.mytvxweb.me:25461/john/john/283316
+#EXTINF:-1,ES | BEINLALIGA3
+http://x.mytvxweb.me:25461/john/john/283317
+#EXTINF:-1,ES | BEINLALIGA2
+http://x.mytvxweb.me:25461/john/john/283318
+#EXTINF:-1,ES | BEINLALIGA1
+http://x.mytvxweb.me:25461/john/john/283319
+#EXTINF:-1,ES | BEIN LALIGA HD
+http://x.mytvxweb.me:25461/john/john/283359
+#EXTINF:-1,ES | BEIN LALIGA FHD
+http://x.mytvxweb.me:25461/john/john/283360
+#EXTINF:-1,ES | BEIN LALIGA 8
+http://x.mytvxweb.me:25461/john/john/283361
+#EXTINF:-1,ES | BEIN LALIGA 7
+http://x.mytvxweb.me:25461/john/john/283362
+#EXTINF:-1,ES | BEIN LALIGA 6
+http://x.mytvxweb.me:25461/john/john/283363
+#EXTINF:-1,ES | BEIN LALIGA 2 FHD
+http://x.mytvxweb.me:25461/john/john/283364
+#EXTINF:-1,ES | BEIN LALIGA 1 HD
+http://x.mytvxweb.me:25461/john/john/283365
+#EXTINF:-1,ES | BEIN LALIGA 1
+http://x.mytvxweb.me:25461/john/john/283366
+#EXTINF:-1,ES | BEIN LALIGA
+http://x.mytvxweb.me:25461/john/john/283367
+#EXTINF:-1,ES | BEIN  LALIGA 2
+http://x.mytvxweb.me:25461/john/john/283368
+#EXTINF:-1,ES | BEIN LALIGA 5
+http://x.mytvxweb.me:25461/john/john/283369
+#EXTINF:-1,ES | BEIN  LALIGA 4
+http://x.mytvxweb.me:25461/john/john/283370
+#EXTINF:-1,ES | BEIN  LALIGA 3
+http://x.mytvxweb.me:25461/john/john/283371
+#EXTINF:-1,CA | BEIN SPORTS-
+http://x.mytvxweb.me:25461/john/john/35679
+#EXTINF:-1,AR | BARAEM Bein-
+http://x.mytvxweb.me:25461/john/john/14044
+#EXTINF:-1,AR | BEIN MOVIES 1HD-
+http://x.mytvxweb.me:25461/john/john/13928
+#EXTINF:-1,AR | BEIN MOVIES 2HD-
+http://x.mytvxweb.me:25461/john/john/13927
+#EXTINF:-1,AR | BEIN MOVIES 4 HD-
+http://x.mytvxweb.me:25461/john/john/14042
+#EXTINF:-1,AR | beIN SPorts-
+http://x.mytvxweb.me:25461/john/john/14041
+#EXTINF:-1,AR | beIN Sports 1 HD-
+http://x.mytvxweb.me:25461/john/john/14040
+#EXTINF:-1,AR | Bein Sports 02 HD-
+http://x.mytvxweb.me:25461/john/john/1039
+#EXTINF:-1,AR | beIN Sports 3 HD-
+http://x.mytvxweb.me:25461/john/john/14030
+#EXTINF:-1,AR | beIN Sports 4 HD-
+http://x.mytvxweb.me:25461/john/john/14029
+#EXTINF:-1,AR | beIN Sports 5 HD-
+http://x.mytvxweb.me:25461/john/john/14028
+#EXTINF:-1,AR | beIN Sports 6 HD-
+http://x.mytvxweb.me:25461/john/john/14027
+#EXTINF:-1,AR | beIN Sports 7 HD-
+http://x.mytvxweb.me:25461/john/john/14026
+#EXTINF:-1,AR | beIN Sports 8 HD-
+http://x.mytvxweb.me:25461/john/john/1045
+#EXTINF:-1,AR | beIN Sports 9 HD-
+http://x.mytvxweb.me:25461/john/john/14024
+#EXTINF:-1,AR | beIN Sports 10 HD-
+http://x.mytvxweb.me:25461/john/john/14039
+#EXTINF:-1,AR | beIN Sports 11 HD-
+http://x.mytvxweb.me:25461/john/john/14038
+#EXTINF:-1,AR | beIN Sports 12 HD-
+http://x.mytvxweb.me:25461/john/john/14037
+#EXTINF:-1,AR | beIN Sports 13 HD-
+http://x.mytvxweb.me:25461/john/john/14036
+#EXTINF:-1,AR | beIN Sports 14 HD-
+http://x.mytvxweb.me:25461/john/john/14035
+#EXTINF:-1,AR | Bein Sports 15 HD-
+http://x.mytvxweb.me:25461/john/john/14034
+#EXTINF:-1,AR | Bein Sports 16 HD-
+http://x.mytvxweb.me:25461/john/john/14033
+#EXTINF:-1,AR | Bein Sports 17 HD-
+http://x.mytvxweb.me:25461/john/john/14032
+#EXTINF:-1,AR VIP | Bein AMC HD-
+http://x.mytvxweb.me:25461/john/john/13754
+#EXTINF:-1,AR VIP | Bein Baby HD-
+http://x.mytvxweb.me:25461/john/john/13753
+#EXTINF:-1,AR VIP | Bein Baraem-
+http://x.mytvxweb.me:25461/john/john/13752
+#EXTINF:-1,AR VIP | Bein Dlife HD-
+http://x.mytvxweb.me:25461/john/john/13751
+#EXTINF:-1,AR VIP | Bein Dreamwork HD-
+http://x.mytvxweb.me:25461/john/john/13750
+#EXTINF:-1,AR VIP | Bein Extreme Sport HD-
+http://x.mytvxweb.me:25461/john/john/13749
+#EXTINF:-1,AR VIP | Bein Fatafeat HD-
+http://x.mytvxweb.me:25461/john/john/13748
+#EXTINF:-1,AR VIP | Bein Fox HD-
+http://x.mytvxweb.me:25461/john/john/13747
+#EXTINF:-1,AR VIP | Bein Fox Movies HD-
+http://x.mytvxweb.me:25461/john/john/13746
+#EXTINF:-1,AR VIP | Bein Jeem HD-
+http://x.mytvxweb.me:25461/john/john/13745
+#EXTINF:-1,AR VIP | Bein Junior HD-
+http://x.mytvxweb.me:25461/john/john/13744
+#EXTINF:-1,AR VIP | Bein max-
+http://x.mytvxweb.me:25461/john/john/13743
+#EXTINF:-1,AR VIP | Bein max 1-
+http://x.mytvxweb.me:25461/john/john/13742
+#EXTINF:-1,AR VIP | Bein Max 1 HD-
+http://x.mytvxweb.me:25461/john/john/13741
+#EXTINF:-1,AR VIP | Bein Max 2 HD-
+http://x.mytvxweb.me:25461/john/john/13740
+#EXTINF:-1,AR VIP | Bein Max 3 HD-
+http://x.mytvxweb.me:25461/john/john/13739
+#EXTINF:-1,AR VIP | BeIN Movies 1HD-
+http://x.mytvxweb.me:25461/john/john/13738
+#EXTINF:-1,AR VIP | BeIN Movies 2HD-
+http://x.mytvxweb.me:25461/john/john/13737
+#EXTINF:-1,AR VIP | BeIN Movies 3HD-
+http://x.mytvxweb.me:25461/john/john/13736
+#EXTINF:-1,AR VIP | BeIN Movies 4HD-
+http://x.mytvxweb.me:25461/john/john/13735
+#EXTINF:-1,AR VIP | Bein NBA HD-
+http://x.mytvxweb.me:25461/john/john/13734
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 01-
+http://x.mytvxweb.me:25461/john/john/13730
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 02-
+http://x.mytvxweb.me:25461/john/john/13729
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 03-
+http://x.mytvxweb.me:25461/john/john/13728
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 04-
+http://x.mytvxweb.me:25461/john/john/13727
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 05-
+http://x.mytvxweb.me:25461/john/john/13726
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 06-
+http://x.mytvxweb.me:25461/john/john/13725
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 07-
+http://x.mytvxweb.me:25461/john/john/13724
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 08 HD-
+http://x.mytvxweb.me:25461/john/john/13732
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 09 HD-
+http://x.mytvxweb.me:25461/john/john/13731
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 10 HD-
+http://x.mytvxweb.me:25461/john/john/13733
+#EXTINF:-1,AR VIP | Bein Sport 01 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13821
+#EXTINF:-1,AR VIP | Bein Sport 02 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13817
+#EXTINF:-1,AR VIP | Bein Sport 03 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13816
+#EXTINF:-1,AR VIP | Bein Sport 04 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13815
+#EXTINF:-1,AR VIP | Bein Sport 05 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13814
+#EXTINF:-1,AR VIP | Bein Sport 06 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13813
+#EXTINF:-1,AR VIP | Bein Sport 07 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13812
+#EXTINF:-1,AR VIP | Bein Sport 08 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13811
+#EXTINF:-1,AR VIP | Bein Sport 09 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13810
+#EXTINF:-1,AR VIP | Bein Sport 10 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13820
+#EXTINF:-1,AR VIP | Bein Sport 11 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13819
+#EXTINF:-1,AR VIP | Bein Sport 12 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13818
+#EXTINF:-1,AR VIP | Bein Sport News-
+http://x.mytvxweb.me:25461/john/john/13723
+#EXTINF:-1,AR VIP | Bein TCM HD-
+http://x.mytvxweb.me:25461/john/john/13722
+#EXTINF:-1,AR VIP | Bein Travel HD-
+http://x.mytvxweb.me:25461/john/john/13721
+#EXTINF:-1,AR | BeIN Series HD-
+http://x.mytvxweb.me:25461/john/john/41036
+#EXTINF:-1,AR | BeIN JUNIOR BE HD-
+http://x.mytvxweb.me:25461/john/john/41037
+#EXTINF:-1,AR | BeIN JEEM HD-
+http://x.mytvxweb.me:25461/john/john/41038
+#EXTINF:-1,AR | BeIN HGTV HD-
+http://x.mytvxweb.me:25461/john/john/41039
+#EXTINF:-1,AR | BeIN GROUMMET HD-
+http://x.mytvxweb.me:25461/john/john/41040
+#EXTINF:-1,AR | BeIN FOX Movie HD-
+http://x.mytvxweb.me:25461/john/john/41041
+#EXTINF:-1,AR | BeIN FOX Family Movie HD-
+http://x.mytvxweb.me:25461/john/john/41042
+#EXTINF:-1,AR | BeIN FOX Action Movie HD-
+http://x.mytvxweb.me:25461/john/john/41043
+#EXTINF:-1,AR | BeIN FOX HD-
+http://x.mytvxweb.me:25461/john/john/41044
+#EXTINF:-1,AR | BeIN Fatafeat HD-
+http://x.mytvxweb.me:25461/john/john/41045
+#EXTINF:-1,AR | BeIN DREAM WORKS-
+http://x.mytvxweb.me:25461/john/john/41046
+#EXTINF:-1,AR | BeIN DMAX HD-
+http://x.mytvxweb.me:25461/john/john/41047
+#EXTINF:-1,AR | BeIN BARAEM 2 HD-
+http://x.mytvxweb.me:25461/john/john/41048
+#EXTINF:-1,AR | BeIN BARAEM HD-
+http://x.mytvxweb.me:25461/john/john/41049
+#EXTINF:-1,AR | BeIN Animal Planet HD-
+http://x.mytvxweb.me:25461/john/john/41050
+#EXTINF:-1,AR | BeIN AMC HD-
+http://x.mytvxweb.me:25461/john/john/41051
+#EXTINF:-1,FR | Bein max 4-
+http://x.mytvxweb.me:25461/john/john/16142
+#EXTINF:-1,FR | Bein Sports 01 HD-
+http://x.mytvxweb.me:25461/john/john/1434
+#EXTINF:-1,FR | Bein Sports 02 HD-
+http://x.mytvxweb.me:25461/john/john/1433
+#EXTINF:-1,FR | Bein Sports 03 HD-
+http://x.mytvxweb.me:25461/john/john/1432
+#EXTINF:-1,FR | Bein Sports 1 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26354
+#EXTINF:-1,FR | Bein Sports 2 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26353
+#EXTINF:-1,FR | Bein Sports 3 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26352
+#EXTINF:-1,FR | Bein Sports 3HD-
+http://x.mytvxweb.me:25461/john/john/16135
+#EXTINF:-1,FR | BEIN SPORTS MAX 4-
+http://x.mytvxweb.me:25461/john/john/844
+#EXTINF:-1,FR | BEIN SPORTS MAX 5-
+http://x.mytvxweb.me:25461/john/john/845
+#EXTINF:-1,FR | Bein Sport Max 6-
+http://x.mytvxweb.me:25461/john/john/16139
+#EXTINF:-1,FR | Bein Sport Max 7-
+http://x.mytvxweb.me:25461/john/john/16138
+#EXTINF:-1,FR | Bein Sport Max 8-
+http://x.mytvxweb.me:25461/john/john/16137
+#EXTINF:-1,FR | Bein Sport Max 9-
+http://x.mytvxweb.me:25461/john/john/16136
+#EXTINF:-1,FR | Bein Sport Max 10-
+http://x.mytvxweb.me:25461/john/john/16141
+#EXTINF:-1,SL | BEIN MAX 8 HD ARABIC
+http://x.mytvxweb.me:25461/john/john/266102
+#EXTINF:-1,SL | BEIN MAX 7 HD ARAB
+http://x.mytvxweb.me:25461/john/john/266103
+#EXTINF:-1,Latino | Bein Sports N SD
+http://x.mytvxweb.me:25461/john/john/283570
+#EXTINF:-1,Latino | Bein Sports N HD Opt 3
+http://x.mytvxweb.me:25461/john/john/283571
+#EXTINF:-1,Latino | Bein Sports N HD 1080P
+http://x.mytvxweb.me:25461/john/john/25653
+#EXTINF:-1,Latino | Bein Sports N HD 720P
+http://x.mytvxweb.me:25461/john/john/283569
+#EXTINF:-1,SL | BEIN MAX 2 HD AR
+http://x.mytvxweb.me:25461/john/john/265799
+#EXTINF:-1,SL | BEIN MAX 1 HD ARABIC
+http://x.mytvxweb.me:25461/john/john/265800
+#EXTINF:-1,SL | Bein Sports en Espanol HD 1080P
+http://x.mytvxweb.me:25461/john/john/262574
+#EXTINF:-1,SL | BEIN SPORTS FR HD 1080P
+http://x.mytvxweb.me:25461/john/john/262608
+#EXTINF:-1,beIN Sports FHD US
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13759
+#EXTINF:-1,beiN Sports HD US
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/4902
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 4
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5389
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 5
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5388
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 6
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5387
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 8
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5385
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 7
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5386
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 9
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5384
+#EXTINF:-1,SPORTS VIP | Bein Sports Max 10
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5383
+#EXTINF:-1,SPORTS VIP | Turkish Bein Sports 1 HD
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5382
+#EXTINF:-1,SPORTS VIP | Turkish Bein Sports 2 HD
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5381
+#EXTINF:-1,SPORTS VIP | Turkish Bein Sports 3 HD
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5380
+#EXTINF:-1,SPORTS | BEIN SPORTS 1
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5482
+#EXTINF:-1,SPORTS | BEIN SPORTS 2
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5481
+#EXTINF:-1,SPORTS | beIN Sports 3
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5480
+#EXTINF:-1,SPORTS | BEIN SPORTS 4
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5479
+#EXTINF:-1,SPORTS | BEIN SPORTS 5
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5478
+#EXTINF:-1,SPORTS | BEIN SPORTS 6
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/54777
+#EXTINF:-1,SPORTS | BEIN SPORTS 7
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5476
+#EXTINF:-1,SPORTS | BEIN SPORTS 8
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/53432
+#EXTINF:-1,SPORTS | BEIN SPORTS 9 HD
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5474
+#EXTINF:-1,SPORTS | BEIN SPORTS 10
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5473
+#EXTINF:-1,SPORTS | BEIN SPORTS 11 HD
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/5472
+#EXTINF:-1,SPORTS | BEIN SPORTS 12
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/54715
+#EXTINF:-1,USA | BEIN Sports HD 1080P-
+http://x.mytvxweb.me:25461/john/john/27376
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 1 HD
+http://x.mytvxweb.me:25461/john/john/283281
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 2 HD
+http://x.mytvxweb.me:25461/john/john/283280
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 3 | UHD
+http://x.mytvxweb.me:25461/john/john/283279
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 4 | UHD
+http://x.mytvxweb.me:25461/john/john/283278
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 5 | UHD
+http://x.mytvxweb.me:25461/john/john/283277
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 6 | UHD
+http://x.mytvxweb.me:25461/john/john/283276
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 7 | UHD
+http://x.mytvxweb.me:25461/john/john/283275
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 8 | UHD
+http://x.mytvxweb.me:25461/john/john/283274
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 9 | UHD
+http://x.mytvxweb.me:25461/john/john/283273
+#EXTINF:-1,USA | BEIN SPORTS CONNECT 10 | UHD
+http://x.mytvxweb.me:25461/john/john/283272
+#EXTINF:-1,ES | beIN La Liga123 HD-
+http://x.mytvxweb.me:25461/john/john/11815
+#EXTINF:-1,ES | beIN Max 1 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11814
+#EXTINF:-1,ES | beIN Max 2 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11816
+#EXTINF:-1,ES | beIN Max 3 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11818
+#EXTINF:-1,ES | beIN Max 4 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11819
+#EXTINF:-1,ES | beIN Max 5 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11820
+#EXTINF:-1,ES | beIN Max 6 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11821
+#EXTINF:-1,ES | beIN Max 7 {Live match}-
+http://x.mytvxweb.me:25461/john/john/11822
+#EXTINF:-1,ES | Bein Sports HD-
+http://x.mytvxweb.me:25461/john/john/1225
+#EXTINF:-1,ES | BEIN LALIGA3 (event only)
+http://x.mytvxweb.me:25461/john/john/283298
+#EXTINF:-1,ES | BEIN LALIGA2 (event only)
+http://x.mytvxweb.me:25461/john/john/283299
+#EXTINF:-1,ES | BEIN LALIGA1 (event only)
+http://x.mytvxweb.me:25461/john/john/283300
+#EXTINF:-1,ES | BEINLALIGA8
+http://x.mytvxweb.me:25461/john/john/283312
+#EXTINF:-1,ES | BEINLALIGA7
+http://x.mytvxweb.me:25461/john/john/283313
+#EXTINF:-1,ES | BEINLALIGA6
+http://x.mytvxweb.me:25461/john/john/283314
+#EXTINF:-1,ES | BEINLALIGA5
+http://x.mytvxweb.me:25461/john/john/283315
+#EXTINF:-1,ES | BEINLALIGA4
+http://x.mytvxweb.me:25461/john/john/283316
+#EXTINF:-1,ES | BEINLALIGA3
+http://x.mytvxweb.me:25461/john/john/283317
+#EXTINF:-1,ES | BEINLALIGA2
+http://x.mytvxweb.me:25461/john/john/283318
+#EXTINF:-1,ES | BEINLALIGA1
+http://x.mytvxweb.me:25461/john/john/283319
+#EXTINF:-1,ES | BEIN LALIGA HD
+http://x.mytvxweb.me:25461/john/john/283359
+#EXTINF:-1,ES | BEIN LALIGA FHD
+http://x.mytvxweb.me:25461/john/john/283360
+#EXTINF:-1,ES | BEIN LALIGA 8
+http://x.mytvxweb.me:25461/john/john/283361
+#EXTINF:-1,ES | BEIN LALIGA 7
+http://x.mytvxweb.me:25461/john/john/283362
+#EXTINF:-1,ES | BEIN LALIGA 6
+http://x.mytvxweb.me:25461/john/john/283363
+#EXTINF:-1,ES | BEIN LALIGA 2 FHD
+http://x.mytvxweb.me:25461/john/john/283364
+#EXTINF:-1,ES | BEIN LALIGA 1 HD
+http://x.mytvxweb.me:25461/john/john/283365
+#EXTINF:-1,ES | BEIN LALIGA 1
+http://x.mytvxweb.me:25461/john/john/283366
+#EXTINF:-1,ES | BEIN LALIGA
+http://x.mytvxweb.me:25461/john/john/283367
+#EXTINF:-1,ES | BEIN  LALIGA 2
+http://x.mytvxweb.me:25461/john/john/283368
+#EXTINF:-1,ES | BEIN LALIGA 5
+http://x.mytvxweb.me:25461/john/john/283369
+#EXTINF:-1,ES | BEIN  LALIGA 4
+http://x.mytvxweb.me:25461/john/john/283370
+#EXTINF:-1,ES | BEIN  LALIGA 3
+http://x.mytvxweb.me:25461/john/john/283371
+#EXTINF:-1,CA | BEIN SPORTS-
+http://x.mytvxweb.me:25461/john/john/35679
+#EXTINF:-1,AR | BARAEM Bein-
+http://x.mytvxweb.me:25461/john/john/14044
+#EXTINF:-1,AR | BEIN MOVIES 1HD-
+http://x.mytvxweb.me:25461/john/john/13928
+#EXTINF:-1,AR | BEIN MOVIES 2HD-
+http://x.mytvxweb.me:25461/john/john/13927
+#EXTINF:-1,AR | BEIN MOVIES 4 HD-
+http://x.mytvxweb.me:25461/john/john/14042
+#EXTINF:-1,AR | beIN SPorts-
+http://x.mytvxweb.me:25461/john/john/14041
+#EXTINF:-1,AR | beIN Sports 1 HD-
+http://x.mytvxweb.me:25461/john/john/14040
+#EXTINF:-1,AR | Bein Sports 02 HD-
+http://x.mytvxweb.me:25461/john/john/1039
+#EXTINF:-1,AR | beIN Sports 3 HD-
+http://x.mytvxweb.me:25461/john/john/14030
+#EXTINF:-1,AR | beIN Sports 4 HD-
+http://x.mytvxweb.me:25461/john/john/14029
+#EXTINF:-1,AR | beIN Sports 5 HD-
+http://x.mytvxweb.me:25461/john/john/14028
+#EXTINF:-1,AR | beIN Sports 6 HD-
+http://x.mytvxweb.me:25461/john/john/14027
+#EXTINF:-1,AR | beIN Sports 7 HD-
+http://x.mytvxweb.me:25461/john/john/14026
+#EXTINF:-1,AR | beIN Sports 8 HD-
+http://x.mytvxweb.me:25461/john/john/1045
+#EXTINF:-1,AR | beIN Sports 9 HD-
+http://x.mytvxweb.me:25461/john/john/14024
+#EXTINF:-1,AR | beIN Sports 10 HD-
+http://x.mytvxweb.me:25461/john/john/14039
+#EXTINF:-1,AR | beIN Sports 11 HD-
+http://x.mytvxweb.me:25461/john/john/14038
+#EXTINF:-1,AR | beIN Sports 12 HD-
+http://x.mytvxweb.me:25461/john/john/14037
+#EXTINF:-1,AR | beIN Sports 13 HD-
+http://x.mytvxweb.me:25461/john/john/14036
+#EXTINF:-1,AR | beIN Sports 14 HD-
+http://x.mytvxweb.me:25461/john/john/14035
+#EXTINF:-1,AR | Bein Sports 15 HD-
+http://x.mytvxweb.me:25461/john/john/14034
+#EXTINF:-1,AR | Bein Sports 16 HD-
+http://x.mytvxweb.me:25461/john/john/14033
+#EXTINF:-1,AR | Bein Sports 17 HD-
+http://x.mytvxweb.me:25461/john/john/14032
+#EXTINF:-1,AR VIP | Bein AMC HD-
+http://x.mytvxweb.me:25461/john/john/13754
+#EXTINF:-1,AR VIP | Bein Baby HD-
+http://x.mytvxweb.me:25461/john/john/13753
+#EXTINF:-1,AR VIP | Bein Baraem-
+http://x.mytvxweb.me:25461/john/john/13752
+#EXTINF:-1,AR VIP | Bein Dlife HD-
+http://x.mytvxweb.me:25461/john/john/13751
+#EXTINF:-1,AR VIP | Bein Dreamwork HD-
+http://x.mytvxweb.me:25461/john/john/13750
+#EXTINF:-1,AR VIP | Bein Extreme Sport HD-
+http://x.mytvxweb.me:25461/john/john/13749
+#EXTINF:-1,AR VIP | Bein Fatafeat HD-
+http://x.mytvxweb.me:25461/john/john/13748
+#EXTINF:-1,AR VIP | Bein Fox HD-
+http://x.mytvxweb.me:25461/john/john/13747
+#EXTINF:-1,AR VIP | Bein Fox Movies HD-
+http://x.mytvxweb.me:25461/john/john/13746
+#EXTINF:-1,AR VIP | Bein Jeem HD-
+http://x.mytvxweb.me:25461/john/john/13745
+#EXTINF:-1,AR VIP | Bein Junior HD-
+http://x.mytvxweb.me:25461/john/john/13744
+#EXTINF:-1,AR VIP | Bein max-
+http://x.mytvxweb.me:25461/john/john/13743
+#EXTINF:-1,AR VIP | Bein max 1-
+http://x.mytvxweb.me:25461/john/john/13742
+#EXTINF:-1,AR VIP | Bein Max 1 HD-
+http://x.mytvxweb.me:25461/john/john/13741
+#EXTINF:-1,AR VIP | Bein Max 2 HD-
+http://x.mytvxweb.me:25461/john/john/13740
+#EXTINF:-1,AR VIP | Bein Max 3 HD-
+http://x.mytvxweb.me:25461/john/john/13739
+#EXTINF:-1,AR VIP | BeIN Movies 1HD-
+http://x.mytvxweb.me:25461/john/john/13738
+#EXTINF:-1,AR VIP | BeIN Movies 2HD-
+http://x.mytvxweb.me:25461/john/john/13737
+#EXTINF:-1,AR VIP | BeIN Movies 3HD-
+http://x.mytvxweb.me:25461/john/john/13736
+#EXTINF:-1,AR VIP | BeIN Movies 4HD-
+http://x.mytvxweb.me:25461/john/john/13735
+#EXTINF:-1,AR VIP | Bein NBA HD-
+http://x.mytvxweb.me:25461/john/john/13734
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 01-
+http://x.mytvxweb.me:25461/john/john/13730
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 02-
+http://x.mytvxweb.me:25461/john/john/13729
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 03-
+http://x.mytvxweb.me:25461/john/john/13728
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 04-
+http://x.mytvxweb.me:25461/john/john/13727
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 05-
+http://x.mytvxweb.me:25461/john/john/13726
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 06-
+http://x.mytvxweb.me:25461/john/john/13725
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 07-
+http://x.mytvxweb.me:25461/john/john/13724
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 08 HD-
+http://x.mytvxweb.me:25461/john/john/13732
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 09 HD-
+http://x.mytvxweb.me:25461/john/john/13731
+#EXTINF:-1,AR VIP | Bein Sport (Backup2) 10 HD-
+http://x.mytvxweb.me:25461/john/john/13733
+#EXTINF:-1,AR VIP | Bein Sport 01 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13821
+#EXTINF:-1,AR VIP | Bein Sport 02 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13817
+#EXTINF:-1,AR VIP | Bein Sport 03 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13816
+#EXTINF:-1,AR VIP | Bein Sport 04 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13815
+#EXTINF:-1,AR VIP | Bein Sport 05 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13814
+#EXTINF:-1,AR VIP | Bein Sport 06 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13813
+#EXTINF:-1,AR VIP | Bein Sport 07 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13812
+#EXTINF:-1,AR VIP | Bein Sport 08 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13811
+#EXTINF:-1,AR VIP | Bein Sport 09 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13810
+#EXTINF:-1,AR VIP | Bein Sport 10 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13820
+#EXTINF:-1,AR VIP | Bein Sport 11 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13819
+#EXTINF:-1,AR VIP | Bein Sport 12 HD (Backup)-
+http://x.mytvxweb.me:25461/john/john/13818
+#EXTINF:-1,AR VIP | Bein Sport News-
+http://x.mytvxweb.me:25461/john/john/13723
+#EXTINF:-1,AR VIP | Bein TCM HD-
+http://x.mytvxweb.me:25461/john/john/13722
+#EXTINF:-1,AR VIP | Bein Travel HD-
+http://x.mytvxweb.me:25461/john/john/13721
+#EXTINF:-1,AR | BeIN Series HD-
+http://x.mytvxweb.me:25461/john/john/41036
+#EXTINF:-1,AR | BeIN JUNIOR BE HD-
+http://x.mytvxweb.me:25461/john/john/41037
+#EXTINF:-1,AR | BeIN JEEM HD-
+http://x.mytvxweb.me:25461/john/john/41038
+#EXTINF:-1,AR | BeIN HGTV HD-
+http://x.mytvxweb.me:25461/john/john/41039
+#EXTINF:-1,AR | BeIN GROUMMET HD-
+http://x.mytvxweb.me:25461/john/john/41040
+#EXTINF:-1,AR | BeIN FOX Movie HD-
+http://x.mytvxweb.me:25461/john/john/41041
+#EXTINF:-1,AR | BeIN FOX Family Movie HD-
+http://x.mytvxweb.me:25461/john/john/41042
+#EXTINF:-1,AR | BeIN FOX Action Movie HD-
+http://x.mytvxweb.me:25461/john/john/41043
+#EXTINF:-1,AR | BeIN FOX HD-
+http://x.mytvxweb.me:25461/john/john/41044
+#EXTINF:-1,AR | BeIN Fatafeat HD-
+http://x.mytvxweb.me:25461/john/john/41045
+#EXTINF:-1,AR | BeIN DREAM WORKS-
+http://x.mytvxweb.me:25461/john/john/41046
+#EXTINF:-1,AR | BeIN DMAX HD-
+http://x.mytvxweb.me:25461/john/john/41047
+#EXTINF:-1,AR | BeIN BARAEM 2 HD-
+http://x.mytvxweb.me:25461/john/john/41048
+#EXTINF:-1,AR | BeIN BARAEM HD-
+http://x.mytvxweb.me:25461/john/john/41049
+#EXTINF:-1,AR | BeIN Animal Planet HD-
+http://x.mytvxweb.me:25461/john/john/41050
+#EXTINF:-1,AR | BeIN AMC HD-
+http://x.mytvxweb.me:25461/john/john/41051
+#EXTINF:-1,FR | Bein max 4-
+http://x.mytvxweb.me:25461/john/john/16142
+#EXTINF:-1,FR | Bein Sports 01 HD-
+http://x.mytvxweb.me:25461/john/john/1434
+#EXTINF:-1,FR | Bein Sports 02 HD-
+http://x.mytvxweb.me:25461/john/john/1433
+#EXTINF:-1,FR | Bein Sports 03 HD-
+http://x.mytvxweb.me:25461/john/john/1432
+#EXTINF:-1,FR | Bein Sports 1 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26354
+#EXTINF:-1,FR | Bein Sports 2 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26353
+#EXTINF:-1,FR | Bein Sports 3 HD (1080P)-
+http://x.mytvxweb.me:25461/john/john/26352
+#EXTINF:-1,FR | Bein Sports 3HD-
+http://x.mytvxweb.me:25461/john/john/16135
+#EXTINF:-1,FR | BEIN SPORTS MAX 4-
+http://x.mytvxweb.me:25461/john/john/844
+#EXTINF:-1,FR | BEIN SPORTS MAX 5-
+http://x.mytvxweb.me:25461/john/john/845
+#EXTINF:-1,FR | Bein Sport Max 6-
+http://x.mytvxweb.me:25461/john/john/16139
+#EXTINF:-1,FR | Bein Sport Max 7-
+http://x.mytvxweb.me:25461/john/john/16138
+#EXTINF:-1,FR | Bein Sport Max 8-
+http://x.mytvxweb.me:25461/john/john/16137
+#EXTINF:-1,FR | Bein Sport Max 9-
+http://x.mytvxweb.me:25461/john/john/16136
+#EXTINF:-1,FR | Bein Sport Max 10-
+http://x.mytvxweb.me:25461/john/john/16141
+#EXTINF:-1,SL | BEIN MAX 8 HD ARABIC
+http://x.mytvxweb.me:25461/john/john/266102
+#EXTINF:-1,SL | BEIN MAX 7 HD ARAB
+http://x.mytvxweb.me:25461/john/john/266103
+#EXTINF:-1,Latino | Bein Sports N SD
+http://x.mytvxweb.me:25461/john/john/283570
+#EXTINF:-1,Latino | Bein Sports N HD Opt 3
+http://x.mytvxweb.me:25461/john/john/283571
+#EXTINF:-1,Latino | Bein Sports N HD 1080P
+http://x.mytvxweb.me:25461/john/john/25653
+#EXTINF:-1,Latino | Bein Sports N HD 720P
+http://x.mytvxweb.me:25461/john/john/283569
+#EXTINF:-1,SL | BEIN MAX 2 HD AR
+http://x.mytvxweb.me:25461/john/john/265799
+#EXTINF:-1,SL | BEIN MAX 1 HD ARABIC
+http://x.mytvxweb.me:25461/john/john/265800
+#EXTINF:-1,SL | Bein Sports en Espanol HD 1080P
+http://x.mytvxweb.me:25461/john/john/262574
+#EXTINF:-1,SL | BEIN SPORTS FR HD 1080P
+http://x.mytvxweb.me:25461/john/john/262608
 
+#EXTINF:-1,[AR] OSN YAHALA HD
+http://aiptv.pro:8000/owm/owm/11298
+#EXTINF:-1,[AR] OSN YAHALA DRAMA
+http://aiptv.pro:8000/owm/owm/11297
+#EXTINF:-1,[AR] OSN YAHALA SHABAB
+http://aiptv.pro:8000/owm/owm/11299
+#EXTINF:-1,[AR] OSN MOUSSALSALAT
+http://aiptv.pro:8000/owm/owm/11267
+#EXTINF:-1,[AR] OSN YAHALA CINEMA
+http://aiptv.pro:8000/owm/owm/11296
+#EXTINF:-1,[AR] OSN ON DEMAND 1 HD
+http://aiptv.pro:8000/owm/owm/11282
+#EXTINF:-1,[AR] OSN ON DEMAND 2 HD
+http://aiptv.pro:8000/owm/owm/11283
+#EXTINF:-1,[AR] OSN ON DEMAND 3 HD
+http://aiptv.pro:8000/owm/owm/11284
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA 1 HD
+http://aiptv.pro:8000/owm/owm/11285
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA 2 HD
+http://aiptv.pro:8000/owm/owm/11286
+#EXTINF:-1,[AR] OSN MOVIES HD
+http://aiptv.pro:8000/owm/owm/11274
+#EXTINF:-1,[AR] OSN MOVIES  2 HD
+http://aiptv.pro:8000/owm/owm/11268
+#EXTINF:-1,[AR] OSN MOVIES FESTIVAL HD
+http://aiptv.pro:8000/owm/owm/11273
+#EXTINF:-1,[AR]OSN Nickelodeon HD
+http://aiptv.pro:8000/owm/owm/5681
+#EXTINF:-1,[AR] OSN ACTION MOVIES HD
+http://aiptv.pro:8000/owm/owm/11252
+#EXTINF:-1,[AR] OSN BOX OFFICE 1
+http://aiptv.pro:8000/owm/owm/11257
+#EXTINF:-1,[AR] OSN BOX OFFICE 2
+http://aiptv.pro:8000/owm/owm/11258
+#EXTINF:-1,[AR] OSN BOX OFFICE 3
+http://aiptv.pro:8000/owm/owm/11259
+#EXTINF:-1,[AR] OSN FOX ACTION MOVIES HD
+http://aiptv.pro:8000/owm/owm/11265
+#EXTINF:-1,[AR] OSN FUEL HD
+http://aiptv.pro:8000/owm/owm/11266
+#EXTINF:-1,[AR] OSN MOVIES ACTION 1 HD
+http://aiptv.pro:8000/owm/owm/11269
+#EXTINF:-1,[AR] OSN MOVIES ACTION 2 HD
+http://aiptv.pro:8000/owm/owm/11270
+#EXTINF:-1,[AR] OSN MOVIES DRAMA 1
+http://aiptv.pro:8000/owm/owm/11271
+#EXTINF:-1,[AR] OSN MOVIES DRAMA 2
+http://aiptv.pro:8000/owm/owm/11272
+#EXTINF:-1,[AR] OSN MOVIES KIDS HD
+http://aiptv.pro:8000/owm/owm/11275
+#EXTINF:-1,[AR] OSN MOVIES PREMIERE 1 HD
+http://aiptv.pro:8000/owm/owm/11276
+#EXTINF:-1,[AR] OSN MOVIES PREMIERE 2 HD
+http://aiptv.pro:8000/owm/owm/11277
+#EXTINF:-1,[AR] OSN STAR GOLD
+http://aiptv.pro:8000/owm/owm/11292
+#EXTINF:-1,[AR] OSN STAR MOVIES HD
+http://aiptv.pro:8000/owm/owm/11293
+#EXTINF:-1,[AR] OSN STAR WORLD
+http://aiptv.pro:8000/owm/owm/11294
+#EXTINF:-1,[AR] OSN SERIES
+http://aiptv.pro:8000/owm/owm/11287
+#EXTINF:-1,[AR] OSN ANIMAL PLANET HD
+http://aiptv.pro:8000/owm/owm/11256
+#EXTINF:-1,[AR]OSN-HISTORY-HD
+http://aiptv.pro:8000/owm/owm/5679
+#EXTINF:-1,[AR]OSN Discovery Sc HD
+http://aiptv.pro:8000/owm/owm/5680
+#EXTINF:-1,[AR] OSN DISCOVERY HD
+http://aiptv.pro:8000/owm/owm/11260
+#EXTINF:-1,[AR] OSN DISCOVERY HISTORY
+http://aiptv.pro:8000/owm/owm/11261
+#EXTINF:-1,[AR] OSN DISCOVERY ID
+http://aiptv.pro:8000/owm/owm/11262
+#EXTINF:-1,[AR] OSN DISCOVERY SCIENCE
+http://aiptv.pro:8000/owm/owm/11263
+#EXTINF:-1,[AR] OSN FATAFEAT HD
+http://aiptv.pro:8000/owm/owm/11264
+#EXTINF:-1,[AR] OSN NICKELODEON HD
+http://aiptv.pro:8000/owm/owm/11281
+#EXTINF:-1,[AR] OSN SPORTS 1 HD
+http://aiptv.pro:8000/owm/owm/11288
+#EXTINF:-1,[AR] OSN SPORTS 2 HD
+http://aiptv.pro:8000/owm/owm/11289
+#EXTINF:-1,[AR] OSN SPORTS 3 HD
+http://aiptv.pro:8000/owm/owm/11290
+#EXTINF:-1,[AR] OSN SPORTS 4 HD
+http://aiptv.pro:8000/owm/owm/11291
+#EXTINF:-1,[AR] Osn WweHD
+http://aiptv.pro:8000/owm/owm/11295
+#EXTINF:-1,[AR] OSN ABU DHABI SPORTS 3
+http://aiptv.pro:8000/owm/owm/11250
+#EXTINF:-1,[AR] OSN ABU DHABI SPORTS 4
+http://aiptv.pro:8000/owm/owm/11251
+#EXTINF:-1,===OSN-CHANNEL===
+http://uni-iptv.com:8000/magdi3/magdi3/2990
+#EXTINF:-1,OSN-AD-Drama-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3644
+#EXTINF:-1,OSN-Alfa-Al-Safwa
+http://uni-iptv.com:8000/magdi3/magdi3/2575
+#EXTINF:-1,OSN-Alfa-ALYoum-HD
+http://uni-iptv.com:8000/magdi3/magdi3/33
+#EXTINF:-1,OSN-Alfa-Cinema-1-HD
+http://uni-iptv.com:8000/magdi3/magdi3/34
+#EXTINF:-1,OSN-Alfa-Cinema-1-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/9250
+#EXTINF:-1,OSN-Alfa-Cinema-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/35
+#EXTINF:-1,OSN-Alfa-Cinema-2-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/7528
+#EXTINF:-1,OSN-Alfa-Fann-HD
+http://uni-iptv.com:8000/magdi3/magdi3/57
+#EXTINF:-1,OSN-Alfa-Musalsalat
+http://uni-iptv.com:8000/magdi3/magdi3/2576
+#EXTINF:-1,OSN-Alfa-Musalsalat_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/8625
+#EXTINF:-1,OSN-Alfa-Musalsalat-2
+http://uni-iptv.com:8000/magdi3/magdi3/3270
+#EXTINF:-1,OSN-Animal-Planet-HD
+http://uni-iptv.com:8000/magdi3/magdi3/59
+#EXTINF:-1,OSN-BBC-English
+http://uni-iptv.com:8000/magdi3/magdi3/3302
+#EXTINF:-1,OSN-Boomerang
+http://uni-iptv.com:8000/magdi3/magdi3/3231
+#EXTINF:-1,OSN-CNN-HD
+http://uni-iptv.com:8000/magdi3/magdi3/6965
+#EXTINF:-1,OSN-Comedy-Central
+http://uni-iptv.com:8000/magdi3/magdi3/2613
+#EXTINF:-1,OSN-Comedy-Central_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/7298
+#EXTINF:-1,OSN-Crime-Investigation-Network
+http://uni-iptv.com:8000/magdi3/magdi3/3226
+#EXTINF:-1,OSN-Discovery-HD
+http://uni-iptv.com:8000/magdi3/magdi3/58
+#EXTINF:-1,OSN-Discovery-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6895
+#EXTINF:-1,OSN-Discovery-SC
+http://uni-iptv.com:8000/magdi3/magdi3/2470
+#EXTINF:-1,OSN-Discovery-IDX
+http://uni-iptv.com:8000/magdi3/magdi3/3011
+#EXTINF:-1,OSN-Discovery-IDX_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/8526
+#EXTINF:-1,OSN-Discovery-Family
+http://uni-iptv.com:8000/magdi3/magdi3/3024
+#EXTINF:-1,OSN-Disney
+http://uni-iptv.com:8000/magdi3/magdi3/2560
+#EXTINF:-1,OSN-Disney-Junior_(Audio-AR)
+http://uni-iptv.com:8000/magdi3/magdi3/3267
+#EXTINF:-1,OSN-Disney-Junior_(Audio-EN)
+http://uni-iptv.com:8000/magdi3/magdi3/3508
+#EXTINF:-1,OSN-Disney-XD
+http://uni-iptv.com:8000/magdi3/magdi3/3349
+#EXTINF:-1,OSN-Docu-Box
+http://uni-iptv.com:8000/magdi3/magdi3/3049
+#EXTINF:-1,OSN_E-HD
+http://uni-iptv.com:8000/magdi3/magdi3/61
+#EXTINF:-1,OSN-Fashion
+http://uni-iptv.com:8000/magdi3/magdi3/3048
+#EXTINF:-1,OSN-Fast-And-Fun
+http://uni-iptv.com:8000/magdi3/magdi3/3050
+#EXTINF:-1,OSN-Fight-Box
+http://uni-iptv.com:8000/magdi3/magdi3/3507
+#EXTINF:-1,OSN-Fight-Network
+http://uni-iptv.com:8000/magdi3/magdi3/2471
+#EXTINF:-1,OSN-Living-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3022
+#EXTINF:-1,OSN-Fix-Foxi
+http://uni-iptv.com:8000/magdi3/magdi3/3051
+#EXTINF:-1,OSN-Fox-News
+http://uni-iptv.com:8000/magdi3/magdi3/3352
+#EXTINF:-1,OSN-Fuel-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3228
+#EXTINF:-1,OSN-FX-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3047
+#EXTINF:-1,OSN_Fox_Action
+http://uni-iptv.com:8000/magdi3/magdi3/2581
+#EXTINF:-1,OSN_Fox_Family
+http://uni-iptv.com:8000/magdi3/magdi3/2580
+#EXTINF:-1,OSN-GINX-ESPORTS-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3351
+#EXTINF:-1,OSN_History
+http://uni-iptv.com:8000/magdi3/magdi3/2661
+#EXTINF:-1,OSN-H2-UK
+http://uni-iptv.com:8000/magdi3/magdi3/3021
+#EXTINF:-1,OSN-ITV-Choice
+http://uni-iptv.com:8000/magdi3/magdi3/3020
+#EXTINF:-1,OSN-Kids-Zone
+http://uni-iptv.com:8000/magdi3/magdi3/2614
+#EXTINF:-1,OSN-MBC-Drama
+http://uni-iptv.com:8000/magdi3/magdi3/39
+#EXTINF:-1,OSN-Movies-HD
+http://uni-iptv.com:8000/magdi3/magdi3/48
+#EXTINF:-1,OSN-Movies-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6612
+#EXTINF:-1,OSN-Movies-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/60
+#EXTINF:-1,OSN-Movies-Action-HD
+http://uni-iptv.com:8000/magdi3/magdi3/52
+#EXTINF:-1,OSN-Movies-Action-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6609
+#EXTINF:-1,OSN-Movies-Action-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/53
+#EXTINF:-1,OSN-Movies-Comedy-HD
+http://uni-iptv.com:8000/magdi3/magdi3/51
+#EXTINF:-1,OSN-Movies-Disney
+http://uni-iptv.com:8000/magdi3/magdi3/2611
+#EXTINF:-1,OSN-Movies-Disney_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6614
+#EXTINF:-1,OSN-Movies-First-HD
+http://uni-iptv.com:8000/magdi3/magdi3/47
+#EXTINF:-1,OSN-Movies-First-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6613
+#EXTINF:-1,OSN-Movies-First-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3019
+#EXTINF:-1,OSN-Movies-Kids-HD
+http://uni-iptv.com:8000/magdi3/magdi3/54
+#EXTINF:-1,OSN-Movies-Kids-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/9251
+#EXTINF:-1,OSN-Movies-Thriller-HD
+http://uni-iptv.com:8000/magdi3/magdi3/50
+#EXTINF:-1,OSN-Movies-Thriller-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6610
+#EXTINF:-1,OSN-Movies-Thriller-2
+http://uni-iptv.com:8000/magdi3/magdi3/3052
+#EXTINF:-1,OSN-First-HBO
+http://uni-iptv.com:8000/magdi3/magdi3/2443
+#EXTINF:-1,OSN-First-HBO_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/7529
+#EXTINF:-1,OSN-Series-HD
+http://uni-iptv.com:8000/magdi3/magdi3/36
+#EXTINF:-1,OSN-Series-First-HD
+http://uni-iptv.com:8000/magdi3/magdi3/55
+#EXTINF:-1,OSN-Series-Comedy-HD
+http://uni-iptv.com:8000/magdi3/magdi3/56
+#EXTINF:-1,OSN-Series-Comedy-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/7530
+#EXTINF:-1,OSN-Series-Comedy-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3010
+#EXTINF:-1,OSN-Star-Movies-HD
+http://uni-iptv.com:8000/magdi3/magdi3/44
+#EXTINF:-1,OSN-Star-World-HD
+http://uni-iptv.com:8000/magdi3/magdi3/43
+#EXTINF:-1,OSN_Sports_1
+http://uni-iptv.com:8000/magdi3/magdi3/898
+#EXTINF:-1,OSN_Sports_2
+http://uni-iptv.com:8000/magdi3/magdi3/2577
+#EXTINF:-1,OSN_Sports_3
+http://uni-iptv.com:8000/magdi3/magdi3/2578
+#EXTINF:-1,OSN_Sports_4
+http://uni-iptv.com:8000/magdi3/magdi3/2612
+#EXTINF:-1,OSN_Sports_5
+http://uni-iptv.com:8000/magdi3/magdi3/3642
+#EXTINF:-1,OSN_Sports_Cricket
+http://uni-iptv.com:8000/magdi3/magdi3/2665
+#EXTINF:-1,OSN-Ten-Cricket
+http://uni-iptv.com:8000/magdi3/magdi3/3269
+#EXTINF:-1,OSN-SUNDANCE-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3350
+#EXTINF:-1,OSN-MTV-LIVE-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3268
+#EXTINF:-1,OSN-Myme-Music
+http://uni-iptv.com:8000/magdi3/magdi3/3271
+#EXTINF:-1,OSN-National-Geographic
+http://uni-iptv.com:8000/magdi3/magdi3/3276
+#EXTINF:-1,OSN-National-Geographic_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6998
+#EXTINF:-1,OSN-Nat-Geo-People
+http://uni-iptv.com:8000/magdi3/magdi3/2473
+#EXTINF:-1,OSN-Nat-Geo-Wild-HD
+http://uni-iptv.com:8000/magdi3/magdi3/46
+#EXTINF:-1,OSN-Nat-Geo-Wild-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/8525
+#EXTINF:-1,OSN-Nautical
+http://uni-iptv.com:8000/magdi3/magdi3/6967
+#EXTINF:-1,OSN-News
+http://uni-iptv.com:8000/magdi3/magdi3/3018
+#EXTINF:-1,OSN_Nickelodeon_(Audio-AR)
+http://uni-iptv.com:8000/magdi3/magdi3/2664
+#EXTINF:-1,OSN_Nickelodeon_(Audio-EN)
+http://uni-iptv.com:8000/magdi3/magdi3/3509
+#EXTINF:-1,OSN_Nickelodeon_Leaab_W_Jad_(Audio-AR)
+http://uni-iptv.com:8000/magdi3/magdi3/2663
+#EXTINF:-1,OSN_Nickelodeon_Junior_(Audio-EN)
+http://uni-iptv.com:8000/magdi3/magdi3/3510
+#EXTINF:-1,OSN-Outdoor
+http://uni-iptv.com:8000/magdi3/magdi3/3017
+#EXTINF:-1,OSN-Paramount-Channel
+http://uni-iptv.com:8000/magdi3/magdi3/5226
+#EXTINF:-1,OSN-Planet-Earth-HD
+http://uni-iptv.com:8000/magdi3/magdi3/6615
+#EXTINF:-1,OSN-Philipine-AKSYON-TV
+http://uni-iptv.com:8000/magdi3/magdi3/6974
+#EXTINF:-1,OSN-Philipine-ANC
+http://uni-iptv.com:8000/magdi3/magdi3/6973
+#EXTINF:-1,OSN-Philipine-CINEMAONE
+http://uni-iptv.com:8000/magdi3/magdi3/6972
+#EXTINF:-1,OSN-Philipine-CNN
+http://uni-iptv.com:8000/magdi3/magdi3/6968
+#EXTINF:-1,OSN-Philipine-DZMM
+http://uni-iptv.com:8000/magdi3/magdi3/6971
+#EXTINF:-1,OSN-Philipine-GMA-Life-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3457
+#EXTINF:-1,OSN-Philipine-GMA-News-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3458
+#EXTINF:-1,OSN-Philipine-GMA-Pinoy-TV
+http://uni-iptv.com:8000/magdi3/magdi3/3459
+#EXTINF:-1,OSN-Philipine-MYX-TV
+http://uni-iptv.com:8000/magdi3/magdi3/6969
+#EXTINF:-1,OSN-Philipine-TFC
+http://uni-iptv.com:8000/magdi3/magdi3/6970
+#EXTINF:-1,OSN-SeeVii-Prime-1-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3700
+#EXTINF:-1,OSN-SeeVii-Prime-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3701
+#EXTINF:-1,OSN-Syfy
+http://uni-iptv.com:8000/magdi3/magdi3/2474
+#EXTINF:-1,OSN-TLC-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3009
+#EXTINF:-1,OSN-Trace-Urban
+http://uni-iptv.com:8000/magdi3/magdi3/3227
+#EXTINF:-1,OSN-VH-1
+http://uni-iptv.com:8000/magdi3/magdi3/6966
+#EXTINF:-1,OSN-WWE
+http://uni-iptv.com:8000/magdi3/magdi3/2032
+#EXTINF:-1,OSN-WWE_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6650
+#EXTINF:-1,OSN-WWE_(Backup-2)
+http://uni-iptv.com:8000/magdi3/magdi3/6959
+#EXTINF:-1,OSN-YaHala-HD
+http://uni-iptv.com:8000/magdi3/magdi3/38
+#EXTINF:-1,OSN-YaHala-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6607
+#EXTINF:-1,OSN-YaHala-First-HD
+http://uni-iptv.com:8000/magdi3/magdi3/37
+#EXTINF:-1,OSN-YaHala-First-HD_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6608
+#EXTINF:-1,OSN-YaHala-First-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/3016
+#EXTINF:-1,OSN-YAHALA-CINEMA
+http://uni-iptv.com:8000/magdi3/magdi3/2043
+#EXTINF:-1,OSN-YAHALA-CINEMA_(Backup)
+http://uni-iptv.com:8000/magdi3/magdi3/6606
+#EXTINF:-1,OSN-YAHALA-CINEMA_(Backup-2)
+http://uni-iptv.com:8000/magdi3/magdi3/6960
+#EXTINF:-1,OSN-BOX-OFFICE-1-HD
+http://uni-iptv.com:8000/magdi3/magdi3/40
+#EXTINF:-1,OSN-BOX-OFFICE-2-HD
+http://uni-iptv.com:8000/magdi3/magdi3/41
+#EXTINF:-1,OSN-BOX-OFFICE-3-HD
+http://uni-iptv.com:8000/magdi3/magdi3/42
+#EXTINF:-1,OSN_On_Demand_Extra_1
+http://uni-iptv.com:8000/magdi3/magdi3/2166
+#EXTINF:-1,OSN_On_Demand_Extra_2
+http://uni-iptv.com:8000/magdi3/magdi3/2167
+#EXTINF:-1,OSN-HOME-CINEMA1
+http://uni-iptv.com:8000/magdi3/magdi3/1565
+#EXTINF:-1,OSN-HOME-CINEMA2
+http://uni-iptv.com:8000/magdi3/magdi3/1566
+#EXTINF:-1,OSN-HOME-CINEMA3
+http://uni-iptv.com:8000/magdi3/magdi3/1581
+#EXTINF:-1,OSN-HOME-CINEMA4
+http://uni-iptv.com:8000/magdi3/magdi3/1582
+#EXTINF:-1,OSN-HOME-CINEMA5
+http://uni-iptv.com:8000/magdi3/magdi3/1583
+#EXTINF:-1,OSN-HOME-CINEMA6
+http://uni-iptv.com:8000/magdi3/magdi3/1584
+#EXTINF:-1,OSN-HOME-CINEMA7
+http://uni-iptv.com:8000/magdi3/magdi3/1585
+#EXTINF:-1,OSN-HOME-CINEMA8
+http://uni-iptv.com:8000/magdi3/magdi3/1586
+#EXTINF:-1,OSN-HOME-CINEMA9
+http://uni-iptv.com:8000/magdi3/magdi3/1587
+#EXTINF:-1,OSN-HOME-CINEMA10
+http://uni-iptv.com:8000/magdi3/magdi3/1588
+#EXTINF:-1,OSN-PLAY-CINEMA1
+http://uni-iptv.com:8000/magdi3/magdi3/1759
+#EXTINF:-1,OSN-PLAY-CINEMA2
+http://uni-iptv.com:8000/magdi3/magdi3/1762
+#EXTINF:-1,OSN-PLAY-CINEMA3
+http://uni-iptv.com:8000/magdi3/magdi3/1764
+#EXTINF:-1,OSN-PLAY-CINEMA4
+http://uni-iptv.com:8000/magdi3/magdi3/1765
+#EXTINF:-1,OSN-PLAY-CINEMA5
+http://uni-iptv.com:8000/magdi3/magdi3/1766
+#EXTINF:-1,OSN-PLAY-CINEMA6
+http://uni-iptv.com:8000/magdi3/magdi3/1767
+#EXTINF:-1,OSN-PLAY-CINEMA7
+http://uni-iptv.com:8000/magdi3/magdi3/1768
+#EXTINF:-1,OSN-PLAY-CINEMA8
+http://uni-iptv.com:8000/magdi3/magdi3/1769
+#EXTINF:-1,OSN-PLAY-CINEMA9
+http://uni-iptv.com:8000/magdi3/magdi3/1770
+#EXTINF:-1,OSN-PLAY-CINEMA10
+http://uni-iptv.com:8000/magdi3/magdi3/1771
+#EXTINF:-1,VOD_AR:Balash-Tbosny-2018
+http://uni-iptv.com:8000/movie/magdi3/magdi3/20300.mp4
+#EXTINF:-1,[AR] OSN YAHALA HD
+http://aiptv.pro:8000/owm/owm/11298
+#EXTINF:-1,[AR] OSN YAHALA DRAMA
+http://aiptv.pro:8000/owm/owm/11297
+#EXTINF:-1,[AR] OSN YAHALA SHABAB
+http://aiptv.pro:8000/owm/owm/11299
+#EXTINF:-1,[AR] OSN MOUSSALSALAT
+http://aiptv.pro:8000/owm/owm/11267
+#EXTINF:-1,[AR] OSN YAHALA CINEMA
+http://aiptv.pro:8000/owm/owm/11296
+#EXTINF:-1,[AR] OSN ON DEMAND 1 HD
+http://aiptv.pro:8000/owm/owm/11282
+#EXTINF:-1,[AR] OSN ON DEMAND 2 HD
+http://aiptv.pro:8000/owm/owm/11283
+#EXTINF:-1,[AR] OSN ON DEMAND 3 HD
+http://aiptv.pro:8000/owm/owm/11284
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA 1 HD
+http://aiptv.pro:8000/owm/owm/11285
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA 2 HD
+http://aiptv.pro:8000/owm/owm/11286
+#EXTINF:-1,[AR] OSN MOVIES HD
+http://aiptv.pro:8000/owm/owm/11274
+#EXTINF:-1,[AR] OSN MOVIES  2 HD
+http://aiptv.pro:8000/owm/owm/11268
+#EXTINF:-1,[AR] OSN MOVIES FESTIVAL HD
+http://aiptv.pro:8000/owm/owm/11273
+#EXTINF:-1,[AR]OSN Nickelodeon HD
+http://aiptv.pro:8000/owm/owm/5681
+#EXTINF:-1,[AR] OSN ACTION MOVIES HD
+http://aiptv.pro:8000/owm/owm/11252
+#EXTINF:-1,[AR] OSN BOX OFFICE 1
+http://aiptv.pro:8000/owm/owm/11257
+#EXTINF:-1,[AR] OSN BOX OFFICE 2
+http://aiptv.pro:8000/owm/owm/11258
+#EXTINF:-1,[AR] OSN BOX OFFICE 3
+http://aiptv.pro:8000/owm/owm/11259
+#EXTINF:-1,[AR] OSN FOX ACTION MOVIES HD
+http://aiptv.pro:8000/owm/owm/11265
+#EXTINF:-1,[AR] OSN FUEL HD
+http://aiptv.pro:8000/owm/owm/11266
+#EXTINF:-1,[AR] OSN MOVIES ACTION 1 HD
+http://aiptv.pro:8000/owm/owm/11269
+#EXTINF:-1,[AR] OSN MOVIES ACTION 2 HD
+http://aiptv.pro:8000/owm/owm/11270
+#EXTINF:-1,[AR] OSN MOVIES DRAMA 1
+http://aiptv.pro:8000/owm/owm/11271
+#EXTINF:-1,[AR] OSN MOVIES DRAMA 2
+http://aiptv.pro:8000/owm/owm/11272
+#EXTINF:-1,[AR] OSN MOVIES KIDS HD
+http://aiptv.pro:8000/owm/owm/11275
+#EXTINF:-1,[AR] OSN MOVIES PREMIERE 1 HD
+http://aiptv.pro:8000/owm/owm/11276
+#EXTINF:-1,[AR] OSN MOVIES PREMIERE 2 HD
+http://aiptv.pro:8000/owm/owm/11277
+#EXTINF:-1,[AR] OSN STAR GOLD
+http://aiptv.pro:8000/owm/owm/11292
+#EXTINF:-1,[AR] OSN STAR MOVIES HD
+http://aiptv.pro:8000/owm/owm/11293
+#EXTINF:-1,[AR] OSN STAR WORLD
+http://aiptv.pro:8000/owm/owm/11294
+#EXTINF:-1,[AR] OSN SERIES
+http://aiptv.pro:8000/owm/owm/11287
+#EXTINF:-1,[AR] OSN ANIMAL PLANET HD
+http://aiptv.pro:8000/owm/owm/11256
+#EXTINF:-1,[AR]OSN-HISTORY-HD
+http://aiptv.pro:8000/owm/owm/5679
+#EXTINF:-1,[AR]OSN Discovery Sc HD
+http://aiptv.pro:8000/owm/owm/5680
+#EXTINF:-1,[AR] OSN DISCOVERY HD
+http://aiptv.pro:8000/owm/owm/11260
+#EXTINF:-1,[AR] OSN DISCOVERY HISTORY
+http://aiptv.pro:8000/owm/owm/11261
+#EXTINF:-1,[AR] OSN DISCOVERY ID
+http://aiptv.pro:8000/owm/owm/11262
+#EXTINF:-1,[AR] OSN DISCOVERY SCIENCE
+http://aiptv.pro:8000/owm/owm/11263
+#EXTINF:-1,[AR] OSN FATAFEAT HD
+http://aiptv.pro:8000/owm/owm/11264
+#EXTINF:-1,[AR] OSN NICKELODEON HD
+http://aiptv.pro:8000/owm/owm/11281
+#EXTINF:-1,[AR] OSN SPORTS 1 HD
+http://aiptv.pro:8000/owm/owm/11288
+#EXTINF:-1,[AR] OSN SPORTS 2 HD
+http://aiptv.pro:8000/owm/owm/11289
+#EXTINF:-1,[AR] OSN SPORTS 3 HD
+http://aiptv.pro:8000/owm/owm/11290
+#EXTINF:-1,[AR] OSN SPORTS 4 HD
+http://aiptv.pro:8000/owm/owm/11291
+#EXTINF:-1,[AR] Osn WweHD
+http://aiptv.pro:8000/owm/owm/11295
+#EXTINF:-1,[AR] OSN ABU DHABI SPORTS 3
+http://aiptv.pro:8000/owm/owm/11250
+#EXTINF:-1,[AR] OSN ABU DHABI SPORTS 4
+http://aiptv.pro:8000/owm/owm/11251
