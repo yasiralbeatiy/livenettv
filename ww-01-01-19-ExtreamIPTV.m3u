@@ -1,312 +1,193 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS News
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) BEIN SPORTS News
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/17.ts
-#EXTINF:-1,beIN Sports 1 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 1 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/1.ts
-#EXTINF:-1,beIN Sports 2 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 2 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/2.ts
-#EXTINF:-1,beIN Sports 3 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 3 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/3.ts
-#EXTINF:-1,beIN Sports 4 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 4 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/4.ts
-#EXTINF:-1,beIN Sports 5 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 5 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/5.ts
-#EXTINF:-1,beIN Sports 6 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 6 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/6.ts
-#EXTINF:-1,beIN Sports 7 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 7 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/7.ts
-#EXTINF:-1,beIN Sports 8 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 8 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/8.ts
-#EXTINF:-1,beIN Sports 9 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 9 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/9.ts
-#EXTINF:-1,beIN Sports 10 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 10 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/10.ts
-#EXTINF:-1,Turkish beIN Sports 1 (TR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Turkish beIN Sports 1 (TR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/11.ts
-#EXTINF:-1,EuroSport 1 (FR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EuroSport 1 (FR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/12.ts
-#EXTINF:-1,EuroSport 2 (FR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EuroSport 2 (FR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/13.ts
-#EXTINF:-1,beIN Sports 1 HD (FR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 1 HD (FR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/14.ts
-#EXTINF:-1,beIN Sports 2 HD (FR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 2 HD (FR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/15.ts
-#EXTINF:-1,beIN Sports 3 HD (FR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 3 HD (FR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/16.ts
-#EXTINF:-1,OSN AD Sports 1 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) OSN AD Sports 1 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/18.ts
-#EXTINF:-1,OSN AD Sports 2 HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) OSN AD Sports 2 HD (AR)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/19.ts
-#EXTINF:-1,beIN Sports HD (ES)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports HD (ES)
 http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/20.ts
-#EXTINF:-1,Falcon Eye TV
-http://falconeyeiptv.sytes.net:1935/f1/f1live/chunklist_w265302484.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Abu Dhabi Sports HD 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Falcon Family HD
-http://212.126.119.126:1935/f2/f2live/chunklist_w273664158.m3u8
-#EXTINF:-1,Dubai Sports (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,US: RED BULL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) US: RED BULL
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,Real Madrid
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Real Madrid
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,TRT SPOR HD
-https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
-#EXTINF:-1,KASS SPORTS 1 (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) KASS SPORTS 1 (AR)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,A SPOR HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) A SPOR HD
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1,OSN WWE HD (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) OSN WWE HD (AR)
 http://www.freeiptvdaily.net:8000/live/niwBBhXJoT/ypqqMktwvy/39.ts
-#EXTINF:-1,Real Madrid TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Real Madrid TV (English)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,Dubai Sports (AR)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,SPORT TV 1
-https://livebar.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1,SPORT TV 2
-https://livebar.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1,SPORT TV 3
-https://livebar.pw/lba/123/g3/pt3sport.m3u8
-#EXTINF:-1,SPORT TV 4
-https://livebar.pw/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1,SPORT TV 5
-https://livebar.pw/lba/123/g9/ptsport5.m3u8
-#EXTINF:-1,SPORT TV 1
-https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1,SPORT TV 2
-https://vip7stream.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1,SPORT TV 3
-https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
-#EXTINF:-1,SPORT TV 4
-https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1,SPORT TV 5
-https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
-#EXTINF:-1,SPORT TV 2HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SPORT TV 2HD
 https://185-125-230-172.livesports24.online/portugalsport2.m3u8
-#EXTINF:-1,Supersport 2
-https://livebar.pw/lba/123/g7/ss2al.m3u8
-#EXTINF:-1,Supersport 3
-https://livebar.pw/lba/123/g5/albaniasport3.m3u8
-#EXTINF:-1,Supersport 4
-https://livebar.pw/lba/123/g7/super4sport.m3u8
-#EXTINF:-1,Supersport 2
-https://vip7stream.pw/lba/123/g7/ss2al.m3u8
-#EXTINF:-1,Supersport 3
-https://vip7stream.pw/lba/123/g5/albaniasport3.m3u8
-#EXTINF:-1,Supersport 4
-https://vip7stream.pw/lba/123/g7/super4sport.m3u8
-#EXTINF:-1,bein turkey 1 
-https://livebar.pw/lba/123/g7/beinsport1tur.m3u8
-#EXTINF:-1,bein turkey 2
-https://livebar.pw/lba/123/g6/turbein2sport.m3u8
-#EXTINF:-1,bein turkey 3
-https://livebar.pw/lba/123/g8/bein3turkey.m3u8
-#EXTINF:-1,bein turkey 1
-https://vip7stream.pw/lba/123/g7/beinsport1tur.m3u8
-#EXTINF:-1,bein turkey 2
-https://vip7stream.pw/lba/123/g6/turbein2sport.m3u8
-#EXTINF:-1,bein turkey 3
-https://vip7stream.pw/lba/123/g8/bein3turkey.m3u8
-#EXTINF:-1,bein turkey 3
-https://vip7stream.pw/lba/123/g9/rs3sk.m3u8
-#EXTINF:-1,Digi Sport 1
-https://livebar.pw/lba/123/g4/ds1ro.m3u8
-#EXTINF:-1,Digi Sport 2
-https://livebar.pw/lba/123/g1/digisport2ro.m3u8
-#EXTINF:-1,ARENA SPORT 1
-https://livebar.pw/lba/123/g7/arena1rs.m3u8
-#EXTINF:-1,ARENA SPORT 2
-https://livebar.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1,ARENA SPORT 3
-https://livebar.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1,ARENA SPORT 4
-https://livebar.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-https://livebar.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1,ARENA SPORT 1
-https://vip7stream.pw/lba/123/g7/arena1rs.m3u8
-#EXTINF:-1,ARENA SPORT 2
-https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1,ARENA SPORT 3
-https://vip7stream.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1,ARENA SPORT 4
-https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1,sportklub 1
-https://livebar.pw/lba/123/g1/sportklub1rs.m3u8
-#EXTINF:-1,sportklub 2
-https://livebar.pw/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1,sportklub 3
-https://livebar.pw/lba/123/g9/rs3sk.m3u8
-#EXTINF:-1,sportklub 1
-https://vip7stream.pw/lba/123/g1/sportklub1rs.m3u8
-#EXTINF:-1,sportklub 2
-https://vip7stream.pw/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1,bt sport 1
-https://livebar.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,bt sport 2
-https://livebar.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,bt sport 3
-https://livebar.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,BT SPORT ESPN
-https://livebar.pw/lba/123/g6/espnbt.m3u8
-#EXTINF:-1,bt sport 1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,bt sport 2
-https://vip7stream.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,bt sport 3
-https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,BT SPORT ESPN
-https://vip7stream.pw/lba/123/g6/espnbt.m3u8
-#EXTINF:-1,KAZSPORT 
-https://livebar.pw/lba/123/g2/qazsportkz.m3u8
-#EXTINF:-1,SETANTA SPORTS +
-https://livebar.pw/lba/123/g6/setantarus.m3u8
-#EXTINF:-1,SETANTA SPORTS +
-https://vip7stream.pw/lba/123/g6/setantarus.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
-https://livebar.pw/lba/123/g1/seteurasiaplus.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
-https://vip7stream.pw/lba/123/g1/seteurasiaplus.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-https://livebar.pw/lba/123/g6/footballsky.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-https://vip7stream.pw/lba/123/g6/footballsky.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-https://livebar.pw/lba/123/g5/skymainuk.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-https://vip7stream.pw/lba/123/g5/skymainuk.m3u8
-#EXTINF:-1,VIASAT FOOTBALL
-https://livebar.pw/lba/123/g1/sweviafootball.m3u8
-#EXTINF:-1,VIASAT PREMIUM
-https://livebar.pw/lba/123/g3/viasatpremiumsw.m3u8
-#EXTINF:-1,VIASAT PREMIUM
-https://vip7stream.pw/lba/123/g3/viasatpremiumsw.m3u8
-#EXTINF:-1,belarus-5
-https://livebar.pw/lba/123/g2/bel555.m3u8
-#EXTINF:-1,sport ukraine 1
-https://livebar.pw/lba/123/g5/sport1ukraine.m3u8
-#EXTINF:-1,sport ukraine 2
-https://185-8-178-140.livesports24.online/uasport2ua.m3u8
-#EXTINF:-1,rusfootball
-https://vip7stream.pw/lba/123/g1/rusfootball.m3u8
-#EXTINF:-1,Match
-https://livebar.pw/lba/123/g1/rusmatchtv.m3u8
-#EXTINF:-1,Match Fudbal 1
-https://livebar.pw/lba/123/g2/mfootball1.m3u8
-#EXTINF:-1,Match Fudbal 2
-https://livebar.pw/lba/123/g5/rumatchf2.m3u8
-#EXTINF:-1,Match Fudbal 3
-https://livebar.pw/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,Match
-https://vip7stream.pw/lba/123/g1/rusmatchtv.m3u8
-#EXTINF:-1,Match Fudbal 1
-https://vip7stream.pw/lba/123/g2/mfootball1.m3u8
-#EXTINF:-1,Match Fudbal 2
-https://vip7stream.pw/lba/123/g5/rumatchf2.m3u8
-#EXTINF:-1,Match Fudbal 3
-https://vip7stream.pw/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,mpremier
-https://livebar.pw/lba/123/g3/mpremier.m3u8
-#EXTINF:-1,Digi Sport 1
-https://vip7stream.pw/lba/123/g4/ds1ro.m3u8
-#EXTINF:-1,Digi Sport 2
-https://vip7stream.pw/lba/123/g1/digisport2ro.m3u8
-#EXTINF:-1,btsport 1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,btsport 2
-https://vip7stream.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,btsport 3
-https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,futbol-1-uk 
-https//livebar.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1,futbol-2-uk
-https://livebar.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1,futbol-1-uk
-https://vip7stream.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1,futbol-2-uk
-https://vip7stream.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1,TSN 1
-https://livebar.pw/lba/123/g9/ca1tsn.m3u8
-#EXTINF:-1,SETANTA SPORTS +
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SETANTA SPORTS +
 http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1,SETANTA SPORTS EURASIA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SETANTA SPORTS EURASIA
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:0 group-title="AR: _",AR: ARRYADIA 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: _", (ONLINE) AR: ARRYADIA
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Sky TG24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
-http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 1 (1+) HD
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 1 (2+) HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 2 HD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 (1+) HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 2 (1+) HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: ABU DHABI SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: BAHRAIN SPORTS
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia", (ONLINE) AR: YAS SPORTS UPDATED
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAG TV PUNTA ARENAS 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG: Argentina", (ONLINE) ARG: UMAG TV PUNTA ARENAS
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG: Argentina", (ONLINE) ARG: UMAGTV 2 PUNTA ARENAS
 http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
-#EXTINF:0 group-title="IN: India",IN: DONBAS TV 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IN: India", (ONLINE) IN: DONBAS TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MX: Mexico", (ONLINE) MX: TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 
-http://51.15.182.233/hls/sebn4.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME 
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SP: Spain", (ONLINE) SP: FIGHT TIME (1+)
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UA: Ukraine", (ONLINE) UA: DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UA: Ukraine", (ONLINE) UA: XSPORT
 http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN 2 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: ESPN NEWS ENGLISH
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: FOX SPORTS RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: MLB NETWORK (1+)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: MLB NETWORK PUBLIC-SPORTS ENGLISH
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
-#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: ONE CHANNEL SPORTS ARABIC
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (1+) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: RED BULL TV (1+)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States", (ONLINE) US: RED BULL TV (2+)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 group-title="US: United States",US: SPORTS 
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WW: World Wide", (ONLINE) WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WW: World Wide", (ONLINE) WW: MLB LIVE
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Smash Sports" tvg-logo="http://136.243.80.153/evotv%20icons/maltese/smash%20sports.png" group-title="Smash Communications",Smash Sports
-http://144.76.182.50:25461/live/smash/smash/4.ts
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| beINSPORTS NEWS HD
 http://iptvpro.vision-new.org:8789/Hayat/123456/135
@@ -386,9 +267,6 @@ http://iptvpro.vision-new.org:8789/Hayat/123456/2769
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN SPORTSMAX 2 HD BKP
 http://iptvpro.vision-new.org:8789/Hayat/123456/2770
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEINSPORTSMAX 3  HD
-http://iptvpro.vision-new.org:8789/Hayat/123456/13773
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEINSPORTSMAX 4  HD
 http://iptvpro.vision-new.org:8789/Hayat/123456/13772
 
@@ -467,12 +345,6 @@ http://iptvpro.vision-new.org:8789/Hayat/123456/14990
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR|BEIN_SPORTS_3.HD-H265
 http://iptvpro.vision-new.org:8789/Hayat/123456/8874
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR|BEIN_SPORTS_6.HD-H265
-http://iptvpro.vision-new.org:8789/Hayat/123456/8871
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR|BEIN_SPORTS_7.HD-H265
-http://iptvpro.vision-new.org:8789/Hayat/123456/8870
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEOUTQ SPORT 1 HD
 http://iptvpro.vision-new.org:8789/Hayat/123456/14035
 
@@ -485,26 +357,23 @@ http://iptvpro.vision-new.org:8789/Hayat/123456/2130
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN STAR MOVIES HD
 http://iptvpro.vision-new.org:8789/Hayat/123456/4148
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN FX HD
-http://iptvpro.vision-new.org:8789/Hayat/123456/1359
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/1.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN FOX ACTION
-http://iptvpro.vision-new.org:8789/Hayat/123456/290
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/2.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN FOX FAMILY
-http://iptvpro.vision-new.org:8789/Hayat/123456/1416
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/3.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN TCM
-http://iptvpro.vision-new.org:8789/Hayat/123456/11581
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/4.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN JEEM
-http://iptvpro.vision-new.org:8789/Hayat/123456/772
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/5.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN DISCOVERY KIDS
-http://iptvpro.vision-new.org:8789/Hayat/123456/10113
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN DREAMWORKS
-http://iptvpro.vision-new.org:8789/Hayat/123456/276
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/O7ofxdRvHa/ypqqMktwvy/6.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN BABY TV
 http://iptvpro.vision-new.org:8789/Hayat/123456/1641
@@ -518,9 +387,6 @@ http://iptvpro.vision-new.org:8789/Hayat/123456/10799
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN CARTOON NETWORK
 http://iptvpro.vision-new.org:8789/Hayat/123456/11584
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN JUNIOR
-http://iptvpro.vision-new.org:8789/Hayat/123456/2079
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN SERIES HD 1
 http://iptvpro.vision-new.org:8789/Hayat/123456/1944
 
@@ -530,16 +396,8 @@ http://iptvpro.vision-new.org:8789/Hayat/123456/8765
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN DRAMA HD 1
 http://iptvpro.vision-new.org:8789/Hayat/123456/2795
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| BEIN STARWORLD HD
-http://iptvpro.vision-new.org:8789/Hayat/123456/654
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) |AR| FATAFEAT
 http://iptvpro.vision-new.org:8789/Hayat/123456/1354
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-http://bit.ly/TestadorIPTVVideoApresentacao
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Channel
 http://micine.club:25461/7777777/7777777/2053
@@ -615,9 +473,6 @@ http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27966
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Kids HD
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27964
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Kids SD
-http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27963
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Science FHD
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27962
@@ -735,7 +590,4 @@ http://micine.club:25461/7777777/7777777/1986
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery HD
 http://micine.club:25461/7777777/7777777/1985
-
-
-
 
