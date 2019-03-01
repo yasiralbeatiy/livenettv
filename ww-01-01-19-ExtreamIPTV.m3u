@@ -305,3 +305,205 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smash Sports" tvg-logo="http://136.243.80.153/evotv%20icons/maltese/smash%20sports.png" group-title="Smash Communications",Smash Sports
 http://144.76.182.50:25461/live/smash/smash/4.ts
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Channel
+http://micine.club:25461/7777777/7777777/2053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Civilization
+http://micine.club:25461/7777777/7777777/2052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery HH
+http://micine.club:25461/7777777/7777777/2051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids
+http://micine.club:25461/7777777/7777777/2050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids HD
+http://micine.club:25461/7777777/7777777/2049
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Science
+http://micine.club:25461/7777777/7777777/2048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Theater
+http://micine.club:25461/7777777/7777777/2047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC
+http://micine.club:25461/7777777/7777777/2046
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC HD
+http://micine.club:25461/7777777/7777777/2045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Turbo
+http://micine.club:25461/7777777/7777777/2044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery World
+http://micine.club:25461/7777777/7777777/2043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery
+http://micine.club:25461/7777777/7777777/1986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery HD
+http://micine.club:25461/7777777/7777777/1985
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Channel FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Channel HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Channel HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Channel SD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27973
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Civilization FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Civilization HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Civilization HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery H&H FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery H&H HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery H&H HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Kids FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Kids HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27964
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Kids SD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Science FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Science HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Science HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Theater HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27957
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Theater HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Turbo FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27955
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Turbo HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27954
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery Turbo HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery World HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27952
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Discovery World HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) ID: Investigacao Discovery FHD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27818
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) ID: Investigacao Discovery HD
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27816
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) ID: Investigacao Discovery HD [Alter]
+http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Channel
+http://micine.club:25461/12345/12345/2053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Civilization
+http://micine.club:25461/12345/12345/2052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery HH
+http://micine.club:25461/12345/12345/2051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids
+http://micine.club:25461/12345/12345/2050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids HD
+http://micine.club:25461/12345/12345/2049
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Science
+http://micine.club:25461/12345/12345/2048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Theater
+http://micine.club:25461/12345/12345/2047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC
+http://micine.club:25461/12345/12345/2046
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC HD
+http://micine.club:25461/12345/12345/2045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Turbo
+http://micine.club:25461/12345/12345/2044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery World
+http://micine.club:25461/12345/12345/2043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery
+http://micine.club:25461/12345/12345/1986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery HD
+http://micine.club:25461/12345/12345/1985
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Channel
+http://micine.club:25461/7777777/7777777/2053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Civilization
+http://micine.club:25461/7777777/7777777/2052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery HH
+http://micine.club:25461/7777777/7777777/2051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids
+http://micine.club:25461/7777777/7777777/2050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Kids HD
+http://micine.club:25461/7777777/7777777/2049
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Science
+http://micine.club:25461/7777777/7777777/2048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Theater
+http://micine.club:25461/7777777/7777777/2047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC
+http://micine.club:25461/7777777/7777777/2046
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery TLC HD
+http://micine.club:25461/7777777/7777777/2045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery Turbo
+http://micine.club:25461/7777777/7777777/2044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Discovery World
+http://micine.club:25461/7777777/7777777/2043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery
+http://micine.club:25461/7777777/7777777/1986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentry", (DOUBTFUL) Cultura | Investigation Discovery HD
+http://micine.club:25461/7777777/7777777/1985
+
+
+
+
